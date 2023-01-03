@@ -6,6 +6,7 @@ Python科学计量数据可视化
 
 
 引用格式:李显，李杰编著.Python科学计量数据可视化[M].北京：首都经济贸易大学出版社.2023.
+
 李杰. http://blog.sciencenet.cn/u/jerrycueb.
+
 李显. https://blog.csdn.net/lys_828.
-![image](https://user-images.githubusercontent.com/52535493/210346907-e41b6692-2565-4ccd-8a72-ee104cc19cb0.png)
