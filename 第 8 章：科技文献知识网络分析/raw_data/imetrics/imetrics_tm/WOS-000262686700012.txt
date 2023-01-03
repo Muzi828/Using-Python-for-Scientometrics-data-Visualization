@@ -1,0 +1,1 @@
+Hirsch-type indices are devised for characterizing networks and network elements. Their actual use is demonstrated on scientometric examples, and the potential value of the concept on a practically unlimited range of networks is suggested.

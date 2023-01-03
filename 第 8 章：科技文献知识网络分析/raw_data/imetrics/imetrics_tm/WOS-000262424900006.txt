@@ -1,0 +1,1 @@
+We propose a new data source (Google Scholar) and metric (Hirsch's h-index) to assess journal impact in the field of economics and business. A systematic comparison between the Google Scholar h-index and the ISI Journal Impact Factor for a sample of 838 journals in economics and business shows that the former provides a more accurate and comprehensive measure of journal impact.

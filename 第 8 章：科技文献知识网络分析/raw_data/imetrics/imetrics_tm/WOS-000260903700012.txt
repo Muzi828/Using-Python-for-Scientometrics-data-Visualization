@@ -1,0 +1,1 @@
+The g-index is a well-known index for measuring and comparing the output of scientific researchers, which has been introduced by Leo Egghe in 2006 as an improvement of the Hirsch-index. This article gives an axiomatic characterization of the g-index in terms of three natural axioms. (C) 2008 Elsevier Ltd. All rights reserved.

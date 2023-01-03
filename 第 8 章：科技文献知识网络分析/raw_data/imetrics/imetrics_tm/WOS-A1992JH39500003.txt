@@ -1,0 +1,1 @@
+Metric models in which indicator distribution and a priori assigned latent distributions coincide in form are developed.

@@ -1,0 +1,1 @@
+Journal self-citation is one of the crucial bibliometric indicators, which measures the contribution of a journal towards a speciality. Journal self-citation rate is normalised by adapting a two stage refinement. The normalised self-citing rates are compared with external cited rate to know the self and external influence of journals.

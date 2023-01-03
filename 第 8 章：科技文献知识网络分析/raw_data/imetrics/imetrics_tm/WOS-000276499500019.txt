@@ -1,0 +1,1 @@
+Journals covered by the 2006 Science Citation Index Journal Citation Reports database have been subjected to a clustering procedure utilizing h-similarity as the underlying similarity measure. Clustering complemented with a prototyping routine provided well-conceivable results that are both compatible with and further refine existing taxonomies of science.

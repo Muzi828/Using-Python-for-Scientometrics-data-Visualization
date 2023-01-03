@@ -1,0 +1,5 @@
+The following problem has never been studied : Given A, the total number of items (e.g. articles) and T, the total number of sources (e.g. journals that contain these articles) (hence A>T), when is there a Lotka function
+f(j) = D/j(alpha)
+that represents this situation (i.e. where to) denotes the density of the sources in the item-density j)? And, if it exists, what are the formulae for D and alpha? This problem is solved in both cases with j is an element of [1, rho]: where (a) rho = infinity and where (b) rho < &INFIN;. Note that p = the maximum density of the items. If &rho; = &INFIN;, then A and T determine uniquely D and &alpha;. If &rho; < infinity, then we have, for every alpha less than or equal to 2, a solution for D and rho, hence for f. If rho < &INFIN; and &alpha; > 2 then we show that a solution exists if and only if
+mu = A/T < &alpha;-1/&alpha;-2.
+This sheds some light on the source-item coverage power of Lotka's law.

@@ -1,0 +1,5 @@
+Background: Publication and citation rates mark the research activity and research quality of scientists.
+Question: Are bibliometric indicators valid instruments for early recognition of high quality researchers?
+Subjects and methods: The number of publications and citations of 26 assistant, associate and full professors of German psychiatry born after 1947 was analysed in their 30(th) and 31(st) year of age and between 1996 and 2000.
+Results: 58% of the selected 30 or 31 year old scientists had at least one publication in a journal with an impact factor, 93% of these as first or single author. 42% in this age group were at least cited once. Publication and citation rates in the early stage of a career provide hints on the later bibliometric data and the academic degree of scientists.
+Conclusion: High quality researchers can be recognised early in their careers by means of worldwide accessible bibliometric indicators.

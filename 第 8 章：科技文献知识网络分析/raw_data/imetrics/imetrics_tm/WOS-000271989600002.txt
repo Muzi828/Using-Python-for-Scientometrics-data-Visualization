@@ -1,0 +1,1 @@
+The mean citations per paper is used increasingly as a simple metric for indicating the impact of a journal or comparing journal rankings. While convenient, we suggest that it has limitations given the highly skewed distributions of citations per paper in a wide range of journals.

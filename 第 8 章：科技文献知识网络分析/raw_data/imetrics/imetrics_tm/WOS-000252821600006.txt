@@ -1,0 +1,1 @@
+This paper introduces a grammar for Arabic nominal sentences written in the formalism of Head-Driven Phrase Structure Grammar (HPSG). This grammar covers simple Arabic nominal sentences, though the same approach can be extended to cover other types of Arabic nominal sentences. The formalization has been implemented using the Linguistic Knowledge Building (LKB) system.

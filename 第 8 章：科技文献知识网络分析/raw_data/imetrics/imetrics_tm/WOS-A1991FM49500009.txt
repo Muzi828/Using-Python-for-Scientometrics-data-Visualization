@@ -1,0 +1,1 @@
+Simple relations were found between Relative Citation Rate (RCR), Relative Subfield Citedness (R(w)) and Subfield Publication Strategy (P(s)) indicators.  The R(w) indicator is supposed to be more characteristic of the international scientific impact of papers than RCR using mean citation rate of journals representing the respective subfield, as standard.

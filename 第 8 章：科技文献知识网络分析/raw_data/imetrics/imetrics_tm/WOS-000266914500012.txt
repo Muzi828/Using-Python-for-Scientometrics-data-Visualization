@@ -1,0 +1,1 @@
+This paper analysis the distribution of some characteristics of computer scientists in Brazil according to regions and gender. Computer scientist is defined as the faculty of a graduate level computer science department. Under this definition, there were 886 computer scientists in Brazil in November 2006.

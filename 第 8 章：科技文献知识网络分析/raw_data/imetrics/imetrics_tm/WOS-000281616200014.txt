@@ -1,0 +1,1 @@
+In this paper, a simple relation between the Leimkuhler curve and the mean residual life is established. The result is illustrated with several models commonly used in informetrics, such as exponential, Pareto and lognormal. Finally, relationships with some other reliability concepts are also presented. (C) 2010 Elsevier Ltd. All rights reserved.

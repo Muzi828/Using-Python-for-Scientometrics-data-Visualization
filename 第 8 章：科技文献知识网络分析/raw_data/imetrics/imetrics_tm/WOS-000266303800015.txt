@@ -1,0 +1,1 @@
+This paper introduces the generalized Egghe-indices as a new family of scientific impact measures for ranking the output of scientific researchers. The definition of this family is strongly inspired by Egghe's well-known g-index. The main contribution of the paper is a family of axiomatic characterizations that characterize every generalized Egghe-index in terms of four axioms.

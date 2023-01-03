@@ -1,0 +1,1 @@
+One way of evaluating individual scientists is the determination of the number of highly cited publications, where the threshold is given by a large reference set. It is shown that this indicator behaves in a counterintuitive way, leading to inconsistencies in the ranking of different scientists.

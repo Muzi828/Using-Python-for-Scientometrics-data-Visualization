@@ -1,0 +1,1 @@
+The h-index and Eigenfactor (TM) values of top and specialized scientific/engineering journals are tabulated and combined to provide a simple graphical representation of the journals. The information may be tailored to specific uses by respective stakeholders to aid decision making processes with regards to scholarly research and scientific journal publications.

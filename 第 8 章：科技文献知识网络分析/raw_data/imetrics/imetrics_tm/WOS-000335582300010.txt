@@ -1,0 +1,2 @@
+A model based on a set of bibliometric indicators is proposed for the prediction of the ranking of applicants to an academic position as produced by a committee of peers. The results show that a very small number of indicators may lead to a robust prediction of about 75% of the cases.
+We start with 12 indicators to build a few composite indicators by factor analysis. Following a discrete choice model, we arrive at 3 comparatively good predicative models. We conclude that these models have a surprisingly good predictive power and may help peers in their selection process.

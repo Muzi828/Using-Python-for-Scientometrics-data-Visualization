@@ -1,0 +1,1 @@
+This paper aims at contributing to the on-going discussion about building and applying bibliometric indicators. It sheds light on their properties and requirements concerning six different aspects: deterministic versus probabilistic approach, application-related properties, the time dependence, normalization issues, size dependence and network indicators.

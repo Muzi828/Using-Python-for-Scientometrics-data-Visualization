@@ -1,0 +1,5 @@
+The g-index is introduced as an improvement of the h-index of Hirsch to measure the global citation performance of a set of articles. If this set is ranked in decreasing order of the number of citations that they received, the g-index is the (unique) largest number such that the top g articles received (together) at least g(2) citations. We prove the unique existence of g for any set of articles and we have that g 3 h.
+The general Lotkaian theory of the g-index is presented and we show that
+g = (alpha-1/alpha-2)T-alpha-1/alpha(1/alpha)
+where alpha > 2 is the Lotkaian exponent and where T denotes the total number of sources.
+We then present the g-index of the (still active) Price medallists for their complete careers up to 1972 and compare it with the h-index. It is shown that the g-index inherits all the good properties of the h-index and, in addition, better takes into account the citation scores of the top articles. This yields a better distinction between and order of the scientists from the point of view of visibility.

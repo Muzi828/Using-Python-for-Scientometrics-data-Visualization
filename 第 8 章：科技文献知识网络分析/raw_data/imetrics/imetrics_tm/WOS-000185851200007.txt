@@ -1,0 +1,1 @@
+Egghe has propounded the notion of Type/Token-Taken (T/TT) informetrics. In this note we show how his ideas relate to ones that are already well known in informetrics and resolve some of the specific problems posed.

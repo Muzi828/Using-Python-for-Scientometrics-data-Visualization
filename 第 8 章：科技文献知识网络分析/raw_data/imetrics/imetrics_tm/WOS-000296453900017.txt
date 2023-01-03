@@ -1,0 +1,1 @@
+The approach based on "thermodynamic" considerations that can quantify research performance using an exergy term defined as X = iC, where i is the impact and C is the number of citations is now extended to cases where fractionalized counting of citations is used instead of integer counting.

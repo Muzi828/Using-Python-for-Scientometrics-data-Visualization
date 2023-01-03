@@ -1,0 +1,1 @@
+A recently proposed stochastic model to describe the citation process in the presence of obsolescence is used to answer the question: If a paper has not been cited by time t after its publication, what is the probability that it will ever be cited?

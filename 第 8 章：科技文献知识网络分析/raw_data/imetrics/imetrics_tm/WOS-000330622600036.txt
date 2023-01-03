@@ -1,0 +1,1 @@
+It is shown that the "Jaccardized Czekanowski index" is actually a reinterpretation of the Ruzicka index. Thereby, it is proved that its one-complement is a true distance function, which makes it particularly suitable for use in similarity studies even with multidimensional statistical techniques.

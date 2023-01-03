@@ -1,0 +1,1 @@
+Using a very small sample of 8 data sets it was recently shown by De Visscher (2011) that the g-index is very close to the square root of the total number of citations. It was argued that there is no bibliometrically meaningful difference. Using another somewhat larger empirical sample of 26 data sets I show that the difference may be larger and I argue in favor of the g-index.

@@ -1,0 +1,1 @@
+This paper gives an overview of the role of ambiguity in measurement and explores analytical methods for exploring its impact. It is argued that certain functional forms are more resilient than others to problems of ambiguity, and that these should be preferred when ambiguity is a serious concern.

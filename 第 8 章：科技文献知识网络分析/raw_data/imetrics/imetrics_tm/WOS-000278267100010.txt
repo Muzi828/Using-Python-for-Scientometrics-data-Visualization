@@ -1,0 +1,1 @@
+A relation, established by Andras Schubert (Scientometrics 78(3): 559-565, 2009) on the relation between a paper's h-index and its total number of received citations, is explained. The relation is a concavely increasing power law and is explained based on the Lotkaian model for the h-index, proved by Egghe and Rousseau.

@@ -1,0 +1,1 @@
+In this paper we discuss geometrical properties of 'information space' as represented by the phenomenon of co-citation clustering.  More specifically, the size distribution of co-citation clusters is studied and interpreted in terms of fractal dimensions.

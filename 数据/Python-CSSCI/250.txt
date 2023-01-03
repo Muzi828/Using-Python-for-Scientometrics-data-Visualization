@@ -1,0 +1,2011 @@
+南京大学中国社会科学研究评价中心
+数字文献处理系统 版本：2.1
+版权所有 (C) 2000 - 2001 CSSCI Corp.
+
+
+【来源篇名】论艾森豪威尔政府的朝鲜停战政策（1953-1960）——以美国国家安全文件为基础的考察
+【英文篇名】On Eisenhower Administration\'s Korean Armistice Policy, 1953-1960, Based on a Close Reading of the United States National Security Archives
+【来源作者】冯东兴
+【基    金】国家社会科学基金青年项目(12CGJ004)/中国博士后科学基金(2018M630814)
+【期    刊】首都师范大学学报(社会科学版)
+【第一机构】河南大学
+【机构名称】[冯东兴]河南大学.哲学与公共管理学院
+【第一作者】冯东兴
+【中图类号】D81
+【年代卷期】2018,(040):28-37
+【关 键 词】艾森豪威尔政府/朝鲜停战/美韩关系/国家安全/朝鲜半岛政策
+【基金类别】
+【参考文献】
+1.艾登,安东尼.艾登回忆录（中册）.北京:商务印书馆
+2.刘晓原.东亚冷战的序幕:中美战时外交中的朝鲜问题.史学月刊.2009.(7)
+3..No. 252. Briefing Book Paper: Interim Administration for Korea and Possible Soviet Attitudes:FRUS, 1945.Washington D. C.:Government Printing Office,1960:313
+4.杜鲁门,哈里.杜鲁门回忆录（下卷）.北京:东方出版社
+5..Report by the Ad Hoc Committee on Korea, August 4, 1947:FRUS, 1947.Washington:United States Government Printing Office,1972:706-709
+6.Goodrich,Leland M.Korea: A Study of U. S. Policy in the United Nations:33-34
+7.Hart-Landsberg,Martin.Korea: Division, Reunification, and U. S. Foreign Policy:86
+8..Report by the National Security Council on the Position of the United States With Respect to Korea, NSC8, April 2, 1948:FRUS,1948:1163-1169
+9..Report by the National Security Council to the President, NSC 8/2, March 22, 1949:FRUS, 1949:969-978
+10.Memorandum for Executive Secretary National Security Council about United States Policy toward Asia, June 10, 1949
+11.A Report to the President by the National Security Council on the Position of the United States with Respect to Asia, December 30, 1949
+12.Kesaris,Paul.Reel 2:Documents of the National Security Council, 1947-1977.Washington D. C.:UPA,1980
+13.艾奇逊,迪安.艾奇逊回忆录.上海:上海译文出版社
+14.世界知识出版社.中美关系资料汇编（第2辑）.北京:世界知识出版社
+15..Reel 2·A Report to the President by the National Security Council on United States Courses of Action with Respect to Korea, September 9, 1950:Documents of the National Security Council, 1947-1977.Washington D. C.:UPA,1980:308-319
+16..Note by the Executive Secretary (Lay) to the National Security Council, April 2, 1953:FRUS, 1952-1954.Washington:United States Government Printing Office,1984:838-857
+17..Memorandum of Discussion at the 139th Meeting of the National Security Council, Wednesday, April 8, 1953:FRUS, 1952-1954:892-895
+18.Draft Statement of Policy Proposed by the National Security Council, June 15, 1953
+19..Draft Paper for Submission to the Planning Board of the National Security Council, June 15, 1953:FRUS, 1952-1954:1180-1183
+20..Report by the National Security Council Planning Board Submitted to the National Security Council, June 25, 1953:FRUS, 1952-1954:1272-1274
+21..Memorandum by the Executive Secretary (Lay) to the National Security Council, June 17, 1953:FRUS, 1952-1954:1189-1191
+22..Memorandum by the Joint Chiefs of Staff to the Secretary of Defense, June 30, 1953:FRUS, 1952-1954:1288-1291
+23..Memorandum of Discussion at the 152d Meeting of the National Security Council, July 2, 1953:FRUS, 1952-1954:1300-1309
+24.NSC 154/1: U. S. Tactics Immediately Following an Armistice in Korea, July 7, 1953, Date: Jul 07, 1953-Jul 07, 1953, Accession #: 002944-003-0787, Found in: Documents of the National Security Council, 1947-1977, Basic Set
+25..State of Policy by the National Security Council, July 7, 1953:FRUS, 1952-1954:1341-1344
+26..Report by the National Security Council, July 7, 1953:FRUS, 1952-1954:1344-1346
+27..Secretary of State to the United States Representative at the United Nations (Lodge), August 13, 1953:FRUS, 1952-1954:1492-1493
+28.刘金质.中国对朝鲜和韩国政策文件汇编，1953-1957（第2卷）.北京:中国社会科学出版社
+29.NSC 167: United States Policy in the Event of a Failure of the Korean Political Conference, 1953Date: Jan 01, 1953-Dec 31, 1953, Accession #: 002951-003-0001, Found in: Documents of the National Security Council, 7th Supplement
+30..Memorandum of Discussion at the 145th Meeting of the National Security Council, May 20, 1953:FRUS, 1952-1954:1064-1068
+31..Ambassador in Korea (Briggs) to the Department of State, November 2, 1953:FRUS, 1952-1954:1580-1583
+32.NSC 167/1: U. S. Courses of Action in Korea in the Absence of an Acceptable Political Settlement, November 2, 1953
+33.Date: Nov 02, 1953-Nov 02, 1953, Accession #: 002950-001-0435, Found in: Documents of the National Security Council, 2nd Supplement
+34.NSC 167/2: U. S. Courses of Action in Korea in the Absence of an Acceptable Political Settlement, November 6, 1953, Date: Nov 06, 1953-Nov 06, 1953, Accession #: 002950-001-0440, Found in: Documents of the National Security Council, 2nd Supplement
+35..Report by the Executive Secretary (Lay) to the National Security Council, November 6, 1953:FRUS, 1952-1954:1598-1599
+36..Draft Report by the National Security Planning Board of the National Security Council, November 9, 1953:FRUS, 1952-1954:1600-1606
+37.Macdonald,Donald Stone.U. S.-Korean Relations from Liberation to Self-Reliance: The Twenty-Year Record.Boulder:Westview Press
+38..Report by the Executive Secretary (Lay) to the National Security Council, November 20, 1953:FRUS, 1952-1954:1620-1624
+39..Second Progress by the Operations Coordinating Board to the National Security Council on NSC 170/1, December 29, 1954:FRUS, 1952-1954:1945
+40..Memorandum of Discussion at the 235th Meeting of the National Security Council, Washington, February 3, 1955:FRUS, 1955-1957:17-18
+41.NSC 5514: U. S. Objectives and Courses of Action in Korea. Executive Secretary, NSC. February 25, 1955, Date: Feb 25, 1955-Feb 25, 1955, Accession #: 002946-001-0732, Found in: Documents of the National Security Council, 5th Supplement
+42..National Security Council Report, February 25, 1955:FRUS, 1955-1957:42-48
+43..Memorandum of Discussion at the 245th Meeting of the National Security Council, April 21, 1955:FRUS, 1955-1957:68-70
+44..Memorandum of a Conversation, Department of State, June 18, 1955:FRUS, 1955-1957:114
+45..Progress Report Prepared by the Operations Coordinating Board, July 18, 1956:FRUS, 1955-1957:292-297
+46..Memorandum from the Joint Chiefs Staff to the Secretary of Defense (Wilson), October 11, 1956:FRUS, 1955-1957:322-325
+47..NSC 5702: Evaluation of Alternative Military Programs for Korea, 1957, Date: Jan 01, 1957-Dec 31, 1957, Accession #: 002951-006-0001, Found in: Documents of the National Security Council, 7th Supplement; National Security Council Report: NSC5702, January:FRUS, 1955-1957:374-384
+48.陈波.“威慑”与“禁忌”:艾森豪威尔政府在韩国的核部署.历史研究.2012.(2)
+49..Memorandum of Discussion at the 311th Meeting of the National Security Council, Washington, January 31, 1957:FRUS, 1955-1957:394-395
+50..Memorandum of Discussion at the 318th Meeting of the National Security Council, Washington, April 4, 1957:FRUS, 1955-1957:422-426
+51..Record of a Meeting, Department of State, Washington, April 23, 1957:FRUS, 1955-1957:427-431
+52..Editorial Note:FRUS, 1955-1957:432-433
+53..Memorandum of Discussion at the 326th Meeting of the National Security Council, Washington, June 13, 1957:FRUS, 1955-1957:443-454
+54..National Security Council Report, NSC5702/2, August 9, 1957:FRUS, 1955-1957:489-498
+55..National Security Council Report, NSC5817, August 11, 1958:FRUS, 1958-1960:483-491
+56.NSC 6018: U. S. Policy toward Korea. Executive Secretary, NSC. November 28, 1960, Accession #: 002946-002-0518, Found in: Documents of the National Security Council, 5th Supplement
+57.NSC 6018/1: U. S. Policy toward Korea. Executive Secretary, NSC. January 18, 1961, Date: Jan 18, 1961-Jan 18, 1961, Accession #: 002946-002-0564, Found in: Documents of the National Security Council, 5th Supplement
+58..Report to the National Security Council by the Executive Secretary (Lay), October 30, 1953:FRUS, 1952-1954.Washington:United States Government Printing Office,1984:577-597
+59..NSC 5429/2: Review of U. S. Policy in the Far East, August 20, 1954, Date: Aug 20, 1954-Aug 20, 1954, Accession #: 002947-002-0913, Found in: Documents of the National Security Council, 1st Supplement; Note to the National Security Council by the Executi:FRUS, 1952-1954.Washington:United States Government Printing Office,1984:769-774
+60.崔丕.艾森豪威尔对朝政策初探.东北师大学报(哲学社会科学版).2001.(3)
+61.刘雄.艾森豪威尔政府亚洲政策的形成.东北师大学报(哲学社会科学版).2001.(3)
+62.Memorandum for the Security Council about US Policy in the Far East, in PHV, Vietnam War and American Foreign Policy, 1960-1975, 002955_003_0354_From_1_to_18
+63.崔丕.艾森豪威尔政府对朝政策初探.东北师大学报(哲学社会科学版).2001.(3)
+-----------------------------------------------------------------------
+
+【来源篇名】新时代总体国家安全观的理论逻辑与现实意蕴
+【英文篇名】The Theoretical Logic and Realistic Implication of the Integrative Approach to National Security in the New Era
+【来源作者】李营辉/毕颖
+【基    金】北京市社会科学基金资助重点项目(15FXA006)/中央高校基本科研项目(L17JB00170)
+【期    刊】学术前沿
+【第一机构】北京交通大学
+【机构名称】[李营辉]北京交通大学.马克思主义学院/[毕颖]北京交通大学.法学院
+【第一作者】李营辉
+【中图类号】D61
+【年代卷期】2018,2(170):84-87
+【关 键 词】新时代/总体国家安全观/“四个伟大”/“五位一体”/人类命运共同体
+【基金类别】
+【参考文献】
+1..毛泽东文集（第6卷）.北京:人民出版社
+2..毛泽东文集（第7卷）.北京:人民出版社
+3..江泽民文选（第3卷）.北京:人民出版社
+4..马克思恩格斯文集（第1卷）.北京:人民出版社
+-----------------------------------------------------------------------
+
+【来源篇名】镜子:语言与国家安全战略的历史透视——以先秦至隋唐为例
+【英文篇名】
+【来源作者】向以鲜
+【基    金】国家语委科研项目(WT125-62)
+【期    刊】社会科学研究
+【第一机构】四川大学
+【机构名称】[向以鲜]四川大学.历史文化学院
+【第一作者】向以鲜
+【中图类号】H1-0
+【年代卷期】2018,(040):176-188
+【关 键 词】语言文字/国家安全/历史文化
+【基金类别】
+【参考文献】
+1.李贤.马援列传·东观汉记:后汉书
+2.魏收.列传第九上:魏书
+3.司马光.资治通鉴（卷140）
+4.都德.都德与最后一课:导读.杭州:浙江文艺出版社,2010
+5.吉本,爱德华.罗马帝国衰亡史.北京:商务印书馆
+6.李伯庚,彼得.欧洲文化史.上海:上海社会科学院出版社
+7.骆新强.罗马帝国分裂的语言因素探析.江苏教育学院学报(社会科学版).2011.(4)
+8.齐红深.日本侵华教育史.北京:人民教育出版社
+9.克莱普勒,维克多.第三帝国的语言——一个语文学者的笔记.北京:商务印书馆
+10.王钟翰.中国民族史.北京:中国社会科学出版社
+11.许倬云.我者与他者:中国历史上的内外分际.北京:三联书店
+12.许慎.说文解字（卷4）.北京:中华书局
+13.孔鲋.孔丛子.上海:上海古籍出版社
+14.张军.先秦雅言的形成及其认同性影响.殷都学刊.2014.(2)
+15.徐江伟.血色曝光——华夏文明与汉字的起源.西安:陕西人民出版社
+16.荀况.荀子:荣辱篇.上海:上海古籍出版社
+17.孔丘.论语:述而.北京:中华书局
+18.朱自清.经典常谈.北京:三联书店
+19.王国维.观堂集林（卷10）.北京:中华书局
+20.王国维.观堂集林（卷4）.北京:中华书局
+21.李炳官.中国语言学史.成都:巴蜀书社
+22.裘锡圭.文字学概论.北京:商务印书馆
+23.孙钧锡.中国汉字学史.北京:学苑出版社
+24.班固.艺文志·第十:汉书.北京:中华书局,2007
+25.张涌泉.汉语俗字研究.长沙:岳麓书社
+26.司马迁.万石张叔列传·第四十三:史记.北京:中华书局,2013
+27.范晔.宦者列传·第六八:后汉书.北京:中华书局,1966
+28.颜之推.第十八·音辞:颜氏家训.北京:文史出版社,2003
+29.韩国磐.魏晋南北朝史纲.北京:人民出版社
+30.魏收.官氏志:魏书.北京:中华书局,1987
+31.沈约.列传·第五五·索虏传:宋书.北京:中华书局,1974
+32.王仲荦.魏晋南北朝史.上海:上海人民出版社
+33.魏徵.志第二十七:隋书.北京:中华书局,1974
+34.恩格斯.反杜林论:马克思恩格斯选集.北京:人民出版社,1995
+35.魏收.列传第二·神元平文诸帝子孙东阳王丕传:魏书.北京:中华书局,1987
+36.尚志迈.关于魏孝文帝改汉姓之思考.张家口师专学报.2001.(5)
+37.苏珊.中国历史上非汉族王朝的语言地位规划.长江学报.2011.(3)
+38.姚思廉.列传·第二七:陈书.北京:中华书局,1974
+39.孙雍长.南北朝隋唐时期的汉字规范.学术研究.2005.(5)
+40.刘昫.列传·第一百三十九:旧唐书.北京:中华书局,1975
+41.朱凤玉.敦煌本《正名要录》中“连文释义”初探.敦煌研究.2006.(6)
+42..长孙俭传.周书.
+43.易花萍.古代语言文字规范法有效实施的历史镜鉴.北方论丛.2012.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】2017年美国国家安全战略报告评析
+【英文篇名】Comment on the 2017 US National Security Strategy Report
+【来源作者】杨卫东
+【基    金】
+【期    刊】学术前沿
+【第一机构】天津师范大学
+【机构名称】[杨卫东]天津师范大学.政治与行政学院
+【第一作者】杨卫东
+【中图类号】D83
+【年代卷期】2018,(110):80-87
+【关 键 词】特朗普政府/国家安全战略/国家利益/中美关系
+【基金类别】
+【参考文献】
+1.National Security Strategy of the United States of America
+2..Donald Trump's Republican National Convention Speech.2016
+3.Mead,Walter Russell.Jacksonian Revolt: American Populism and Liberal Order.Foreign Affairs.2017.96(2)
+4.Mead,Walter Russell.Andrew Jackson, Revenant.American Interest.1.17
+5.Heilbrunn,Jacob.New Foreign Policy Populism.National Interest.2016.142(3/4)
+6..美国著名国际关系学者卡赞斯坦教授应邀来我院讲座
+7.Walt,Stephen.No, Real Donald Trump Is Not a Realist:Foreign Policy,2016
+8.Brands,H..Saving Realism from the So-Called Realists:Commentary,2017
+9.Joyner,James.How Trump's National Security Strategy Breaks with the Past.2017
+10.National Security Strategy
+11.National Security Strategy of the United States of America
+12.A National Security Strategy of Engagement and Enlargement
+13.White House.National Security Strategy of the United States of America.December
+14.National Security Strategy of the United States of America
+15.Boot,Max.Is a New Republican Foreign Policy Emerging?:Commentary,2016
+16.Daalder,Ivo.U.S. can't afford to end its global leadership role.Washington Post.4.22
+17.Lieven,Anatol.Clinton and Trump: Two Faces of American Nationalism.Survival.2016.58(5)
+18.Cha,Taesuh.Return of Jacksonianism: The International Impl i c ations of the Trump Phenomenon.Washington Quarterly.2017.(Winter)
+19.袁鹏.四百年未有之变局——中国、美国与世界新秩序.中信出版集团
+20.Hemmer,Christopher.Continuity and Change in the Obama Administration's National Security Strategy.Comparative Strategy.2011.30(3)
+-----------------------------------------------------------------------
+
+【来源篇名】美国外国投资国家安全审查制度解析与应对
+【英文篇名】Analysis of the United States\' National Security Review System in Foreign Investment and China\'s Countermeasures
+【来源作者】陈云东/冯纯纯
+【基    金】
+【期    刊】湖南科技大学学报(社会科学版)
+【第一机构】云南大学
+【机构名称】[陈云东]云南大学.法学院/[冯纯纯]云南大学.公共管理学院
+【第一作者】陈云东
+【中图类号】D93
+【年代卷期】2018,21(030):104-112
+【关 键 词】美国CFIUS审查/立法变迁/中国赴美投资
+【基金类别】
+【参考文献】
+1.Hasnat,Baban.US National Security and Foreign Direct Investment.Thunderbird International Business Review.2015.57(3)
+2.张举胜.美国外资并购国家安全审查制度研究:博士学位论文:中国政法大学,2010:55-60
+3.徐维余.外资并购安全审查法律比较研究:博士学位论文:华东政法大学,2010:6-38
+4.王中原.美国商业法律环境研究.北京:法律出版社
+5.朱广平.美国外国投资国家安全审查制度研究:博士学位论文:外交学院,2016:31-38
+6.Executive Order 11858 of May 7, 1975, Section 1(b)
+7.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Persons, 31 CFR Part 800, Office of Investment Security, Department of Treasury, November 21, 1991
+8.Foreign Investment and National Security Act of 2007, Public Law 110-49-July 26, 2007, Sec. 3(1), 121Stat. 252
+9.Foreign Investment and National Security Act of 2007, Public Law 110-49-July 26, 2007, Sec.5, 121Stat. 254-255
+10.Foreign Investment and National Security Act of 2007, Public Law 110-49-July 26, 2007, Sec.2(b) (D), 121Stat. 248
+11.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.701(a), Office of Investment Security, Department of Treasury, November 21, 2008
+12.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.801, Office of Investment Security, Department of Treasury, November 21, 2008
+13.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Persons, 31 CFR Part 800, § 800.301(b), Office of Investment Security, Department of Treasury, November 21, 1991
+14.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.301, Office of Investment Security, Department of Treasury, November 21, 2008
+15.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.204, § 800.208, § 800.209, Office of Investment Security, Department of Treasury, November 21, 2008
+16.Omnibus Foreign Trade and Competitiveness Act of 1988, Public Law 100-418-AUG. 23, 1988, Sec.5021(e), 102 Stat.1426
+17.National Defense Authorization Act for Fiscal Year 1993, Public Law 102-484-OCT. 23, 1992, Sec.837(b), 106 Stat.2464
+18.Foreign Investment and National Security Act of 2007, Public Law 110-49-July 26, 2007, Sec. 4(4), 121 Stat. 253-254
+19.National Defense Authorization Act for Fiscal Year 1993, Public Law 102-484-OCT. 23, 1992, Sec.837(a) (2), 106 Stat. 2464
+20.Omnibus Foreign Trade and Competitiveness Act of 1988, Public Law 100-418-AUG. 23, 1988, Sec.5021(d) (2), 102 Stat. 1426
+21.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.401(f), Office of Investment Security, Department of Treasury, November 21, 2008
+22.Executive Order 13456 of January, 2008, Section 7
+23.Regulations Pertaining to Mergers, Acquisitions and Takeovers by Foreign Person, 31 CFR Part 800, § 800.401(b), Office of Investment Security, Department of Treasury, November 21, 2008
+24.Exon-Florio National Security Test for Foreign Investment, Congressional Research Service, 7-5700, RL33312, March 29, 2013
+25.National Defense Authorization Act for Fiscal Year 1993, Public Law102-484-OCT. 23, 1992, Sec.837(c), 106 Stat. 2464
+26.Foreign Investment and National Security Act of 2007, Public Law 110-49-July 26, 2007, Sec.7(b) (1), 121 Stat. 257
+27.李军.外国投资国家安全审查实施要件研究:博士学位论文:华东政法大学,2015:88-95
+28.王凌.美国对他者的安全化——路径与动因研究:博士学位论文:复旦大学,2012:158-182
+29.李群.外资并购国家安全审查法律制度研究:博士学位论文:西南政法大学,2012:21-24
+30.龚柏华.美国总统以国家安全为由否决外资并购令可诉性分析——兼析中国三一集团告美国总统否决并购侵权案.国际商务研究.2014.(3)
+31.Graham,Edward M.US National Security and Foreign Direct Investment.Washington DC:Institute for International Economics
+32.马贵予.外国投资国家安全审查中投资者救济机制研究:硕士学位论文:华东政法大学,2016:23-37
+33.谢皓.跨国并购中的美国国家安全审查机制研究.亚太经济.2014.(1)
+34.张秋萍.美国国家安全审查制度解析——兼论中国企业的应对:硕士学位论文:吉林大学,2014:28-29
+35..楼继伟:中美是命定的夫妻，敞开门打架，是没有教养的表现！.2018
+-----------------------------------------------------------------------
+
+【来源篇名】全球化背景下的总体国家安全研究
+【英文篇名】Global National Security Research under the Background of Globalization
+【来源作者】李大光
+【基    金】
+【期    刊】学术前沿
+【第一机构】解放军国防大学
+【机构名称】[李大光]解放军国防大学.联合勤务学院
+【第一作者】李大光
+【中图类号】D03
+【年代卷期】2018,(080):6-19
+【关 键 词】总体国家安全观/传统国家安全/非传统国家安全
+【基金类别】
+【参考文献】
+-----------------------------------------------------------------------
+
+【来源篇名】论维护领袖权威对总体国家安全的重大意义
+【英文篇名】On the Significance of Maintaining the Leader\'s Authority for the Overall National Security
+【来源作者】高民政
+【基    金】国家社会科学基金项目(17BZZ084)
+【期    刊】学术前沿
+【第一机构】解放军国防大学
+【机构名称】[高民政]解放军国防大学.政治学院
+【第一作者】高民政
+【中图类号】D25
+【年代卷期】2018,(080):20-25,95
+【关 键 词】领袖权威/领导核心/国家安全新时代
+【基金类别】
+【参考文献】
+1..马克思恩格斯选集（第2卷）.北京:人民出版社
+2..列宁选集（第4卷）.北京:人民出版社
+3..列宁全集（第29卷）.北京:人民出版社
+4..马克思恩格斯选集（第1卷）.北京:人民出版社
+5..德国的革命和反革命:马克思恩格斯选集.北京:人民出版社,1972:579
+6..唯物主义和经验批判主义:列宁选集.北京:人民出版社,1972:221
+-----------------------------------------------------------------------
+
+【来源篇名】努力开创新时代国家安全工作新局面
+【英文篇名】Breaking New Ground in the Work of National Security in the New Era
+【来源作者】朱继东
+【基    金】中国社会科学院马克思主义研究院创新工程(MYYCX201808)/国家社科基金重大项目、中央马工程重大项目(2015MZD048)
+【期    刊】学术前沿
+【第一机构】中国社会科学院国家文化安全与意识形态建设研究中心
+【机构名称】[朱继东]中国社会科学院国家文化安全与意识形态建设研究中心.
+【第一作者】朱继东
+【中图类号】D03
+【年代卷期】2018,(080):26-35
+【关 键 词】总体国家安全观/意识形态安全/政治安全/人民安全
+【基金类别】
+【参考文献】
+1..习近平谈治国理政.北京:外文出版社
+2..中国共产党第十九次全国代表大会文件汇编.北京:人民出版社
+3.习近平.全面贯彻落实总体国家安全观，开创新时代国家安全工作新局面.2018
+4..习近平谈治国理政（第2卷）.北京:外文出版社
+5..习近平关于社会主义文化建设论述摘编.北京:中央文献出版社
+6.朱继东.新时期领导干部意识形态能力建设.北京:人民出版社
+7..习近平:金融活经济活，金融稳经济稳.2017
+8.吴冷西.回忆主席与战友.北京:人民出版社
+9..习近平论当市县委书记——从政以来重要论述摘编.党建.2015.(10)
+-----------------------------------------------------------------------
+
+【来源篇名】海外利益保护与生态累卵性——总体国家安全观中需要考虑的科技和生态因素
+【英文篇名】Overseas Interests Protection and Eco-Precarity——The Scientific and Technological and Ecological Factors in the Overall National Security Concept
+【来源作者】周雷
+【基    金】
+【期    刊】学术前沿
+【第一机构】中国南海研究协同创新中心
+【机构名称】[周雷]中国南海研究协同创新中心.
+【第一作者】周雷
+【中图类号】D80
+【年代卷期】2018,(080):44-51
+【关 键 词】累卵性/积极安全/消极安全/国家安全
+【基金类别】
+【参考文献】
+1.Butler,Judith.Frames of war: When is life grievable?,2008
+2.Franklin,Sarah.Embodied progress: A cultural account of assisted conception,1997
+3.Franklin,Sarah.Global nature, global culture,2000
+4.Foucault,Michel.Security, territory, population. Lectures at the Collège de France, 1977-1978,2009
+5.周雷.东方的消失和马航现象学.上海:上海社会科学院出版社
+-----------------------------------------------------------------------
+
+【来源篇名】中国未来安全的重要议题:质量安全——兼谈总体国家安全观的贡献与完善
+【英文篇名】An Important Issue on China\'s Future Security: Quality Security——Also on the Contribution and Improvement of the Overall National Security Concept
+【来源作者】余潇枫
+【基    金】国家社会科学基金青年项目资助项目(15CZZ043)/海关总署2018年署级课题“构建人类命运共同体视角下的国门安全治理体系研究”
+【期    刊】学术前沿
+【第一机构】浙江大学
+【机构名称】[余潇枫]浙江大学.非传统安全与和平发展研究中心
+【第一作者】余潇枫
+【中图类号】D63
+【年代卷期】2018,(080):52-60
+【关 键 词】非传统安全/总体国家安全观/质量安全/未来安全
+【基金类别】
+【参考文献】
+1.余潇枫.中国非传统安全研究报告(2012-2013).北京:社科文献出版社
+2.孟祥青.总体国家安全观:我国国家安全观的新里程碑
+3..总体国家安全观干部读本.北京:人民出版社
+4.侯建国.质量强则国家强(在习近平新时代中国特色社会主义思想指引下——新时代新气象新作为·高端访谈)
+5..王岐山在十八届中央纪委七次全会上的工作报告
+6..习近平谈治国理政.北京:外文出版社
+7..质检总局:2020年海外打假维权网覆盖全世界30%国家
+8.习近平在2017年中国质量大会(上海)上的致辞
+9.中华人民共和国农产品质量安全法
+10.余潇枫.质量安全与中国社会治理模式的创新:中国社会公共安全研究报告.北京:中央编译出版社,2017:30
+11.徐焕明.论质量安全型经济.北京:中国质检出版社
+12.杨雪冬.双向开放与国家治理现代化——推进国内治理与全球治理的深层互动.人民论坛·学术前沿.2016.(2上)
+13.丁纯.德国“工业4.0”:内容、动因与前景及其启示.德国研究.2014.(4)
+14.支树平.新常态下国家质量技术基础建设研究.质检改革情况交流.2016.(1)
+15.余潇枫.“安全–质量–GDP”体系:社会治理“两难”的解决之道.中国国门时报.12.26(3)
+16.余潇枫.质量安全与新型国际关系的构建.国际观察.2018.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全视野下的网络治理体系构建
+【英文篇名】On the Construction of the Cyberspace Governance System in the View of Our National Security
+【来源作者】邵国松
+【基    金】国家社科基金项目(15BXW030)
+【期    刊】南京社会科学
+【第一机构】上海交通大学
+【机构名称】[邵国松]上海交通大学.媒体与传播学院
+【第一作者】邵国松
+【中图类号】G203
+【年代卷期】2018,(040):100-107
+【关 键 词】国家安全/网络治理/网络安全法
+【基金类别】
+【参考文献】
+1.赵耀辉.坚持总体国家安全观走中国特色国家安全道路.唯实.2014.(6)
+2.习近平.坚持总体国家安全观走中国特色国家安全道路.人民日报.4.16
+3..中华人民共和国网络安全法
+4.Wolfers,A.“National security” as an ambiguous symbol.Political Science Quarterly.1952.67(4)
+5.Ullman,R.Redefining Security.International Security.1982.8(1)
+6.Buzan,B.From international system to international society: structural realism and regime theory meet the English school.International Organization.1993.47(3)
+7.美国国家安全战略(2010)
+8.英国国家安全战略(2010)
+9.法国防卫河国家安全战略(2008)
+10.德国安全政策与国防军的未来(2006)
+11.加拿大国家安全政策(2004)
+12.樊建新.社会思潮与文化安全.红旗文稿.2017.(7)
+13.徐光裕.热话题与冷思考——关于总体国家安全观与中国特色国家安全道路的对话.当代世界与社会主义.2014.(6)
+14.王义桅.全球化时代的大国安全观——中国的安全文明及其对西方的超越.人民论坛·学术前沿.2014.(11)
+15.李艳.网络空间治理的学术研究视角及评述.汕头大学学报(人文社会科学版).2017.(7)
+16.Kurbalija,Jovan.Internet Governance and International Law
+17.Mary,Rundle.Beyond Internet Governance: The Emerging International Framework for Governing the Networked World, Berkman Center for Internet & Society at Harvard Law School
+18.Neil,CukierKenneth.Internet Governance, National Interest and International Relations:The National Center for Digital Government JFK School of Government, Harvard University
+19.Drezner,D.Global Governance of the Internet: Bringing the State Back In.Political Science Quarterly.2004.119(3)
+20..Background Report
+21.郎平.“多利益相关方”的概念、解读与评价.汕头大学学报(人文社会科学版).2017.(9)
+22.Jenson,Willy.Internet Governance: Striking the Appropriate Balance Between All Stakeholders
+23.郝叶力.网络世界的原则性与灵活性——三视角下网络主权的对立统一.汕头大学学报(人文社会科学版).2016.(6)
+24.邵国松.网络传播法导论.北京:中国人民大学出版社
+25.陈堂发.网络舆论监督的困局:偏刑主义地方政策.当代传播.2011.(4)
+26.陈堂发.危机事件中网络谣言的理性追责问题.今传媒.2016.(10)
+27.胡凌.商业模式视角下的“信息/数据”产权.上海大学学报(社会科学版).2017.(6)
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全与禁教:中西文献歧异中的陈昂上疏
+【英文篇名】National Security and Prohibition of Catholicism: On Chen Ang\'s Memorial Based on Chinese and Western Literature
+【来源作者】李鹏
+【基    金】教育部人文社会科学研究青年基金资助项目(15YJCZH083)
+【期    刊】北京社会科学
+【第一机构】中央财经大学
+【机构名称】[李鹏]中央财经大学.文化与传媒学院
+【第一作者】李鹏
+【中图类号】K249.2
+【年代卷期】2018,(020):38-47
+【关 键 词】陈昂/陈昴/禁教/海防/国家安全
+【基金类别】
+【参考文献】
+1..清史稿.北京:中华书局
+2.王宏斌.究竟谁是清代“开眼看世界的第一人”:公案·旧案·疑案——史家谈古论今.北京:同心出版社,2001
+3.长畑明利.陈昴与耶稣会:《诗章》59至61章中的冲突与儒学:英美文学研究论丛.上海:上海外语教育出版社,2011
+4.方苞.望溪先生全集:清代诗文集汇编.上海:上海古籍出版社,2010
+5.王重民.冷庐文薮.上海:上海古籍出版社
+6..清实录（第6册）.北京:中华书局
+7.Letters édifiantes et Curieuses, écrites. Des Missionsétrangères Mémoires de la Chine. Imprimerie de J. B. Kindelem
+8.郑克晟.关于《台湾外记》的作者江日升:郑成功研究论丛.福州:福建教育出版社,1984
+9.谢贵安.试述《清实录》史料的来源与流向.北京联合大学学报.2012.(2)
+10.吴伯娅.陈昂父子与《海国闻见录》.清史论丛.2012.
+11.Gu,Huang.Kangxi Emperor's Changing Attitude Toward Westerners: Scientific Curiosity:Religious Toleration and Strategic Vigilance:Los Angeles University of Southern California,1995
+12.Willard,David P.Chen Mao's 1717 Memorial to the Kangxi Emperor: Perspectives on the Prohibition of Catholicism in the Early-Qing Period.2016
+13.杜赫德.耶稣会士中国书简集:中国回忆录（第2卷）.郑州:大象出版社
+14.蒋良骐.东华录.北京:中华书局
+15.李天纲.中西礼仪之争:历史、文献及意义.上海:上海古籍出版社
+16.Mungello,David E.Chinese Rites Controversy: Its History and Meaning.Nettetal (Germany):Steyler Verlag
+17.张先清.康熙三十一年容教诏令初探.历史研究.2006.(5)
+18.杜赫德.耶稣会士中国书简集:中国回忆录（第1卷）.郑州:大象出版社
+19.张伯行.正谊堂文续集(卷1):清代诗文集汇编.上海:上海古籍出版社,2010
+20.李光地.榕村续语录（卷6）.北京:中华书局
+21..四库全书总目.北京:中华书局
+22.陈青松.关于康熙朝一条查禁天主教史料的重新认识——基于中西文献对比的研究.历史档案.2010.(2)
+23..康熙与罗马使节关系文书.台湾:台湾学生书局
+24.顾长声.传教士与近代中国.上海:上海人民出版社
+-----------------------------------------------------------------------
+
+【来源篇名】朝贡体系与宋朝国家安全
+【英文篇名】The Tributary System and the National Security of the Song Dynasty
+【来源作者】黄纯艳
+【基    金】
+【期    刊】暨南学报(哲学社会科学版)
+【第一机构】云南大学
+【机构名称】[黄纯艳]云南大学.历史与档案学院
+【第一作者】黄纯艳
+【中图类号】K244
+【年代卷期】2018,40(020):120-132
+【关 键 词】宋朝/朝贡体系/国家安全
+【基金类别】
+【参考文献】
+1.中华人民共和国国家安全法(2015)·第2条
+2.刘跃进.国家安全学.北京:中国政法大学出版社
+3.黄纯艳.宋代朝贡体系研究.北京:商务印书馆
+4..宋代与东亚的多国体系及贸易世界.北京大学学报.2009.(2)
+5.章深.宋朝与海外国家的贡赐贸易.学术研究.1998.(6)
+6.李云泉.略论宋代中外朝贡关系与朝贡制度.山东师范大学学报.2003.(2)
+7..南宋乾道三年的占城朝贡——以大食人乌师点的诉讼事件为中心:史艸(46号):日本女子大史学研究会,2005
+8..春秋左传注疏·昭公二十三年八月:文渊阁四库全书(影印本).北京:中华书局,1990:459
+9.皇侃.论语义疏(校点本).北京:中华书局
+10..狄仁杰传:旧唐书.北京:中华书局,1975:2889
+11..平准书:史记.北京:中华书局,1963:1440
+12..雍熙三年正月戊寅:续资治通鉴长编.北京:中华书局,2004:604
+13..景德元年十二月辛丑:续资治通鉴长编:1299
+14..熙宁四年十二月甲寅:续资治通鉴长编:5549
+15..元祐五年十月乙未:续资治通鉴长编:10787
+16..完颜匡传:金史.北京:中华书局,1975:2169-2170
+17..高宗七:宋史.北京:中华书局,1977:556
+18..绍兴三十年四月辛卯:建炎以来系年要录.北京:中华书局,2013:3579
+19.吴泳.鹤林集(卷20)·边备札子:文渊阁四库全书(影印本).北京:中华书局,1990:195
+20.陈峰.宋代主流意识支配下的战争观.历史研究.2009.(2)
+21.赵汝愚.上仁宗河北守御十三策:宋朝诸臣奏议.上海:上海古籍出版社,1999
+22.李纲.论守御札子:李纲全集.长沙:岳麓书社,2014:535
+23..淳化二年八月丁亥:续资治通鉴长编:719
+24.王十朋.论广海二寇札子:王十朋全集·奏议.上海:上海古籍出版社,2012:620
+25.吕祖谦.历代制度详说(卷10)·屯田:文渊阁四库全书(影印本).北京:中华书局,1990:975
+26.李合群.北宋“守内虚外”国策质疑.史学月刊.2009.(12)
+27.纪雪娟.北宋“守内虚外”国策的再认识.山东师范大学学报.2013.(5)
+28..正统轮:欧阳修集·居士集.北京:中华书局,2001
+29.卫湜.礼记集说(卷11):文渊阁四库全书(影印本).北京:中华书局,1990:232
+30..宋会要辑稿·蕃夷四之一〇三
+31..高丽传:宋史
+32.张纲.高宗天申节功德疏:华阳集
+33..太和六年十二月乙丑:资治通鉴.北京:中华书局,1956:7880
+34.王禹偁.小畜集(卷27)·批答南诏国王东封表:文渊阁四库全书(影印本).北京:中华书局,1990:268
+35..宰相三上表答诏:宋大诏令集.北京:中华书局,1962:393
+36.王禹偁.批答南诏国王东封表:小畜集:268
+37..景德四年十一月庚辰:续资治通鉴长编:1506
+38.黄纯艳.多样形态与通用话语:宋朝在朝贡活动中对“四夷怀服”的营造.思想战线.2013.(5)
+39..宋会要辑稿·蕃夷四.上海:上海古籍出版社
+40.陈寅恪.唐代政治史述论稿.上海:上海古籍出版社
+41.李心传.西夏扣关:建炎以来朝野杂记·乙集.北京:中华书局,2000:846
+42.王应麟.定功继伐碑:玉海.扬州:广陵书社,2003:3565
+43..复燕云:宋史纪事本末.北京:中华书局,2015:539
+44..崇宁四年五月壬子:皇宋十朝纲要校正.北京:中华书局,2013:450
+45..“政宣上帙”，政和七年七月四日:三朝北盟会编.上海:上海古籍出版社,1987:1
+46..种师道传:宋史:14049
+47.赵汝愚.上徽宗论女真决先败盟:宋朝诸臣奏议:1603
+48..绍兴元年二月乙酉:建炎以来系年要录.北京:中华书局,2013:905
+49.杨士奇.历代名臣奏议(卷106)·石介上言:文渊阁四库全书(影印本).北京:中华书局,1990
+50..建炎三年二月壬子:建炎以来系年要录:454
+51..建炎三年十一月己巳:建炎以来系年要录:677
+52..建炎三年二月癸丑:建炎以来系年要录:456
+53..建炎三年十二月乙未:建炎以来系年要录:693
+54..建炎四年三月癸卯:建炎以来系年要录:731
+55..建炎三年八月丁卯:建炎以来系年要录:524
+56..刘豫传:金史:1760
+57..建炎二年六月己卯:建炎以来系年要录:332
+58..绍兴元年七月壬辰:建炎以来系年要录:838
+59..绍兴八年十二月戊寅:建炎以来系年要录:2024
+60.黄纯艳.南宋朝贡体系的构成:宋代朝贡体系研究.北京:商务印书馆,2014:125-140
+61.刘安世.尽言集(卷6)·乞罢修京城:文渊阁四库全书(影印本).北京:中华书局,1990:241
+62.余靖.上仁宗乞罢修京城:宋朝诸臣奏议:1392
+63.范祖禹.上哲宗乞罢修京城:宋朝诸臣奏议:1393
+64.杨士奇.历代名臣奏议(卷326)·御边:文渊阁四库全书(影印本).北京:中华书局,1990:160
+65.杨士奇.历代名臣奏议(卷342)·四裔:文渊阁四库全书(影印本).北京:中华书局,1990:577
+66..元祐七年十二月丙子:续资治通鉴长编:11412
+67..大中祥符元年四月己未:续资治通鉴长编:1538
+68..孙甫传:宋史:9840
+69..上仁宗备边六事:宋朝诸臣奏议:1483
+70..元祐二年八月戊申:续资治通鉴长编:9863
+71..夏国上:宋史:13992
+72.韩琦.上仁宗论西北议和有大忧者三大利者一:宋朝诸臣奏议:1516
+73..宝元二年九月丁巳:续资治通鉴长编:2927
+74..文宗世家二:高丽史.重庆:西南师范大学出版社,2014:218
+75..占城传:宋史:14081
+76..占城:文献通考:9161
+77..李纪二:大越史记全书·本纪全书.重庆:西南师范大学出版社,2014:230
+78..李纪三:大越史记全书·本纪全书.重庆:西南师范大学出版社,2014:230
+79..萧注传:宋史:10733
+80..嘉祐四年九月戊申:续资治通鉴长编:4593
+81..董槐传:宋史:12403
+-----------------------------------------------------------------------
+
+【来源篇名】WTO国家安全例外视角下的网络安全
+【英文篇名】Cybersecurity under the Perspective of Exception to National Security of WTO
+【来源作者】谭观福
+【基    金】中国人民大学2017年度拔尖创新人才培育资助计划
+【期    刊】中国高校社会科学
+【第一机构】中国人民大学
+【机构名称】[谭观福]中国人民大学.法学院
+【第一作者】谭观福
+【中图类号】D996
+【年代卷期】2018,(020):63-74
+【关 键 词】网络安全/WTO/国家安全例外/GATT1994第21条
+【基金类别】
+【参考文献】
+1..习近平:把我国从网络大国建设成为网络强国.2017
+2.黄志雄.论间谍活动的国际法规制——兼评2014年美国起诉中国军人事件.当代法学.2015.(1)
+3.黄志雄.WTO安全例外条款面临的挑战与我国的对策——以网络安全问题为主要背景:国际经济法学刊,2014
+4.孙南翔.国家安全例外在互联网贸易中的适用及展开.河北法学.2017.(6)
+5.韩秀丽.论“国家安全”名义下争端的可裁决性及法律适用:国际经济新秩序与国际经济法新发展.北京:法律出版社,2009:719
+6.郑远民.非传统安全威胁下国际法律新秩序的构建.北京:法律出版社
+7..National Security Strategy.2017
+8.习近平.决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告:中国共产党第十九次全国代表大会文件汇编.北京:人民出版社,2017:19-20
+9..网络安全事关国家安全和国家权益.2017
+10..National Security Strategy.2017
+11..国家安全法·第25条
+12.外国投资法(草案征求意见稿)·第57.6条
+13..网络安全法·第1条
+14.陈卫东.WTO例外条款解读.北京:对外经济贸易大学出版社
+15.Peng,Shin-yi.Cybersecurity Threats and the WTO National Security Exceptions.Journal of International Economic Law.2015.18(2)
+16.傅廷中.“安全例外”条款与自由贸易政策的价值冲突与协调:WTO法与中国论丛(2011年卷).北京:知识产权出版社,2011:372
+17.Bhala,Raj.National Security and International Trade Law: What the GATT Says, and What the United States Does.University of Pennsylvania Journal of International Economic Law.1998.19(2)
+18.Alford,Roger P.Self-Judging WTO Security Exception.Utah Law Review.2011.2011(3)
+19.Schloemann,Hannes L.Constitutionalization and Dispute Settlement in the WTO: National Security As an Issue of Competence.American Journal of International Law.1999.93(2)
+20.黄东黎.世界贸易组织法:理论·条约·中国案例.北京:社会科学文献出版社
+21.李巍.新的安全形势下WTO安全例外条款的适用问题.中国政法大学学报.2015.(3)
+22.India-Import Restrictions, Request for Consultations by the European Communities, WT/DS149/1, 12 November 1998, p. 1
+23.China-Measures Related to the Exportation of Rare Earths, Tungsten, and Molybdenum, WT/DS431/R, 26 March 2014, para. 7.712
+24.Measures Relating to Trade in Goods and Services, and Trade-Related Aspects of Intellectual Property Rights, DS526/DS527/DS528
+25..U.S. Warns WTO Away from Qatar-UAE Dispute, Maintains Appellate Hold.2017
+26.孙南翔.论“发展的条约解释”及其在世贸组织争端解决中的适用.环球法律评论.2015.(5)
+27.United States-Import Prohibition of Certain Shrimp and Shrimp Products, WT/DS58/AB/R, 12 October 1998, paras. 129-130
+28.China-Measures Affecting Trading Rights and Distribution Services for Certain Publications and Audiovisual Entertainment Products, WT/DS363/AB/R, 21 December 2009, para. 396
+29.谭观福.TPP电子商务章中的互联网监管规则与中国互联网监管:国际经贸治理评论,2016
+30.彭德雷.国际服务贸易协定(TISA)谈判与中国路径选择.亚太经济.2015.(2)
+31..Remarks by President Trump at APEC CEO Summit.2017
+32.中国电子信息产业发展研究院.2015-2016年中国网络安全发展蓝皮书.北京:人民出版社
+33.Waxman,Matthew C.Cyber-Attacks and the Use of Force: Back to the Future of Article 2(4).Yale Journal of International Law.2011.36(2)
+34.李伯军.论网络战及战争法的适用问题.法学评论.2013.(4)
+35.盛红生.21世纪前期武装冲突中的国际法问题研究.北京:法律出版社
+36.熊武一.军事大辞海（下卷）.长城出版社
+37.北约卓越网络合作防卫中心国际专家小组.塔林网络战国际法手册(审校本).北京:国防工业出版社
+38.克拉克,理查德·A.网电空间战——美国总统安全顾问:战争就在你身边.北京:国防工业出版社
+39.龚新华.网络战用看不见的方式摧毁你.中国青年报.1.14
+40.魏亮.网络空间安全.北京:电子工业出版社
+41.Korea-Measures Affecting Imports of Fresh, Chilled and Frozen Beef, WT/DS169/AB/R, 11 December 2000, para. 161
+42.United States-Measures Affecting the Cross-Border Supply of Gambling and Betting Services, WT/DS285/AB/R, 7 April 2005, para. 308
+43.韩立余.善意原则在WTO争端解决中的适用.法学家.2005.(6)
+44..GATT Analytical Index: Guide to GATT Law and Practice (1995).2017
+45..网络空间的国际法问题——中国代表、外交部条法司副司长马新民在亚非法协第54届年会“网络空间的国际法问题”特别会议上的发言:中国国际法年刊(2015).北京:法律出版社,2016:726
+46.《保密科学技术》编辑部.“棱镜门”事件曝光美国网络监控计划.保密科学技术.2013.(6)
+47.房东.对“文本”的扬弃:WTO条约解释方法的一种修正——以服务贸易具体承诺表的解释为分析起点.法律科学.2011.(3)
+48.United States-Measures Affecting the Cross-Border Supply of Gambling and Betting Services, WT/DS285/R, 10 November 2004, paras. 6.322-6.325
+49.余劲松.《TRIMs协议》研究.法学评论.2001.(2)
+50..Communication from the United States, Measures Adopted and under Development by China Relating to Its Cybersecurity Law.2017
+51.Elena,Klonitskaya.Is the WTO the Right Forum to Hear National Security Issues?.Global Trade and Customs Journal.2014.9(11&12)
+52..中国代表在中美互联网论坛上的发言:中国国际法年刊(2013).北京:法律出版社,2014:665-668
+53.黄志雄.网络安全规制的WTO法律问题探析——以2014年中国银行业网络安全和信息化法规为中心.中国软科学.2016.(9)
+-----------------------------------------------------------------------
+
+【来源篇名】关涉国家安全的语言战略实施中语言文字基础性建设问题
+【英文篇名】The Problem with the Basic Construction of Language and Words in the Implementation of National Security Language Strategy and Possible Solutions
+【来源作者】陆俭明
+【基    金】
+【期    刊】浙江大学学报(人文社会科学版)
+【第一机构】北京大学
+【机构名称】[陆俭明]北京大学.中国语言学研究中心
+【第一作者】陆俭明
+【中图类号】H1
+【年代卷期】2018,48(030):57-64
+【关 键 词】国家安全/语言战略/语言能力/对外汉语/语言文字基础性建设
+【基金类别】
+【参考文献】
+1.李宇明.语言功能规划刍议.语言文字应用.2008.(1)
+2.李宇明.2007年中国语言生活状况述要.世界汉语教学.2008.(3)
+3.赵世举.语言与国家.北京:商务印书馆
+4.陆俭明.语文教学定位应定在哪里？.语言文字应用.2007.(3)
+5.桑哲.语文:民族文化的薪火传承者母语规范化的责任承担者——访当代著名作家、北京大学博士生导师曹文轩教授.语文建设.2005.(1)
+6.陆俭明.语文教育之症结与出路.课程·教材·教法.2006.(3)
+7.赵金铭.国际汉语教育的本旨是汉语教学:汉语应用语言学研究.北京:商务印书馆,2013:11-18
+8.陆俭明.引导学生多读书、读好书是小学语文教学最重要的任务.小学语文.2017.(11)
+9.童庆炳.不要错过历史机遇:中国语文教育忧思录.北京:教育科学出版社,1998:44-47
+10.陈平原.“发现”的乐趣.语文建设.2013.(16)
+11.钱理群.重新确立教育终极目标:中国语文教育忧思录.北京:教育科学出版社,1998:40-44
+12.陆俭明.增强学科意识，发展对外汉语教学.世界汉语教学.2004.(1)
+13.胡范铸.目标设定、路径选择、队伍建设:新时代汉语国际教育的重新认识.世界汉语教学.2018.(1)
+14.杨洁篪.推动构建人类命运共同体:党的十九大报告学习辅导百问.北京:学习出版社,2017:156-166
+15.陆俭明.汉语国际教育专业的定位问题.语言教学与研究.2014.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】1960年代中国国家安全战略转变的若干问题再探讨
+【英文篇名】A Restudy of Several Issues in the Transformation of China\'s National Security Strategy in 1960s
+【来源作者】牛军
+【基    金】2017年国家社会科学基金重点项目(17ASS006)
+【期    刊】华东师范大学学报(哲学社会科学版)
+【第一机构】北京大学
+【机构名称】[牛军]北京大学.国际关系学院
+【第一作者】牛军
+【中图类号】D829
+【年代卷期】2018,50(030):46-62
+【关 键 词】中国对外政策/国家安全战略/决策/冷战/“四人小组”
+【基金类别】
+【参考文献】
+1.周恩来.目前国际形势和我国外交政策.人民日报.2.11
+2.王炳南.中美会谈九年回顾.北京:世界知识出版社
+3.毛泽东.不能把台湾问题上的国际问题同国内问题混淆起来(1959年10月5日):毛泽东外交文选.北京:中央文献出版社,1994:382
+4.陈毅同志在北京市高等院校应届毕业生会上的报告(1961年8月10日)(全宗22，目录1，卷宗598)
+5.中共中央文献研究室.毛泽东年谱(1949-1976)（第5卷）.北京:中央文献出版社
+6.周恩来.备战整军(1962年6月8日):周恩来军事文选.北京:人民出版社,1997:433-435
+7.黄瑶.罗瑞卿传.北京:当代中国出版社
+8.《中国人民解放军军史》编写组.中国人民解放军军史（第5卷）.北京:军事科学出版社
+9.一九六二年六月二十三日与美方非正式会谈有关电报(1965年5月31日－6月25日)(111-00606-01)
+10.From Rusk to Embassy Warsaw, “Cabot-Wang Talks”, May 30, 1962, 611.93/5-1762, General Records of the Department of State, Central Decimal File, 1960-63, Box 1309, RG 59, National Archives
+11.陈毅副总理接见苏联驻华大使契尔年科谈话记录(1962年6月28日)(106-01368-03)
+12.周恩来总理、陈毅副总理接见老挝代表团的谈话记录(1962年6月29日)(106-01386-07)
+13.毛泽东.对适当疏散入闽部队报告的批语:建国以来毛泽东军事文稿.北京:军事科学出版社,2010:142
+14..陈毅同志在北京市高等院校应届毕业生会上的报告(1961年8月10日):8
+15.中共中央文献研究室.毛泽东传(1949-1976)(下).北京:中央文献出版社
+16..刘少奇主席在越南国宴上的讲话.人民日报.5.12
+17..刘少奇在阮爱国党校欢迎会上的讲话.人民日报.5.16
+18..刘少奇主席和胡志明主席联合声明.人民日报.5.17
+19.中共中央文献研究室.周恩来年谱(1949-1976)（中）.北京:中央文献出版社
+20.当前形势和我们的任务(1965年5月7日)(106-01319-04)
+21.牛军.1962:中国对外政策“左”转的前夜.历史研究.2003.(3)
+22.中共中央文献研究室.建国以来毛泽东文稿（第11册）.北京:中央文献出版社
+23.毛泽东.对广东省委关于国防工业和三线备战工作报告的批语(1964年10月22日):建国以来毛泽东文稿:196
+24.江英.冲突与克制:越南战争期间的中美关系:从对峙走向缓和:冷战时期中美关系再探讨:268
+25.周恩来总理接见朝鲜驻华大使朴世昌谈话记录(1964年8月6日)(105-01898-01)
+26.毛泽东.应做好美国扩大越南战争的准备(1964年10月5日):建国以来毛泽东军事文稿:267-272
+27.毛泽东.对中央关于加强战备工作的指示的批语(1965年4月13日):建国以来毛泽东文稿:359
+28.陈兼.越战初期中美之间特殊的“信息传递”.史林.2004.(1)
+29.坚决打击入侵海南岛上空的美机(1965年4月9日)
+30.对中共中央加强战备工作的指示的批语(1965年4月13日)
+31.中共中央文献研究室.建国以来毛泽东军事文稿(下)
+32.越南劳动党中央全会决议内容及有关情况(1965年5月15日)(106-00882-01)
+33.越南国防部军史研究院.越南人民军史(第二部).南宁:广西人民出版社
+34.当前形势和我们的任务(1965年5月7日)(106-01319-04)
+35.周恩来.中国坚决支持越南人民的抗美战争(1965年4月2日):周恩来军事文选.北京:人民出版社,1997
+36.周恩来总理和奈温主席会谈记录(1965年4月3日)(106-01266-01)
+37.周恩来.美军如越过三八线，我们要管(1950年10月3日):周恩来军事文选:66
+38.杜鲁门,哈里.杜鲁门回忆录（第2卷）.北京:三联书店
+39.李丹慧.三八线与十七度线——朝战和越战期间中美信息沟通比较研究.中共党史研究.2001.(3)
+40.Chen,Xiaolu.Chen Yi and China's Diplomacy:Chinese Communist Foreign Relations, 1920s-1960s, Personalities and Interpretive Approaches.DC:Woodrow Wilson Center for International Scholars,1994
+41..赫鲁晓夫与毛泽东会谈记录:关于台湾问题和中印关系的争论(1959年10月2日):俄罗斯解密档案选编:中苏关系(1958.4-1959.10).上海:东方出版中心,2014:424-428
+42..苏达利科夫与罗贵波会谈纪要:关于中苏边境纠纷(1960年8月17日):俄罗斯解密档案选编:中苏关系(1959.10-1962.12).上海:东方出版中心,2014:182-183
+43.李凤林.中苏(俄)边界谈判的历史和基本结论:中苏历史悬案的终结.北京:中共党史出版社,2010
+44.吴冷西.十年论战:中苏关系回忆录(1956-1966)（下）.北京:中央文献出版社
+45.阎明复.阎明复回忆录（2）.北京:人民出版社
+46..评美国共产党声明.人民日报.3.8
+47.程蕊.刘伯承传.贵阳:贵州人民出版社
+48..苏斯洛夫在苏共中央全会报告(节录):关于中苏关系部分(1964年2月14日):俄罗斯解密档案选编:中苏关系(1963.1-1964.11):345
+49.刘主席、周总理接见朝外相朴成哲谈话记录(1964年3月24日)(109-03909-07)
+50.中共中央文献研究室.建国以来毛泽东军事文选（下）:220
+51.毛主席同日共代表团第二次谈话记录(1964年4月10日)
+52.毛泽东接见佐佐木更三、黑田寿男等日本社会党中左派人士的谈话记录(1964年7月10日)
+53..赫鲁晓夫在苏共中央主席团会议上的讲话:中苏边界问题(1946年8月19日)
+54.沈志华.俄罗斯解密档案选编:中苏关系(1963.1-1964.11)（第10卷）
+55..苏联《真理报》1964年9月2日:俄罗斯解密档案选编:中苏关系(1963.1-1964.11):375-376
+56.周文琪.特殊而复杂的课题——共产国际、苏联与中国共产党关系编年史.武汉:湖北人民出版社
+57.毛主席接见法国技术展览会负责人及法国大使的谈话(1964年9月10日)
+58.叶利扎维金,A..柯西金同周恩来在北京机场的会谈.国史研究参考资料.1993.(2)
+59.李连庆.大外交家周恩来（第5卷）.北京:人民出版社
+60.毛泽东.搞好三线建设打起仗来就不怕了(1965年1月23、24日):建国以来毛泽东军事文稿:290-191
+61.周恩来.我们将赢得进步，赢得和平(1965年5月21日):周恩来军事文选:520-525
+62..谁在给印度侵略者撑腰.人民日报.9.18
+63.Kojima,Masaru.Record of the Talk between the Japanese Communist Party and the Communist Party of China.published by the Central Committee of the Japanese Communist Party at Tokyo
+64.毛泽东.培养无产阶级的革命接班人(1964年6月16日):建国以来毛泽东文稿:85-87
+65.毛泽东.在中央政治局常委和各中央局第一书记会议上的讲话(1964年6月16日):建国以来毛泽东军事文稿:229-230
+66.毛泽东.准备好了敌人要来也好办(1964年7月2日):建国以来毛泽东军事文稿:243-244
+67.毛泽东.关于建设地方武装和备战问题(1964年7月15日):建国以来毛泽东军事文稿
+68.毛泽东.关于加强三线建设的讲话:建国以来毛泽东军事文稿:226
+69.鲁礼华.毛泽东加快三线建设战略评析.当代中国史研究.1993.(3)
+70.沈志华.中苏关系史纲:1917-1991年中苏关系若干问题再探讨.北京:社科文献出版社
+71..周恩来在会议结束后通报林彪:周恩来年谱(1949-1976):51
+72..苏联现代修正主义的总破产.人民日报.8.23
+73..中国共产党第八届扩大的第十二次中央委员会全会公报.人民日报.11.1
+74.毛泽东会见阿尔巴尼亚国防部长巴卢库的谈话(1968年10月5日)
+75.毛泽东.关于战争与革命的问题(1968年11月28日):建国以来毛泽东军事文稿:349-352
+76.中共中央文献研究室.毛泽东年谱(1949-1976)（第6卷）
+77.《徐向前年谱》编委会.徐向前年谱（下）.北京:解放军出版社
+78.周均伦.聂荣臻年谱（下）.北京:人民出版社
+79.From Embassy Warsaw to Department of State, “135th Meeting U. S.–ChiCom Talks”, November 25, 1968, Central Foreign Policy Files, 1967-1969, Political and Defense, Pol ChiCom-San to Pol Chicom-U.S., Box, 1972, RG59, National Archives
+80.李可.“文化大革命”中的人民解放军.北京:中共党史资料出版社
+81.徐焰.1969年中苏边界的武装冲突.中共党史研究资料.1994.(5)
+82.《中国人民解放军军史》编写组.中国人民解放军军史（第6卷）.北京:军事科学出版社
+83.中共中央文献研究室.周恩来年谱(1949-1976)（下）
+84.中国人民解放军军事科学院.叶剑英年谱(1897-1986)（下）.北京:中央文献出版社
+85.《叶剑英传》编写组.叶剑英传.北京:当代中国出版社
+86.《聂荣臻传》编写组.聂荣臻传.北京:当代中国出版社
+87.周恩来.对付苏军挑衅的提议(1969年4月3日):周恩来军事文选:554
+88.毛泽东.在中共九届一中全会上的讲话(1969年4月28日):建国以来毛泽东文稿:35-41
+89.熊向晖.我的情报与外交生涯.北京:中共党史出版社
+90.国防大学党史党建政工教研室.中共党史教学参考资料（第26册）.北京:国防大学党史党建政工教研室
+91.周恩来.致柯西金的信(1969年9月18日):周恩来外交文选.北京:中央文献出版社,1990:462-464
+92.毛泽东.对国庆二十周年送审稿的批语和修改(1969年9月):建国以来毛泽东文稿:66
+93.陈东林.中华人民共和国实录（第3卷(上)）.长春:吉林人民出版社
+94..Memorandum of conversation between President Nixon and President Ceausescu
+95.Archives,National.Nixon Presidential Materials, NSC Files, Box 1023, Presidential/HAK Memcons:Memcon President Nixon and President Ceausescu August 2-August 3, 1969
+96.中华人民共和国外交部外交史研究室.周恩来外交活动大事记(1949-1975).北京:世界知识出版社
+97.王永钦.1966-1976年中美关系纪事.当代中国史研究.1997.(4)
+98.王力.回眸中美关系演变的关键时刻.北京:世界知识出版社
+99.熊真.一对外交官夫妇的足迹.南京:江苏人民出版社
+100.景志成.美国大使在华沙追我的真相:新中国外交风云.北京:世界知识出版社,1999:254-255
+101.骆亦粟.在风起云涌的年代里(1949-1989).北京:新华出版社
+102.耿飙.周恩来是新中国外交的创始人和奠基者:研究周恩来——外交思想与实践.北京:世界知识出版社,1989:15
+103.宫力.中国的高层决策与中美关系解冻:从对峙走向和解:冷战时期中美关系再探讨:686
+-----------------------------------------------------------------------
+
+【来源篇名】“一带一路”倡议下国家安全争端解决——以“赫尔姆斯–伯顿法”案为视角
+【英文篇名】
+【来源作者】徐攀亚
+【基    金】国家社科基金项目(15BFX184)
+【期    刊】求索
+【第一机构】武汉大学
+【机构名称】[徐攀亚]武汉大学.
+【第一作者】徐攀亚
+【中图类号】D81
+【年代卷期】2018,(010):56-63
+【关 键 词】“一带一路”/WTO/国家安全/安全例外条款
+【基金类别】
+【参考文献】
+1.刘敬东.构建公正合理的“一带一路”争端解决机制.太平洋学报.2017.(5)
+2.GATT INDEX, Article XXI
+3.冯雪薇.美国“赫尔姆斯－伯顿法”在国际法上的违法性剖析.国际经济法学刊.2004.(1)
+4.Browne,Rene E.Revisiting National Security in an Interdependent World: The GATT Article XXI Defenseafter Helms-Burton.Georgetown Law Journal.1997.
+5.Rosell,Andrew Jose.Future of U. S.-Cuba Relations: a Policy Shift from the Helms-Burton Act.Law and Business Review of the Americas.2001.
+6.Alexander,Klinton W.Helms-Burton Act and the WTOChallenge: Making a Case for the United States underthe GATT National Security Exception.Florida Journal of International Law.1997.11(3)
+7.刘建飞.意识形态对冷战后美国对朝政策的影响.当代亚太.2002.(9)
+8.Piczak,C. Todd.Helms-Burton Act: U. S. Foreign Policy Toward Cuba, the National Security Exception to the Gatt and the Political Question Doctrine.University of Pittsburgh Law Review.1991.61(1)
+9.Spanogle,John A.Jr. Can Helms Burton be Challenged Under WTO.Stetson Law Review.1997.27
+10.Helms-Burton Act
+11.Hahn,Michael J.Vital Interest and the Law of GATT: An Analysis of GATT's Security Exception.George Washington Journal of International Law and Economics.1991.31
+12.RiyazDattu,John Boscariol.GATT Article XXI, Helms-Bruton and the Continuing Abuse of the National Security Exception.Canadian Business Law Journal.1997.(2)
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全之外的《国防教育法》——20世纪中期美国教育改革起源的再审视
+【英文篇名】Beyond the National Defense Education Act: On the Origin of American Educational Reform in the Middle 20th Century
+【来源作者】王慧敏
+【基    金】浙江省哲学社会科学规划课题(16NDJC025Z)
+【期    刊】高等教育研究
+【第一机构】浙江大学
+【机构名称】[王慧敏]浙江大学.教育学院
+【第一作者】王慧敏
+【中图类号】G40-09
+【年代卷期】2018,39(100):100-109
+【关 键 词】国防教育法/教育改革/联邦政府干预/学术自由/国家安全
+【基金类别】
+【参考文献】
+1.曹晓飞.《国防教育法》对美国高等教育发展的影响及启示.当代教育理论和实践.2014.(2)
+2.高英彤.《国防教育法》对美国高等教育发展的影响与启示.河北师范大学学报(教育科学版).2016.(3)
+3.王英杰.美国高等教育的发展与改革.北京:人民教育出版社
+4.RUDOLPH,J L.Scientists in the Classroom: The Cold War Reconstruction of American Science Education.New York:Palgrave Publisher
+5.BABBIDGE,H D.Federal Interest in Higher Education.New York:McGraw-Hill Book Company
+6.杨克瑞.战后美国联邦政府大学生资助政策研究.北京:北京师范大学出版社
+7.王英杰.美国教育.长春:吉林教育出版社
+8.张斌贤.外国教育史.北京:教育科学出版社
+9.贺国庆.战后美国教育史.上海:上海交通大学出版社
+10.朱利霞.国家观念、市场逻辑与公共教育——转型期西方公共教育改革研究.济南:山东教育出版社
+11.陈学飞.美国高等教育发展史.成都:四川大学出版社
+12.KAESTLE,C F.Federal Role in Elementary and Secondary Education, 1940-1980.Harvard Educational Review.1982.(4)
+13.ANDERSON,L W.Congress and the Classroom: From the Cold War to “No Child Left Behind”.Pennsylvania:The Pennsylvania State Press
+14.斯普林,乔尔.美国学校:教育传统与变革.北京:人民教育出版社
+15.CLOWSE,B B.Brainpower for the Cold War: The Sputnik Crisis and National Defense Education Act of 1958.Westport:Greenwood Press
+16.理查森,劳拉.美国学校何去何从(下).世界教育信息.1996.(11)
+17.韦布,L.迪安.美国教育史——一部伟大的美国实验.合肥:安徽教育出版社
+18.HEROLD,J..Sputnik in American Education: A History and Reappraisal.McGill Journal of Education.1974.(2)
+19.姚运标.美国教科书中的宗教与科学之争:以斯科普斯案和《国防教育法》为例.合肥师范学院学报.2009.(4)
+20.傅林.当代美国教育改革的社会机制研究——20世纪60年代美国教育改革运动的形成.北京:教育科学出版社
+21.盖格,罗杰.研究与相关知识——第二次世界大战以来的美国研究型大学.保定:河北大学出版社
+22.FINE,B..Our Children Are Cheated: The Crisis in American Education.New York:Henry Holt and Company
+23.JENNINGS,F G.Revolution in Education: It Didn't Start With Sputnik.Saturday Review.1967.(9)
+24.United States Congress.United States Statutes at Large, Vol.68, Part 1.Washington:Government Printing Office
+25.The Committee for the White House Conference on Education.A Report to the President: Summary Statement.Washington:Government Printing Office
+26.LEONARD,J P.White House Conference on Education, November/December 1955.International Review of Education.1956.(3)
+27.The President's Committee on Education Beyond the High School.Second Report to the President.Washington:Government Printing Office
+28.United States Congress.Scholarship and Loan Program: Hearings before a Subcommittee of the Committee on Education and Labor, Part 1.Washington:Government Printing Office
+29..艾森豪威尔回忆录（3）.北京:东方出版社
+30.HARTMAN,A..Education and Cold War: The Battle for the American School.New York:Palgrave Mc-Millan
+31.EISENHOWER,D D.Radio and Television Address to the American People on Science in National Security.2018
+32.URBAN,W J.More than Science and Sputnik: The National Defense Education Act of 1958.Tuscaloosa:The University of Alabama Press
+33.United States Congress.Congressional Record, 84th Congress, 2nd Session.Washington:United States Government Printing Office
+34.EISENHOWER,D D.Special Message to the Congress on Education.2018
+35.EISENHOWER,D D.Statement by the President Upon Signing the National Defense Education Act.2018
+36.United States Congress.United States Statutes at Large, Volume 72, Part 1.Washington:United States Government Printing Office
+37.GLASS,B..Disclaimer Affidavit Requirement: Association Officers Express Disapproval of Title X, Section 1001(f)(1)of the National Defense Education Act of 1958.AAUP Bulletin.1958.(4)
+38.DUS,G..Big Brother Again.Science, New Series.1958.(3333)
+39..Loyalty Provisions of National Defense Education Act Meet Opposition from Educators and Congressmen.Science, New Series.1959.(3349)
+40.PUSEY,N H.Letters: The Disclaimer Affidavit.AAUP Bulletin.1961.(4)
+41.Editorial,R.H.E..Disclaimer Affidavit.Journal of Higher Education.1960.(3)
+42.United States Congress.Congressional Record, 86th Congress, 2nd Session.Washington:Government Printing Office
+43.KENNEDY,J F.Loyalty Oath: An Obstacle to Better Education.AAUP Bulletin.1959.(1)
+44.RAVITCH,D..Revisionist Revised: A Critique of the Radical Attack on the Schools.New York:Basic Books, Inc
+45.CONLAN,T J.Evolution of a Problematic Partnership: The Feds and Higher Education.Washington:Advisory Commission on Intergovernmental Relations
+46.RAVITCH,D..Troubled Crusade: American Education, 1945-1980.New York:Basic Books, Inc
+47.Rockefeller Brother Fund.Pursuit of Excellence: Education and the Future of America.New York:Doubleday & Company
+-----------------------------------------------------------------------
+
+【来源篇名】从“伙伴”到“对手”:《美国国家安全战略报告》的话语空间分析
+【英文篇名】From \"Partner\" to \"Rival\": A Research into the Discourse Spaces in National Security Strategy of the United States of A merica
+【来源作者】刘文宇/徐博书
+【基    金】国家社会科学基金一般项目(15BYY057)
+【期    刊】外语研究
+【第一机构】大连理工大学
+【机构名称】[刘文宇]大连理工大学.外国语学院/[徐博书]大连理工大学.外国语学院
+【第一作者】刘文宇
+【中图类号】H030
+【年代卷期】2018,(060):8-15,52
+【关 键 词】趋近化理论/话语空间理论/批评话语分析/国家安全战略报告
+【基金类别】
+【参考文献】
+1.潘冬.批评话语分析的新方法——趋近化分析.山东外语教学.2017.(4)
+2.汪徽.政治演讲的话语空间建构研究——以习近平主席2014年国家公祭日讲话为例.山东外语教学.2016.(3)
+3.武建国.批评性话语分析的新方法——趋近化理论.外国语.2016.(5)
+4.张辉.心理空间与概念整合:理论发展及其应用.解放军外国语学院学报.2008.(1)
+5.张天伟.政治领导人演讲的话语体系构建研究——基于近体化理论的案例分析.中国外语.2016.(5)
+6.Cap,P..Legitimisation in Political Discourse: A Cross-Disciplinary Perspective on the Modern US War Rhetoric.Newcastle:Cambridge Scholars Publishing
+7.Cap,P..Towards the proximization model of the analysis of legitimization in political discourse.Pragmatics.2008.40(1)
+8.Cap,P..Proximization theory and critical discourse studies: a promising connection?.International Review of Pragmatics.2013.5(2)
+9.Cap,P..Applying cognitive pragmatics to critical discourse studies: a proximization analysis of three public space discourses.Journal of Pragmatics.2014.70
+10.Cap,P..Language of Fear: Communicating Threat in Public Discourse.Hardcover:Palgrave Macmillan
+11.Chilton,P..Analysing Political Discourse: Theory and Practice.London:Routledge
+12.Chilton,P..Vectors, viewpoint and viewpoint shift.Annual Review of Cognitive Linguistics.2005.3(1)
+13.Chovanec,J..Perspectives in Politics and Discourse.Amsterdam:John Benjamins
+14.Dunmire,P..Projecting the Future through Political Discourse: The Case of the Bush Doctrine.Amsterdam:John Benjamins
+15.Geeraerts,D..Oxford Handbook of Cognitive Linguistics.Oxford:Oxford University Press
+16.Hart,C..Critical Discourse Analysis and Cognitive Science: New Perspectives on Immigration Discourse.London:Palgrave Macmillan
+17.Levinson,S. C..Space in Language and Cognition: Explorations in Cognitive Diversity.Cambridge:Cambridge University Press
+18.Okulska,U..Perspectives in Politics and Discourse.Amsterdam:John Benjamins
+19.van Dijk,T.A..What is political discourse analysis?.Belgian Journal of Linguistics.1997.11(1)
+-----------------------------------------------------------------------
+
+【来源篇名】《国家情报法》解读——基于“总体国家安全观”视角的思考
+【英文篇名】Interpretation of National Intelligence Law——Thinking of Based on the Overall National Security Concept
+【来源作者】邓灵斌
+【基    金】
+【期    刊】图书馆
+【第一机构】南华大学
+【机构名称】[邓灵斌]南华大学.管理学院
+【第一作者】邓灵斌
+【中图类号】G350
+【年代卷期】2018,(080):52-56
+【关 键 词】总体国家安全观/《国家情报法》/国家安全/国家情报工作/情报共享/情报教育
+【基金类别】
+【参考文献】
+1..习近平:牢固树立认真贯彻总体国家安全观，开创新形势下国家安全工作新局面.2017
+2.张家年.创新情报科技保障国家安全:IARPA的研究机制与启示.情报杂志.2016.35(1)
+3..中华人民共和国国家情报法.人民日报.7.14(12)
+4.The U.S. Congress.Intelligence reform and terrorism prevention act of 2004.Washington, D.C:the U.S.Congress
+5.Waxman,M C.National strategy for information sharing and safe-guarding.Washington, D.C.the White House
+6..奥巴马推行网络安全新政，呼吁立法应对网络威胁.2017
+7.俄罗斯卫星通讯社.俄罗斯对《对外情报法》进行详细界定.2017
+8..英国监听情报法案一窥.2017
+9.新浪新闻中心.美国被曝监听法总统事件发酵，法国情报法获通过.2017
+10.肖占中.伟人风采——周恩来与我党秘密情报工作.2017
+11..中华人民共和国反恐怖主义法.2017
+12..中国公布首部“国家情报法”草案，来看看这些神秘条款.2017
+13.中华人民共和国国防部.中华人民共和国国家情报法.2017
+14.翟金一.论国家安全与情报工作战略统筹的必然性:《决策与信息》杂志社,2016:2
+15.张家年.国家安全保障视域下安全情报与战略抗逆力的融合与对策.情报杂志.2017.36(1)
+16.National commission on terrorist attacks upon the united states.9/11 commission report.Washington, D.C:National Commission on Terrorist Attacks Upon the United States
+17.孙敏.国家安全领域的情报信息共享意愿研究.情报杂志.2017.36(1)
+18.高婷婷.应对“一带一路”战略沿线国家恐怖主义的情报支援机制探究.海军工程大学学报(综合版).2017.14(2)
+19.陕西省科学技术情报研究院.解读国家情报法，研讨中国情报学——第四届华山情报论坛成功举行.2017
+20.张培.美国国家情报学院技术侦查培训.现代世界警察.2017.(4)
+21.桂畅旎.以色列智库网络安全研究的一项新成果——国家安全研究所创办《网络、情报与安全》杂志.中国信息安全.2017.(3)
+22.王君.美国高校的国家安全与情报教学研究.情报杂志.2017.36(2)
+23.张晓军.情报、情报学与国家安全——包昌火先生访谈录.情报杂志.2017.36(5)
+-----------------------------------------------------------------------
+
+【来源篇名】总体国家安全观:开创中国特色国家安全道路的指导思想
+【英文篇名】The Ideology of Wholistic National Security: the Guiding Principle of Establishing a National Security System with Chinese Characteristics
+【来源作者】马振超
+【基    金】中国人民公安大学课题(2018JKF201)/公安部重点项目(2017LLYJGADX008)
+【期    刊】行政论坛
+【第一机构】中国人民公安大学
+【机构名称】[马振超]中国人民公安大学.侦查与反恐学院
+【第一作者】马振超
+【中图类号】D610
+【年代卷期】2018,25(040):5-10
+【关 键 词】总体国家安全观/国家安全/人民安全/国际安全
+【基金类别】
+【参考文献】
+1.中共中央党史和文献研究院.习近平关于总体国家安全观论述摘编.北京:中央文献出版社
+2..十九届中央国安委首会，习近平压实责任.2018
+3.陈静慧.中国国家安全观的演化与展望.党政论坛.2018.(6)
+4..坚持总体国家安全观.光明日报.11.7(1)
+5.习近平.决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告(2017年10月18日).2018
+6..习近平谈治国理政.北京:外文出版社
+7.刘跃进.人民安全是总体国家安全观的第一要义.2018
+8.陈江生.制度优势是中国安全稳定的根基.2018
+9..全面提升防范应对各类风险挑战的水平确保国家长治久安人民安居乐业.人民日报.1.13(1)
+10.马振超.当代中国政治安全的内在逻辑和价值伦理.国际安全研究.2018.(3)
+11.中共中央文献研究室.十八大以来重要文献选编（上）.北京:中央文献出版社
+12.郑永年.用中国话语体系向世界传播大国强音.北京日报.5.30(8)
+13..全面贯彻落实总体国家安全观开创新时代国家安全工作新局面.2018
+-----------------------------------------------------------------------
+
+【来源篇名】在总体国家安全观指导下健全国家安全体系
+【英文篇名】Refining the National Security System with the Guidance of Ideology of the Wholistic National Security
+【来源作者】刘跃进/宋希艳
+【基    金】国际关系学院创新团队建设重点项目(3262018T01)/国家社会科学基金重点项目(17AZD039)
+【期    刊】行政论坛
+【第一机构】国际关系学院
+【机构名称】[刘跃进]国际关系学院.公共管理系/[宋希艳]西安交通大学.马克思主义学院
+【第一作者】刘跃进
+【中图类号】D610
+【年代卷期】2018,25(040):11-17
+【关 键 词】国家安全体系/总体国家安全观/国家安全学
+【基金类别】
+【参考文献】
+1.习近平.坚持总体国家安全观，走中国特色国家安全道路.人民日报.4.16(1)
+2..分析研究二○一七年经济工作，审议《关于加强国家安全工作的意见》.人民日报.12.10(1)
+3.习近平.决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告(2017年10月18日).人民日报.10.28(1)
+4.习近平.全面贯彻落实总体国家安全观，开创新时代国家安全工作新局面.人民日报.4.18(1)
+5.习近平.汇聚起维护国家安全强大力量不断提高人民群众安全感幸福感.人民日报.4.15(1)
+6..教育部关于加强大中小学国家安全教育的实施意见.2018
+7.朱奕宝.安全科学与预防事故.中国科技信息.1994.(12)
+8.朱奕宝.城市减灾重在防——一个不容回避的重大课题.中国科技信息.1996.(12)
+9.蔡培元.人类的安全需要与保卫学的理论研究.中国高教研究.1998.(1)
+10.刘跃进.为国家安全立言——“国家安全学”构想.首都国家安全.1998.(2)
+11.刘跃进.建立“国家安全学”初探.国家安全通讯.1999.(1)
+12..中国关于新安全观的立场文件.2018
+13.夏保成.国家安全论.长春:长春出版社
+14.金钿.国家安全论.北京:中国友谊出版公司
+15.刘跃进.国家安全学.北京:中国政法大学出版社
+16.刘跃进.国家安全体系中的语言文字问题.语言教学与研究.2011.(6)
+17.刘跃进.国家安全体系中的社会安全问题.中央社会主义学院学报.2012.(2)
+18.刘跃进.为国家安全立学——国家安全学科的探索历程及若干问题研究.长春:吉林大学出版社
+19.高宏强.总体安全观下国家主流意识形态大众化的虚拟化传播.内蒙古社会科学(汉文版).2017.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】总体国家安全观视角下公共危机管理模式的变革
+【英文篇名】Reform of Public Crisis Management Mode in the Perspective of Holistic Approach to National Security
+【来源作者】王宏伟
+【基    金】国家社会科学基金一般项目(12BGL109)/北京市社会科学基金重点项目(15JGA029)/中国人民大学公共管理学院“公共财政与公共政策学科建设”经费
+【期    刊】行政论坛
+【第一机构】中国人民大学
+【机构名称】[王宏伟]中国人民大学.公共管理学院
+【第一作者】王宏伟
+【中图类号】D610
+【年代卷期】2018,25(040):18-24
+【关 键 词】总体国家安全观/公共危机管理模式/控制导向型/多元共治网络型
+【基金类别】
+【参考文献】
+1..马克思恩格斯全集（第30卷）.北京:人民出版社
+2.张云飞.马克思总体性方法及其学科建设意义.教学与研究.2008.(7)
+3.卢卡奇.历史与阶级意识.北京:商务印书馆
+4..马克思恩格斯全集（第31卷）.北京:人民出版社
+5.编委会.总体国家安全观干部读本.北京:人民出版社
+6..习近平谈治国理政.北京:外文出版社
+7.全国人大常委会法制工作委员会国家法室.中华人民共和国国家安全法解读.北京:中国法制出版社
+8.中共中央宣传部.习近平总书记系列重要讲话读本.北京:学习出版社
+9.里夫金,杰里米.零边际成本社会:一个物联网、合作共赢的新经济时代.北京:中信出版社
+10.MCCORB,K H.Critical Infrastructure.New York:Nova Science Publishers, Inc
+11.福山,弗朗西斯.意外:如何预测全球政治中的突发事件与未知因素.北京:中国社会科学出版社
+12.唐斯,安东尼.民主的经济理论.上海:上海人民出版社
+13.米歇尔,梅拉尼.复杂.长沙:湖南科学技术出版社
+14.张康之.为了人的共生共在.北京:人民出版社
+15.竹中平藏.日本“3.11”大地震的启示:复合型灾害与危机管理.北京:新华出版社
+16.塔勒布,纳西姆·尼古拉斯.黑天鹅:如何应对不可预知的未来.北京:中信出版社
+17.塔勒布,纳西姆·尼古拉斯.反脆弱:从不确定性中获益.北京:中信出版社
+18.雷默,乔舒亚·库珀.不可思议的年代:面对新世界必须具备的关键概念.长沙:湖南科学技术出版社
+19.刘洪.组织复杂性管理:适应复杂性，创立竞争新优势.北京:商务印书馆
+20.舒曼.社会弱势群体网络信息表达行为的实证研究.江西社会科学.2017.(12)
+21.杰克逊,迈克尔·C.系统思考:适于管理者的创造性整体论.北京:中国人民大学出版社
+22.GIBBONS,D E.Communicable Crises: Prevention, Response, and Recovery in the Global Arena.Charlotte, NC:Information Age Publishing
+-----------------------------------------------------------------------
+
+【来源篇名】习近平总体国家安全观的哲学基础
+【英文篇名】
+【来源作者】韩承鹏
+【基    金】2015年度国家社会科学基金项目(15B22033)
+【期    刊】求索
+【第一机构】上海理工大学
+【机构名称】[韩承鹏]上海理工大学.管理学院
+【第一作者】韩承鹏
+【中图类号】B0
+【年代卷期】2018,(060):35-42
+【关 键 词】习近平/总体国家安全观/唯物主义/辩证法
+【基金类别】
+【参考文献】
+1.习近平.决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告.北京:人民出版社
+2..习近平在中共中央政治局第二十次集体学习时强调坚持运用辩证唯物主义世界观方法论提高解决我国改革发展基本问题本领.人民日报.1.25
+3.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+4..习近平谈治国理政（第1卷）.北京:外文出版社
+5.习近平.携手推进“一带一路”建设——在“一带一路”国际合作高峰论坛开幕式上的演讲.人民日报.5.14
+6.习近平.全面提升防范应对各类风险挑战的水平确保国家长治久安人民安居乐业.人民日报.1.13
+7..马克思恩格斯全集（第2卷）.北京:人民出版社
+8..马克思恩格斯文集（第1卷）.北京:人民出版社
+9..马克思恩格斯选集（第2卷）.北京:人民出版社
+10..习近平谈治国理政（第2卷）.北京:外文出版社
+11..习近平关于科技创新论述摘编.北京:中央文献出版社
+12.习近平.汇聚起维护国家安全强大力量不断提高人民群众幸福安全感.人民日报.4.15
+-----------------------------------------------------------------------
+
+【来源篇名】国家发展与国家安全视野中的“民族问题”
+【英文篇名】\"Ethnic Issues\" in the Perspective of National Development and National Security
+【来源作者】周少青
+【基    金】国家社会科学基金重点项目(17AMZ006)
+【期    刊】学术界
+【第一机构】中国社会科学院民族学与人类学研究所
+【机构名称】[周少青]中国社会科学院民族学与人类学研究所.
+【第一作者】周少青
+【中图类号】C95
+【年代卷期】2018,(100):67-82
+【关 键 词】民族/民族问题/国家认同/国家发展/国家安全
+【基金类别】
+【参考文献】
+1.彭英明.民族问题及其实质浅论.民族研究.1981.(1)
+2.杨荆楚.对《民族问题及其实质浅论》一文的几点不同意见.中央民族学院学报.1982.(2)
+3.民族理论和民族政策编写组.民族理论和民族政策.北京:民族出版社
+4.阿拉坦.论民族问题的含义.民族研究.1986.(3)
+5.麦格,马丁·N..族群社会学.北京:华夏出版社
+6.加藤节.政治与人.北京:北京大学出版社
+7.Lijphart,Arend.Democracy in Plural Societies: A Comparative Exploration.Yale University Press
+8.左宏愿.族群冲突与制度设计:协和民主模式与聚合模式的理论比较.民族研究.2012.(5)
+9.密尔,J.S..代议制政府.北京:商务印书馆
+10.Rothblatt,Donald N..National Development Policy.Public Administration Review.1974.34(4)
+11.龚永辉.关于民族问题的两重属性——三十年来民族问题概念广义、狭义之争的学理反思.民族研究.2010.(1)
+12.关凯.国家视野下的中国民族问题.文化纵横.2013.(3)
+13.孙代尧.解释民族冲突的三种理论图式.贵州民族研究(季刊).1999.(3)
+14.赵磊.周边国家的民族问题及其对中国国家安全的影响.现代国际关系.2017.(6)
+15.Esman,Milton J..Public Administration, Ethnic Conflict, and Economic Development.Public Administration Review.1997.57(6)
+16.林尚立.现代国家认同建构的政治逻辑.中国社会科学.2013.(8)
+17.泰勒,查尔斯.自我的根源:现代认同的形成.南京:译林出版社
+18.沈桂萍.民族问题的核心是国家认同问题.中央社会主义学院学报.2010.(2)
+19.钱雪梅.从认同的基本特性看族群认同与国家认同的关系.民族研究.2006.(6)
+20.哈贝马斯.在事实与规范之间:关于法律和民主法治国的商谈理论.北京:生活·读书·新知三联书店
+21.金太军.国家认同:全球化视野下的结构性分析.中国社会科学.2014.(6)
+22.Kymlicka,Will.Universal Minority Rights?.Ethnicities.2001.1(1)
+23.Harff,Barbara.Ethnic Conflict in World Politics, 2nd ed..Westview Press
+24.田源.移民与国家安全:威胁的衍生及其条件研究.北京:世界知识出版社
+25.龚永辉.民族意识与民族问题——民族意识及其调控研究之三.广西民族学院学报.1995.(3)
+26.布赞,巴瑞.新安全论.杭州:浙江人民出版社
+27.布赞,巴里.人、国家与恐惧——后冷战时代的国际安全研究议程.北京:中央编译局出版社
+28.刘卫东.论国家安全的概念及其特点.世界地理研究.2002.(2)
+29.Kumar,Krishan.Empires and Nations: Convergence or Divergence?:Sociology and Empire: The Imperial Entanglements of a Discipline:Duke University Press,2013
+30.Anderson,Benedict.Imagined Communities: Reflection on the Origin and Spread of Nationalism, revised edition.London and New York:Verso
+-----------------------------------------------------------------------
+
+【来源篇名】东南亚海上安全治理困境及中国的策略选择——基于“总体国家安全观”分析路径
+【英文篇名】The Predicament in Southeast Asian Maritime Security Governance and Resolving: An Approach of \"Overall National Security Concept\"
+【来源作者】韦红
+【基    金】2017年度教育部哲学社会科学研究重大课题攻关项目(17JZD035)
+【期    刊】华中师范大学学报(人文社会科学版)
+【第一机构】华中师范大学
+【机构名称】[韦红]华中师范大学.政治与国际关系学院
+【第一作者】韦红
+【中图类号】D81
+【年代卷期】2018,57(060):41-50
+【关 键 词】安全治理/海上安全/东南亚
+【基金类别】
+【参考文献】
+1.王伟光.把治理引入国家安全领域——安全治理研究评介.国际关系研究.2014.(1)
+2.Liss,Carolin.Privatization of Maritime Security in Southeast Asia: The Impact on Regional Security Cooperation.Australian Journal of International Affairs.2014.68(2)
+3.崔顺姬.安全治理:非传统安全能力建设的新范式.世界经济与政治.2010.(1)
+4.塞鲁蒂,富里奥.全球治理的两个挑战:哲学的视角:全球治理:挑战与趋势.北京:社会科学文献出版社,2014:5
+5.金新.中国–东盟安全治理:模式、困境与出路.当代世界与社会主义.2016.(5)
+6.现代院课题组.太平洋足够宽广——关于构建“跨太平洋安全合作架构”的思考.现代国际关系.2014.(10)
+7.Huang,Major Victor.Building Maritime Security in Southeast Asia: Outsiders not Welcome?.Naval War College Review.2008.61(1)
+8.Storey,Ian.Maritime Security in Southeast Asia: Two Cheers for Regional Cooperation.Southeast Asian Affairs.2009.
+9.庞中英.地区安全治理的未来:走向亚洲协调.国际安全研究.2016.(5)
+10.王磊.大国协调与跨区域安全治理.国际安全研究.2014.(1)
+11.余潇枫.非传统安全共同体:一种跨国安全治理的新探索.国际安全研究.2017.(1)
+12.Bradford,Lieutenant John F..Growing Prospects for Maritime Security Cooperation in Southeast Asia.Naval War College Review.2005.58(3)
+13.Ishii,Yurika.International Cooperation on the Repression of Piracy and Armed Robbery at Sea under the UNCLOS.Journal of East Asia & International Law.2014.7(2)
+14.Jayasuriya,Kanishka.Regulatory Regionalism in the Asia Pacific: Drivers, Instruments and Actors.Australian Journal of International Affairs.2009.63(3)
+15.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+16..习近平在亚洲相互协作与信任措施会议第四次峰会上的讲话
+17.习近平.坚持总体国家安全观走中国特色国家安全道路.人民日报.4.16
+18.高奇琦.社群世界主义:全球治理与国家治理互动的分析框架.世界经济与政治.2016.(11)
+19.Liss,Carolin.New Actors and the State: Addressing Maritime Security Threats in Southeast Asia.Contemporary Southeast Asia.2013.35(2)
+20.Storey,Ian.Addressing the Persistent Problem of Piracy and Sea Robbery in Southeast Asia
+21.Brewster,David.India's Security Partnership with Singapore.Pacific Review.2009.22(5)
+22.Williams,Meryl J..Will New Multilateral Arrangements Help Southeast Asian States Solve Illegal Fishing?.Contemporary Southeast Asia.2013.35(2)
+23.Rosenberg,David.Fisheries Management in the South China Sea:Security and International Politics in the South China Sea: Towards a Cooperative Management Regime:Routledge,2009:72
+24.Dabova,E.L..Non-traditional Security Threats in the Border Areas: Terrorism, Piracy, Environmental Degradation in Southeast Asian Maritime Domain
+25.Romeyoy,Robert.Improving Marine Fisheries Management in Southeast Asia: Results of a Regional Fisheries Stakeholder Analysis.Marine Policy.2016.65
+26.Bateman,Sam.Prospects for a Cooperative Management Regime:Security and International Politics in the South China Sea: Towards a Cooperative Management Regime:Routledge,2009:236
+27.Banlaoi,Rommel C..Maritime Terrorism in Southeast Asia: The Abu Sayyaf Threat.Naval War College Review.2005.58(4)
+28..仰光彭博电:罗兴亚人道危机或威胁区域安全
+29.Clive,Schofield.Energy Security and Southeast Asia: The Impact on Maritime Boundary and Territorial Disputes.Harvard Asia Quarterly.2005.9(4)
+30..ASEAN Political-Security Community Blueprint
+-----------------------------------------------------------------------
+
+【来源篇名】北极安全与新《国家安全法》视角下中国国家安全利益
+【英文篇名】Security of the North Pole and China\'s National Security Interests from the perspective of the New National Security Law
+【来源作者】刘芳明/刘大海
+【基    金】国家海洋局项目(SY0518003)/国家海洋局项目(JDKC0318001)
+【期    刊】中国软科学
+【第一机构】国家海洋局
+【机构名称】[刘芳明]国家海洋局.第一海洋研究所/[刘大海]国家海洋局.第一海洋研究所
+【第一作者】刘芳明
+【中图类号】P7
+【年代卷期】2018,(090):8-14
+【关 键 词】北极/国家安全法/安全利益/战略
+【基金类别】
+【参考文献】
+1.北极问题研究编写组.北极问题研究.北京:海洋出版社
+2.何奇松.气候变化与北极地缘政治博弈.外交评论.2010.27(5)
+3.陆俊元.北极地缘政治与中国应对.北京:时事出版社
+4.张文木.21世纪气候变化与中国国家安全.太平洋学报.2016.24(12)
+5.Tamnes,R..Geopolitics and Security in the Arctic: Regional dynamics in a global world.New York:Routledge
+6.马建光.俄罗斯海洋战略嬗变及其对地缘政治的影响探析——基于新旧两版《俄联邦海洋学说》的对比.太平洋学报.2015.(11)
+7.O’Rourke,Ronald.Changes in the Arctic: Background and issues for congress.2017
+8.奥兹诺比谢夫,谢尔盖﹒康斯坦丁诺维奇.北极国家的军事活动:北极地区国际合作问题.北京:世界知识出版社,2016
+9.Wezeman,Siemon T..Military capabilities in the Arctic: A new cold war in the High North?.2017
+10.王传兴.北极地区安全维度变化与北极地区议题安全化.国际安全研究.2013.(3)
+11.EICKEN,H..Potential contribution of sustained, integrated observations to Arctic maritime domain awareness and common operational picture development in a hybrid research-operational setting:Fairbanks (Alaska): Arctic Observing Summit,2016:1-16
+12.郭学堂.中国需从全球战略高度看待极地地区问题.社会观察.2008.
+13.丁煌.极地国家政策研究报告.2014-2015.北京:科学出版社
+14.陆俊元.中国北极权益与政策研究.北京:时事出版社
+15.贺鉴.总体国家安全观视角中的北极通道安全.国际安全研究.2015.(6)
+16.卡尔卢索夫,维亚切斯拉夫﹒弗谢沃洛多维奇.中国全球化下的北极维度:北极地区国际合作问题.北京:世界知识出版社,2016
+17.Wishnick,Elizabeth.China's Interests and Goals in the Arctic Implications for the United States.Newport, Rhode Island:Strategic Studies Institute and U. S. Army War College Press
+18.Campbell,Caitlin.China and the Arctic: Objectives and obstacles.Washington, DC:U. S.-China Economic and Security Review Commission
+19..外交部副部长张明出席第三届北极圈论坛大会并发表主旨演讲.2015
+20.杨剑.亚洲国家与北极未来.北京:时事出版社
+21..《中国的北极政策》白皮书.2018
+22..Heather A Conley.2018
+23.邓贝西.试析北极安全态势发展与安全机制构建.太平洋学报.2016.24(12)
+24.北京晚报.我国首个国际空间探测计划进入倒计时.2003
+25.国家海洋局极地考察办公室.中国北极黄河站.2017
+26.新华社.中国与冰岛在冰岛第二大城市建立极光联合观测台.2013
+27.中国卫星导航定位应用管理中心.中国北极黄河站“北斗系统”基准站开通运行.2016
+28.中国科学院遥感与数字地球研究所.我国首个海外陆地卫星接收站投入试运行.2016
+29.俄罗斯卫星通讯社.芬兰将助中国征服北极.2017
+30.孙凯.北极治理机制变迁及中国的参与战略研究.世界经济与政治论坛.2012.(2)
+31.Jakobson,Linda.China's Arctic aspiration.2017
+32.Grieger,Gisela.China's Arctic policy: How China aligns rights and interests.2018
+33.外交部.汪洋出席第四届国际北极论坛.2017
+34.赵宁宁.中国北极治理话语权:现实挑战与提升路径.社会主义研究.2018.(2)
+35.章成.论中国对北极事务的参与:法律依据、现实条件和利益需求.理论月刊.2017.(4)
+36.李振福.丝绸之路－北极航线战略研究.大连:大连海事大学出版社
+37.肖洋.地缘科技学与国家安全:中国北极科考的战略深意.国际安全研究.2015.(6)
+38..吴军:我们为什么要去极地？.2016
+39.阮建平.北极治理变革与中国的参与选择——基于“利益攸关者”理念的思考.人民论坛·学术前沿.2017.(19)
+-----------------------------------------------------------------------
+
+【来源篇名】中国南极国家安全利益的生成及其维护路径研究
+【英文篇名】Research on the Formation and Maintenance of National Security Interests of China in the Antarctic
+【来源作者】丁煌/云宇龙
+【基    金】国家重大专项课题(CHINARE2016-04-05-05)/教育部哲学社会科学研究重大课题攻关项目(14JZD032)
+【期    刊】太平洋学报
+【第一机构】武汉大学
+【机构名称】[丁煌]武汉大学./[云宇龙]武汉大学.
+【第一作者】丁煌
+【中图类号】D820
+【年代卷期】2018,26(090):70-81
+【关 键 词】总体国家安全观/南极治理/中国国家安全利益/利益生成/利益维护
+【基金类别】
+【参考文献】
+1.阎学通.中国国家利益分析.天津:天津人民出版社
+2.刘跃进.为国家安全立学——国家安全学科的探索历程及若干问题研究.长春:吉林大学出版社
+3.Day,David.Ice Works: Three Portraits of Antarctica
+4.胡德坤.南极领土争端与《南极条约》的缔结.武汉大学学报(人文科学版).2010.(1)
+5.习近平.决胜全面建成小康社会夺取新时代中国特色社会主义伟大胜利.人民日报.10.19(4)
+6.中国极地研究中心.张高丽出席第40届南极条约协商会议并致辞.2017
+7.丁煌.利益分析:研究政策执行问题的基本方法论原则.广东行政学院学报.2004.(3)
+8.陈玉刚.试析中国的南极利益与权益.吉林大学社会科学报.2016.(4)
+9.郭培清.中国挺进南极.海洋世界.2007.(7)
+10.赵士金.澳大利亚南极局局长麦丘来青讲学.海洋湖沼通报.1980.(4)
+11.中共中央文献研究室.邓小平思想年谱(1975-1997).北京:中央文献出版社
+12.张青松.中国南极考察28年来的进展.自然杂志.2008.(5)
+13.符淙斌.我国长江流域梅雨变动与南极冰雪状况的可能联系.科学通报.1981.(8)
+14.卞林根.南极温度的时空特征及其与我国夏季天气的关系.南极研究.1989.(3)
+15.解思梅.东南极海冰异常与中国夏季洪涝.海洋湖沼通报.1994.(2)
+16.谢基平.南极绕极波动及其与中国夏季降水异常的关联.南京气象学院学报.2005.(3)
+17.鲍学俊.南极涛动与江淮梅雨异常的时滞相关分析.南京气象学院学报.2006.(3)
+18.靳晓明.国际科技合作征程（第4辑）.北京:科学技术文献出版社
+19.赵宁.发扬南极精神建设极地强国——访国家海洋局党组书记、局长王宏.中国海洋报.4.26(1)
+20.丁煌.极地国家政策研究报告(2015-2016).北京:科学出版社
+21.宋健.传播科学知识弘扬南极精神.海洋世界.1994.(11)
+22.阮建平.南极政治的进程、挑战与中国的参与战略——从地缘政治博弈到全球治理.太平洋学报.2016.(12)
+23.李宜钊.政策学习:推动政策创新的新工具.云南行政学院学报.2015.(5)
+24.华薇娜.南极条约协商国南极活动能力调研统计报告.北京:海洋出版社
+-----------------------------------------------------------------------
+
+【来源篇名】美国国家安全委员会决策体制研究
+【英文篇名】A Study on the U. S. Decision-Making System in the U.S. Security Council
+【来源作者】李枏
+【基    金】
+【期    刊】美国研究
+【第一机构】中国社会科学院美国研究所
+【机构名称】[李枏]中国社会科学院美国研究所.
+【第一作者】李枏
+【中图类号】D871.2
+【年代卷期】2018,32(060):127-141
+【关 键 词】美国军事与外交/国家安全委员会/总统/国家安全事务助理/对外决策
+【基金类别】
+【参考文献】
+1.纽曼,威廉.美国总统与国安决策过程.台北:国防部部办室
+2.Lobel,Aaron.Presidential Judgment: Foreign Policy Decision Making and the White House.John F. Kennedy School of Government: Hollis Publishing Company
+3.Jackson,Henry M..National Security Council.New York:Frederick A. Praeger, Publishers
+4.雷飞龙.美国总统的幕僚机构.台湾:台湾商务印书馆
+5.陈治世.美国政府与政治.台湾:台湾商务印书馆
+6.Congress of United States.Congressional Record,1945
+7.Harry,S..Truman, Memoirs（Vol. 2）.Years of Trial and Hope
+8.北京太平洋国际战略研究所.应对危机:美国国家安全决策机制.北京:时事出版社
+9.Brzezinski,Zbigniew.NSC's Midlife Crisis.Foreign Policy.1988.(69)
+10.Acheson,Dean.Thoughts about Thought in High Places.New York Times Magazine.10.11
+11.Rostow,Walter W..Diffusion of Power.New York:The Macmillan Corn-party
+12.Graft,Henry F..Tuesday Cabinet.Englewood Cliffs, N.J.:Prentice-Hall, Inc
+13.Redford,Emmette S..Johnson Presidency.Austin:University of Texas Press
+14.Brzezinski,Zbignew.Power and Principle: Memoirs of the National Security Adviser, 1977-1981.New York:Farrar, Straus, Giroux
+15.Ryan,Steve.A Facilitator Takes Charge.Foreign Service Journal.1988.104(9)
+16..Power Commission Report.New York:Times Books
+17.Regan,Donald.For the Record.New York:Harcourt Brace Jovanovich Publishers
+18..NSPD-1: Organization of the National Security Council System
+19.Mitchell,David.Making Management of the Decision-Making Process.Burlington:ASHGATE
+20.大卫,夏尔·菲利普.白宫的秘密:从杜鲁门到克林顿的美国外交决策.北京:中国人民大学出版社
+21.The White House.Presidential Policy Directive.2009
+22.Clarke,Richard A..Price of Amateur Hour: Donald Trump and the National Security Council
+23.伍德沃德,鲍勃.布什的战争.上海:上海译文出版社
+24.Whittaker,Alan G..National Security Policy Process: The National Security Council and Interagency System.2010
+25.Whittaker,Alan G..National Security Policy Process: The National Security Council and Interagency System.2010
+26.Allison,Graham T..Essence of Decision: Explaining Cuban Missile Crisis.Boston:Little Brown and Company
+27.Mann,James.Rise of the Vulcans: The History of Bush's War Cabinet.New York:Viking
+28.达尔德尔,伊沃.后外交时代:不受约束的美国.北京:新华出版社
+29.Stevenson,Charles A..America's Foreign Policy Toolkit: Key Institutions and Process.Los Angeles:SAGE
+30.Inderfurth,Karl.Fateful Decisions: Inside the National Security Council.Oxford:Oxford University Press
+31.Menges,Constantine C..Inside the National Security Council.New York:Simon and Schuster
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全情报学学科建设论纲:研究对象、学科特点、体系及研究方法
+【英文篇名】Construction Outline of National Security Intelligence Studies: Research Object, Discipline Characteristics, System and Research Methods
+【来源作者】商瀑
+【基    金】
+【期    刊】情报杂志
+【第一机构】中南财经政法大学
+【机构名称】[商瀑]中南财经政法大学.刑事司法学院
+【第一作者】商瀑
+【中图类号】G350
+【年代卷期】2018,37(080):6-11,17
+【关 键 词】国家安全情报学/研究对象/学科特点/学科体系/研究方法
+【基金类别】
+【参考文献】
+1..全面贯彻落实总体国家安全观，开创新时代国家安全工作新局面.2018
+2.张晓军.《武经七书》军事情报思想初探.军事历史.2002.(1)
+3.吴琼.《战争论》诠释.北京:华文出版社
+4.邢志强.毛泽东情报思想研究.情报杂志.2000.19(1)
+5.Kent,Sherman.Strategic intelligence for American world policy.New Jersey:Princeton University Press
+6.Dulles,Allen W.Craft of intelligence.New York:Harper & Row
+7.Eisenhower,Dwight David.Crusade in Europe.New York:Doubleday
+8.McConnell,John Michael.Donovan plan for establishment of a central intelligence authority.Connecticut:Yale University Press
+9.Montague,Ludwell Lee.General Walter bedell smith of director of central intelligence: October 1950-Februry 1953.Pennsylvania:Pennsylvania University Press
+10.瑞夫纳,约书亚.锁定真相:美国国家安全与情报战略.北京:金城出版社
+11.查普曼,伯特.国家安全与情报政策研究:美国安全体系的起源、思维和架构.北京:金城出版社
+12.张家年.我国国家安全情报体系构建及运作.情报理论与实践.2015.(8)
+13.赵冰峰.论国家情报与国家安全及国家发展的互动关系.情报杂志.2015.34(1)
+14.彭靖里.国家安全战略下的技术竞争情报研究及其发展趋势.情报杂志.2015.34(11)
+15.江焕辉.国家安全与情报工作关系的嬗变研究.情报杂志.2015.34(12)
+16.包昌火.我国国家情报工作的挑战、机遇和应对.情报杂志.2016.35(10)
+17.杨国立.总体国家安全观背景下情报工作的深化.情报杂志.2018.37(5)
+18..“平语”近人——习近平谈国家安全.2018
+19.刘跃进.试论国家安全学的对象、任务和学科性质.山西师大学报(社会科学版).2003.(2)
+20.刘跃进.国家安全学是国家安全科学与国家安全哲学的统一.国家安全研究.2010.(5)
+21.张秋波.总体国家安全观指导下情报学发展研究.情报杂志.2015.34(12)
+22.刘跃进.国家安全中的“国家”概念.国际论坛.2013.(1)
+23.布赞,巴里.国际安全研究的演化.杭州:浙江大学出版社
+24.陈东.信息安全:国家安全学研究的新课题.国家安全通讯.1999.(6)
+25.包琰.包昌火情报思想剖析.情报杂志.2013.32(6)
+26.赵冰峰.论面向国家安全与发展的中国现代情报体系与情报学科.情报杂志.2016.35(10)
+27.张家年.国家安全保障视域下安全情报与战略抗逆力的融合与对策.情报杂志.2017.36(1)
+-----------------------------------------------------------------------
+
+【来源篇名】总体国家安全观下的“敏感信息”管理机制刍议——美国经验借鉴
+【英文篇名】Sensitive Information Management Mechanism under Chinese Overall National Security Concept: Using the American Experience for Reference
+【来源作者】宋继伟
+【基    金】国家社会科学基金青年项目(14CTQ013)/国家社会科学基金重点项目(11ATQ005)
+【期    刊】情报杂志
+【第一机构】南京大学
+【机构名称】[宋继伟]南京大学.中国南海研究协同创新中心
+【第一作者】宋继伟
+【中图类号】G350
+【年代卷期】2018,37(080):107-113
+【关 键 词】总体国家安全观/敏感信息/受控非密信息/安全情报/保密
+【基金类别】
+【参考文献】
+1..Open-source intelligence.2017
+2.Swanson,Maureen H.Big data, intelligence, and analyst privacy: Investigating information dissemination at an NSA-funded research lab.Intelligence and National Security.2017.(3)
+3.中华人民共和国全国人民代表大会常务委员会.中华人民共和国保守国家秘密法.2017
+4.苏州市国家保密局.国家秘密与工作秘密界定及保护问题研究.保密科学技术.2014.(4)
+5.熊光清.为什么要提出总体国家安全观.人民论坛.2017.(21)
+6.康红蕾.习近平总体国家安全观探析.改革与开放.2017.(4)
+7.王宁.深入贯彻总体国家安全观筑牢能打仗打胜仗的保密防线.保密工作.2014.(10)
+8.张勇.以总体国家安全观为指导确立科学定密理念.保密工作.2016.(8)
+9.沈固朝.将情报思维纳入保密意识中.保密工作.2011.(5)
+10.李珍刚.论基层公安机关公共安全敏感信息处置机制的完善.情报杂志.2017.(4)
+11.余功德.以总体国家安全观为指导，拓展保密工作领域.保密工作.2015.(6)
+12..Information sensitivity.2017
+13..Sensitive information.2017
+14.University of Virginia.Controlled unclassified information.2017
+15.Information Security Oversight Office, U.S. NARA.PART 2002-controlled unclassified information (CUI).2017
+16.The U. S. National archives and records administration.About controlled unclassified information (CUI).2017
+17.吴瑞.美军受控非密信息管理的新发展.保密科学技术.2014.(9)
+18.U.S. Department of Defense.DoD information security program: Controlled unclassified information (CUI).U. S. Department of Defense Manual
+19.孙宝云.尽快将“敏感信息”从国家秘密中分离出来.兰台世界.2015.(23)
+20.Bagley,James J.Understanding controls on unclassified government information.2017
+21.Marshall,Greg.HSTinDepth: Getting a handle on controlled unclassified information.2018
+22.Knezo,Genevieve J.“Sensitive But Unclassified” information and other controls: Policy and options for scientific and technical information. CRS Report for Congress,2016:71
+23.Aftergood,Steven.Information sharing as a form of secrecy.2017
+24.Aftergood,Steven.New directive would foster open government.2017
+25.McElhatton,Jim.Capitol police papers found on street.2017
+26.Aftergood,Steven.Controls on unclassified info invoked to evade FOIA.2017
+27.Aftergood,Steven.Information aharing: Feast or famine.2017
+28.Napolitano,Janet.Report and recommendations of the presidential task force on controlled unclassified information.Washington:Department of Homeland Security
+29.Aftergood,Steven.“Sensitive” Info in the congressional record.2017
+30.Serbu,Jared.Despite Obama directive, agencies maintain ad-hoc approach to unclassified information.2017
+31.Thornton,David.Classified vs. controlled unclassified information: what you should know.2017
+32.Information Security Oversight Office, U.S. NARA.CUI categories and subcategories.2018
+33.ROSS,RON.Protecting controlled unclassified information in nonfederal systems and organizations.2018
+34.Budman,Matthew.NIST special publication 800-171 for higher education: A guide to helping colleges and universities comply with new federal regulations.New York:Deloitte Insiths
+-----------------------------------------------------------------------
+
+【来源篇名】边疆地区少数民族媒介变迁与国家安全意识舆论引导研究
+【英文篇名】
+【来源作者】南长森
+【基    金】国家社会科学基金项目(14XW071)
+【期    刊】现代传播:中国传媒大学学报
+【第一机构】陕西师范大学
+【机构名称】[南长森]陕西师范大学.新闻与传播学院
+【第一作者】南长森
+【中图类号】G219.27
+【年代卷期】2018,40(120):74-81
+【关 键 词】边疆地区/少数民族/媒介变迁/国家安全/舆论引导
+【基金类别】
+【参考文献】
+1..马克思恩格斯选集（第1卷）.北京:人民出版社
+2.胡伯项.我国现代化进程中意识形态安全问题研究.北京:人民出版社
+3.南长森.新闻精品生产与新闻职业道德建设.当代传播.2006.(6)
+4.瓦戈,史蒂文.社会变迁.北京:北京大学出版社
+5.杨毅.国家安全战略理论.北京:时事出版社
+6.shills,Daviad L..International Encyclopedia of the Social Science（vol. 11）.New York:Macmillan
+7.班尼特,兰斯.新闻:幻象的政治.北京:中国人民大学出版社
+8.Mchersney,Robert Waterman.Rich Media, Poor Democracy, Communication Politics in Debilous Times.Champaign:University of Illinois Press
+9.瓦耶纳,贝尔纳.传播思想.南京:江苏人民出版社
+10.斯密斯,安东尼.民族主义理论、意识形态、历史.上海世纪出版社
+11.霍布斯鲍姆,埃里克.民族与民族主义.上海世纪出版社
+12..马克思恩格斯选集（第4卷）.北京:人民出版社
+13.班固.汉书（94上）.北京:中华书局
+14.顾颉刚.中国疆域史.北京:商务印书馆
+15.周建明.舆论学原理.北京:华夏出版社
+16.史密斯,安东尼.民族主义理论、意识形态、历史.上海:上海世纪出版集团
+17.菲尔克拉夫,诺曼.话语与社会变迁.北京:华夏出版社
+18.殷晓蓉.社会转型的演变——当代人际传播理论研究.上海:复旦大学出版社
+19.塔尔德,加里布埃尔.传播与社会影响.北京:中国人民大学出版社
+20.喻国明.中国媒介规制的发展、问题与未来方向.现代传播.2010.(1)
+21.殷琦.1978以年媒体体制改革观念演进的过程与机制.新闻与传播研究.2017.(2)
+22..马克思恩格斯选集（第4卷）.北京:人民出版社
+23.夏立平.中国国家安全与地缘政治.北京:中国社会科学出版社
+24.刘建明.社会舆论原理.北京:华夏出版社
+25.查德威克,安德鲁.互联网政治学:国家、公民与新传播技术.北京:华夏出版社
+26.科瓦奇,比尔.真相:信息超载时代如何知道该相信什么.北京:中国人民大学出版社
+27.波斯曼,尼尔.技术垄断:文化向技术投降.北京:北京大学出版社
+28.魏然.媒介效果与社会变迁.北京:中国人民大学出版社
+29.刘建华.论边疆民族地区网络舆情危机的政府应急机制构建.陕西师范大学学报.2014.(6)
+30.李良荣.论报纸再造:从信息媒体到“意义媒体”.现代传播.2017.(8)
+31.卡斯特,曼纽尔.网络星河——对互联网、商业和社会的反思.北京:社会科学文献出版社
+32.娜可丝,布丽奇特·L..反恐原理:恐怖主义、反恐与国家安全战略.北京:社会科学文献出版社
+33.李冰心.论民族地区突发事件中传媒应对原则研究.中国广播电视学刊.2009.(5)
+34.习近平.谈治国理政（第1卷）.北京:外文出版社
+35.罗安平.民族地区突发事件传媒应对原则研究.中国广播电视学刊.2009.(5)
+36.胡正荣.传播学总论.北京:中国传媒大学出版社
+37.芒福德,刘易斯.技术与文明.北京:中国建筑工业出版社
+38.史文静.多媒体并存格局下舆论导向的内在机制探析.河南大学学报.2012.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】加快建设国家安全学一级学科的路径研究
+【英文篇名】Research on the Path of Speeding up the Construction of National Security Studies as First Level Discipline
+【来源作者】马方
+【基    金】
+【期    刊】情报杂志
+【第一机构】西南政法大学
+【机构名称】[马方]西南政法大学.国家安全学院
+【第一作者】马方
+【中图类号】D631
+【年代卷期】2018,37(100):19-27
+【关 键 词】国家安全/国家安全学/学科建设/学科体系
+【基金类别】
+【参考文献】
+1.十九届中央国安委首会.习近平压实责任
+2.罗云.中国重点大学与学科建设.北京:中国社会科学出版社
+3.纪宝成.加强学科建设创建世界知名一流大学.中国高等教育.2002.(23)
+4..教育部关于加强大中小学国家安全教育的实施意见
+5.国务院学位委员会.教育部关于印发《学位授予和人才培养学科目录设置与管理办法》的通知
+6.刘跃进.为国家安全立言——“国家安全学”构想.首都国家安全.1998.(2)
+7.刘跃进.为国家安全立学－国家安全学科的探索历程及若干问题研究.长春:吉林大学出版社
+8.刘跃进.试论国家安全学的对象、任务和学科性质.山西师大学报.2003.(2)
+9.但彦铮.国家安全学.北京:群众出版社
+10.刘跃进.建立《国家安全学》初探.国家安全通讯.1999.(1)
+11.桑松森.国家安全与国家安全学.国家安全通讯.1999.(2)
+12.胡洪彬.中国国家安全问题研究:历程、演变与趋势.中国人民大学学报.2014.(4)
+13.汪育俊.全面理解“国家安全”概念.江南社会学院学报.2000.2(1)
+14.刘跃进.国际安全学.北京:中国政法大学出版社
+15.刘跃进.国家安全学是国家安全科学与国家安全哲学的统一.国际关系学院学报.2010.(5)
+16.教育部办公厅.关于印发《授予博士、硕士学位和培养研究生的二级学科自主设置实施细则》的通知
+17.吴志成.全球学研究的中国应答.国际政治研究.2015.(4)
+18..习近平在中国共产党第十九次全国代表大会上的报告(全文)
+19.上海合作组织.习近平主持会议并发表重要讲话
+20.中央国家安全委员会.第一次会议召开习近平发表重要讲话滚动
+21.张春元.坚持一级学科发展思路提升学科核心竞争力.学位与研究生教育.2010.(1)
+22..全面贯彻落实总体国家安全观(刘跃进教授专访)
+23.国务院学位委员会.《学位授权审核申请基本条件》(2017年)国务院学位委员会关于开展2017年博士硕士学位授权审核工作的通知
+24.包昌火.Intelligence视域下的中国情报学研究.情报杂志.2015.34(12)
+25.何增科.理解国家治理及其现代化.马克思主义与现实.2014.(1)
+26.俞可平.推进国家治理体系和治理体系现代化.前线.2014.(1)
+27.宣勇.基于学科的大学管理模式选择.中国高教研究.2002.(4)
+28..中共中央关于全面深化改革若干重大问题的决定.人民日报.11.16(002)
+29.中共中央办公厅.关于加强中国特色新型智库建设的意见
+30.习近平.决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告.北京:人民出版社
+-----------------------------------------------------------------------
+
+【来源篇名】总体国家安全观视域下的文化认同问题
+【英文篇名】Cultural Identity Issue from the Perspectives of Overall View of National Security
+【来源作者】吴玉军/刘娟娟
+【基    金】国家社会科学基金特别委托项目(18@ZH006)/北京市社会科学基金项目(17ZXB007)
+【期    刊】中国特色社会主义研究
+【第一机构】北京师范大学
+【机构名称】[吴玉军]北京师范大学.价值与文化研究中心/[刘娟娟]北京师范大学.哲学学院
+【第一作者】吴玉军
+【中图类号】D616
+【年代卷期】2018,(050):47-54
+【关 键 词】总体国家安全观/文化安全/文化认同/文化软实力
+【基金类别】
+【参考文献】
+1.亨廷顿,塞缪尔.文明的冲突与世界秩序的重建.北京:新华出版社
+2.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+3.炳贵.中国国家文化安全研究.济南:山东人民出版社
+4.习近平.决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告.人民日报.10.28
+5.胡惠琳.中国国家文化安全论(第二版).上海:上海人民出版社
+6.江宜桦.自由主义、民族主义与国家认同.台北扬智文化事业股份有限公司
+7.罗伯森,罗兰.全球化:社会理论和全球文化.上海:上海人民出版社
+8.王成兵.当代认同危机的人学解读.北京:中国社会科学出版社
+9.吴玉军.国家认同视阈中的社会主义核心价值体系.中国特色社会主义研究.2011.(4)
+10.习近平.在纪念孔子诞辰2565周年国际学术研讨会暨国际儒学联合会第五届会员大会开幕会上的讲话.人民日报.9.25
+11.亨廷顿,塞缪尔.文明的冲突与世界秩序的重建.北京:新华出版社
+12.霍耐特,阿克塞尔.为承认而斗争.上海:上海人民出版社
+13.摩根索,汉斯.国家间政治——寻求权力与和平的斗争.北京:中国人民公安大学出版社
+14.奈,约瑟夫.硬权力与软权力.北京:北京大学出版社
+15.拉伦,乔治.意识形态与文化身份:现代性与第三世界的在场.上海:上海世纪出版集团上海教育出版社
+16.托夫勒,阿尔温.第三次浪潮.三联书店
+17..马克思恩格斯选集（第1卷）.北京:人民出版社
+18.韩玲.红色文化的价值意蕴.人民日报.8.1
+19.习近平.在中国文联十大、中国作协九大开幕式上的讲话.人民日报.12.1
+20.习近平.在文艺工作座谈会上的讲话.人民日报.10.15
+21.谢雪屏.文化软实力竞争:关注中国国家文化安全.福建师范大学学报(哲学社会科学版).2008.(5)
+22.张巨岩.权力的声音:美国的媒体和战争.北京:生活·读书·新知三联书店
+23.Hall,S..Modernity and its Futures.Polity Press
+24.李宏图.西欧近代民族追思潮研究——从启蒙运动到拿破仑时代.上海:上海社会科学院出版社
+-----------------------------------------------------------------------
+
+【来源篇名】论总体国家安全观下国家情报法机制构建——以“三层次”和“三状态”为框架
+【英文篇名】On the Construction of National Intelligence Law Mechanism under the Concept of Overall National Security——Taking the \"Three Levels\" and \"Three States\" as the Framework
+【来源作者】靳海婷
+【基    金】中南财经政法大学博士研究生创新教育计划资助项目(201710607)
+【期    刊】情报杂志
+【第一机构】中南财经政法大学
+【机构名称】[靳海婷]中南财经政法大学.
+【第一作者】靳海婷
+【中图类号】G369.21
+【年代卷期】2018,37(110):10-15,68
+【关 键 词】总体国家安全观/国家情报/国家情报法机制
+【基金类别】
+【参考文献】
+1.习近平.坚持总体国家安全观走中国特色国家安全道路.2018
+2.张鸿雁.政治地理学核心概念.南京:江苏教育出版社
+3.何新.论政治国家主义.北京:时事出版社
+4.何新.新国家主义经济学.北京:同心出版社
+5.巴拉什,大卫.和平与冲突研究.南京:南京出版社
+6.赵冰峰.论国家情报与国家安全及国家发展的互动关系.情报杂志.2015.34(1)
+7.戴岑豪斯,大卫.合法性与正当性:魏玛时代的施米特、凯尔森与海勒.北京:商务印书馆
+8.张家年.情报融合中心:美国情报共享实践及启示.图书情报工作.2015.59(13)
+9.克拉克,罗伯特.情报分析:以目标为中心的方法.北京:金城出版社
+10.张鹏.基于演进视角的美国情报共享研究——从“犯罪情报共享”到“情报融合”再到“情报透明”.情报杂志.2018.37(3)
+11.王贵松.从协调走向“协调＋制约”——中国国家机构之间关系的发展趋势探讨.南京社会科学.2005.(9)
+12.李广仓.论公安情报分析框架的建构.现代情报.2010.30(1)
+13.杨登峰.从合理原则走向统一的比例原则.中国法学.2016.(3)
+14.唐超.总体国家安全观指导下公共安全情报法律体系构建研究.情报杂志.2017.36(4)
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全大数据综合信息集成:应用架构与实现路径
+【英文篇名】Information Integration of Big Data for National Security: Application Architecture and Realization Methods
+【来源作者】巴志超/李纲/安璐/毛进
+【基    金】国家自然科学基金重大项目(71790612)/教育部社科重大课题攻关项目(17JZD034)
+【期    刊】中国软科学
+【第一机构】武汉大学
+【机构名称】[巴志超]武汉大学.信息管理学院/[李纲]武汉大学.信息管理学院/[安璐]武汉大学.信息管理学院/[毛进]武汉大学.信息资源研究中心
+【第一作者】巴志超
+【中图类号】G203
+【年代卷期】2018,(070):9-20
+【关 键 词】国家安全/大数据/三元世界理论/协同感知/信息集成/实现路径
+【基金类别】
+【参考文献】
+1.范维澄.国家安全管理中的基础科学问题.中国科学基金.2015.29(6)
+2.刘跃进.总体国家安全观干部读本.北京:人民出版社
+3.MANYIKA,J.Big data: the next frontier for innovation, competition and productivity.Analytics
+4.李卫江.电子政务与空间信息集成的理论与实践:学位论文.上海:华东师范大学,2004
+5.CHEN,C L P.Data-intensive applications, challenges, techniques and technologies: a survey on big data.Information Sciences.2014.275(11)
+6.CRAMPTON,J W.Collect it all: National security, big data and governance.Geoiournal.2015.80(4)
+7.陈谭.政务大数据壁垒的生成与消解.求索.2016.(12)
+8.DERLER,P.Modeling cyber-physical systems.Proceedings of the IEEE.2012.100(1)
+9.WANG,F Y.Emergence of intelligent enterprises: from CPS to CPSS.IEEE Intelligent Systems.2010.25(4)
+10.王元卓.网络大数据:现状与展望.计算机学报.2013.36(6)
+11.AHMAD,A.Social element of big data analytics: Integrating social network with the internet of things.Pisa, Italy:ACM,2016:216-217
+12.SHAMS,F.On integrating social and sensor networks foremerg-ency management:Springer Berlin Heidelberg,2015:145-160
+13.BATINI,C.Methodologies for data quality assessment and improvement.ACM Computing Surveys.2009.41(3)
+14.FEI,C.Discovering data quality rules.Proceedings of the Vldb Endowment.2008.1(1)
+15.WOODALL,P.A classification of data quality assessment and improvement methods.International Journal of Information Quality.2014.3(4)
+16.KAHN,M G.A pragmatic framework for single-site and multisite data quality assessment in electronic health record-based clinical research.Medical Care.2012.50(7)
+17.蒋盛益.微博信息可信度分析研究综述.图书情报工作.2013.57(12)
+18.FIDELIA,I S.Implications of big data for knowledge organization.Knowlegde Organization.2017.44(3)
+19.YAGER,RR.A framework for multi-source data fusion.Information Sciences.2004.163(1)
+20.化柏林.大数据环境下多源信息融合的理论与应用探讨.图书情报工作.2015.59(16)
+21.杨莘.透析国家安全视野中的大数据发展问题.人民论坛.2016.(37)
+22.GOUNDEN,C.Promoting food security through improved analytics.Procedia Engineering.2015.107
+23.AVIAD,A.Semantic approach to cyber security towards ontology based body of knowledge,2015:328-336
+24.SEIFERT,J W.Data mining and homeland security: An overview:Congressional Research Service Re-ports:Library of Congress, Congressional Research Service,2008
+25.KIM,K.Online news diffusion dynamics and public opinion formation: A case study of the controversy over judges’personal opinion expression on SNS in Korea.Social Science Journal.2015.52(2)
+26.吕慧颖.基于时空关联分析的网络实时威胁识别与评估.计算机研究与发展.2014.51(5)
+27.王飞跃.基于平行系统的非常规突发事件计算实验平台研究.复杂系统与复杂性科学.2010.7(4)
+28.张鸣之.地质环境数据集成服务及其系统实现.中国地质灾害与防治学报.2013.24(3)
+29.ZAHRAN,E M.A novel approach to improve the air quality predictions of air pollution dispersion modelling systems.International Journal of Environmental Research.2013.7(1)
+30.BIRK,R.Evaluating a system of systems approach for integrated global weather, climate, and hazard monitoring,2008:17
+31.JIA,R.A new safety evaluation model of coal mine roof based on multi-sensor fusion in case of information confliction.Journal of Computers.2012.7(2)
+32.PENG,H.Coal mine gas multi-sensor wireless early warning system model based on data fusion.American Journal of Cardiology.2011.67(5)
+33.谢亚娟.洪水风险评估中多源信息融合及不确定性建模研究:学位论文.武汉:华中科技大学,2012
+34.黄一洲.面向反恐的智库知识库构建研究.情报杂志.2017.36(7)
+35.KHAN,S I.Privacy and security problems of national health data warehouse: a convenient solution for developing countries:IEEE,2016:1-6
+36.曹高辉.多模态Web信息融合系统构建及服务机制研究.情报科学.2014.32(9)
+37.汪晓风.信息与国家安全——美国国家安全战略转型中的信息战略分析:学位论文.上海:复旦大学,2004
+38.XUE,L.Towards a public management paradigm for global governance: an analysis based on an issueactor-mechanism framework.Social Sciences in China.2017.38(1)
+-----------------------------------------------------------------------
+
+【来源篇名】习近平总体国家安全观探析
+【英文篇名】An Analysis of Xi Jinping\'s Idea of Total National Security
+【来源作者】鞠丽华
+【基    金】2016年山东省社会科学规划研究一般项目(16CZZJ08)/2018年山东省社会科学规划研究一般项目(18CZZJ06)
+【期    刊】山东社会科学
+【第一机构】山东大学
+【机构名称】[鞠丽华]山东大学.政治学与公共管理学院
+【第一作者】鞠丽华
+【中图类号】D631
+【年代卷期】2018,(090):17-22
+【关 键 词】总体国家安全观/国家安全/国家安全制度/国家安全法治
+【基金类别】
+【参考文献】
+1.习近平.决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利——在中国共产党第十九次全国代表大会上的报告.北京:人民出版社
+2..中华人民共和国国家安全法.北京:中国法制出版社
+3.张幼文.经济安全:金融全球化的挑战.上海:上海社会科学出版社
+4.习近平.习近平谈治国理政.北京:外文出版社
+5.习近平.进一步关心海洋认识海洋经略海洋推动海洋强国建设不断取得新成就.人民日报.8.1(1)
+6.习近平.习近平谈治国理政（第2卷）.北京:外文出版社
+7.黎宏.论总体国家安全观的变革性特征.重庆大学学报(社会科学版).2015.(3)
+8.习近平.全面贯彻落实总体国家安全观开创新时代国家安全工作新局面.人民日报.4.18(1)
+9..习近平在中共中央政治局第二十次集体学习时强调:坚持运用辩证唯物主义世界观方法论提高解决我国改革发展基本问题本领.人民日报.1.25(1)
+-----------------------------------------------------------------------
+
+【来源篇名】美国贸易霸凌主义对中国国家安全的影响与应对
+【英文篇名】
+【来源作者】张彦
+【基    金】2016年度国家社会科学基金重大项目(16ZDA091)
+【期    刊】当代世界与社会主义
+【第一机构】暨南大学
+【机构名称】[张彦]暨南大学.经济学院
+【第一作者】张彦
+【中图类号】D5
+【年代卷期】2018,(060):167-173
+【关 键 词】贸易霸凌主义/中美贸易战/总体国家安全观/国家安全体系
+【基金类别】
+【参考文献】
+1..习近平谈治国理政（第1卷）.北京:外文出版社
+2..美国贸易霸凌主义破坏国际秩序:极限讹诈危害全球
+3.钟准.从贝卢斯科尼到特朗普:欧美民粹主义与对外政策.外交评论.2017.(4)
+4.东艳.美国贸易霸凌主义的历史溯源.光明日报.7.30
+5.基欧汉,罗伯特.霸权之后:世界政治经济中的合作与纷争.上海:上海人民出版社
+6.吉尔平,罗伯特.国际关系政治经济学.上海:上海世纪出版集团
+7.华尔兹,肯尼恩.国际政治理论.上海:上海人民出版社
+8.王帆.不对称相互依存与合作型施压:美国对华战略的策略调整.世界经济与政治.2010.(12)
+9.刘建江.特朗普政府发动对华贸易战的三维成因.武汉大学学报(哲学社会科学版).2018.(9)
+10.王孜弘.体制认定与经贸纠纷:美国对华贸易战的原因分析.美国研究.2018.(5)
+11.魏南枝.中美政治、安全矛盾与经济相互依存.现代国际关系.2016.(11)
+12..USTR Releases Product Exclusion Process for Chinese Products Subject to Section 301 Tariffs
+13.黄兴年.国际贸易新规则的制度非中性与中国产业升级路径选择.国际贸易.2016.(3)
+14.Office of the United States Trade Representative Executive Office of the President.Finding of the Investigation into China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation under Section 301 of the Trade Act of 1974
+15..
+16.Lewis,James Andrew.Investment Restrictions on China: The Decision that Wasn't
+17..中共中央国务院印发《国家创新驱动发展战略纲要》
+18.黄先海.以“一带一路”建设重塑全球价值链.经济学家.2017.(3)
+19.Blumenthal,Dan.Economic Coercion as a Tool in China's Grand Strategy
+20.Kafura,Craig.Washington Has Turned on China, Have America?.Pacific Forum.2018.(53)
+21.张杰.全球价值链下中国本土企业的创新效应.经济研究.2017.(3)
+22.胡大立.我国产业集群全球价值链“低端锁定”战略风险及转型升级路径研究.科技进步与对策.2016.(2)
+23.马述忠.融资约束与全球价值链地位提升:来自中国加工贸易企业的理论与证据.中国社会科学.2017.(1)
+24.Ernst,Dieter.China's Innovation Policy Is a Wake-up Call for America:Aisa Parific Issue,2011
+25.Lewis,James Andrew.ZTE, the Telecom Wars, and Cyber Spies
+26.斯密,亚当.国富论.北京:华夏出版社
+27.王孝松.贸易壁垒与全球价值链嵌入——以中国遭遇反倾销为例.中国社会科学.2017.(1)
+-----------------------------------------------------------------------
+
+【来源篇名】中国国家安全观的历史演进与战略选择
+【英文篇名】The Evolution and Strategic Integration of the National Security Concept in China
+【来源作者】钟开斌
+【基    金】国家社会科学基金项目(17BZZ038)/国家自然科学基金应急管理项目(71642005)
+【期    刊】中国软科学
+【第一机构】中共中央党校
+【机构名称】[钟开斌]中共中央党校.应急管理教研部
+【第一作者】钟开斌
+【中图类号】D815.5
+【年代卷期】2018,(100):23-30
+【关 键 词】安全观/国家安全/总体国家安全观/“环境–客体–主体”分析框架
+【基金类别】
+【参考文献】
+1.傅勇.非传统安全与中国的新安全观.世界经济研究.2004.(7)
+2.EVANS,P M.Studying Asia Pacific security: The future of research, training and dialogue activities.Toronto:University of Toronto York Press
+3.束必铨.从三代领导集体看中国国家安全观之演变:新中国对外关系60年理论与实践:上海市社会科学界第七届学术年会文集(2009年度)(世界经济·国际政治·国际关系学科卷).上海:上海人民出版社,2009:38-50
+4.刘国新.中国新安全观的形成及实践.思想理论教育导刊.2006.(1)
+5.李小华.中国安全观分析(1982-2007).上海:上海人民出版社
+6.刘跃进.中国官方非传统安全观的历史演进与逻辑构成.国际安全研究.2014.(2)
+7.刘跃进.非传统的总体国家安全观.国际安全研究.2014.(6)
+8.詹承豫.中国应急管理体系完善的理论与方法研究——基于“情景–冲击–脆弱性”的分析框架.政治学研究.2009.(5)
+9.BALDWIN,D A.Security studies and the end of the Cold War.World Politics.1995.48(1)
+10.杨毅.国家安全战略理论.北京:时事出版社
+11.李慎明.对时代和时代主题的辨析.红旗文稿.2015.(22)
+12.中共中央马克思恩格斯列宁斯大林著作编译局.列宁全集（第26卷）.北京:人民出版社
+13.刘静波.21世纪初中国国家安全战略.北京:时事出版社
+14.余潇枫.论“非传统安全”的实质及其伦理向度.浙江大学学报(人文社会科学版).2006.36(6)
+15.BUZAN,B..People, state, and fear: An agenda for international security studies in the post-Cold War era (2nd edition).New York:Harvest Wheatsheaf
+16.张骥.世界主要国家国家安全委员.北京:时事出版社
+17.赵进军.新中国外交六十年.北京:北京大学出版社
+18.李慎明.对新中国成立后毛泽东战争与和平思想及实践的几点辨析、概述和思考.当代中国史研究.2004.(2)
+19.杨倩.试论毛泽东关于战争不可避免思想的演变及其影响.军事历史研究.2003.(4)
+20.余雁.五十年国事纪要(军事卷).长沙:湖南人民出版社
+21.中国外交部编写组.邓小平外交思想学习纲要.北京:世界知识出版社
+22.钟飞腾.发展型安全:中国的一项大战略.外交评论.2013.(6)
+23.刘江永.从国际战略视角解读可持续安全真谛.国际观察.2014.(6)
+24.乔晓阳.中华人民共和国国家安全法释义.北京:法律出版社
+25.钟开斌.中国国家安全体系的演进与发展:基于层次结构的分析.中国行政管理.2018.(5)
+26.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+27.李东燕.联合国的安全观与非传统安全.世界经济与政治.2004.(8)
+28.刘跃进.以总体国家安全观构建国家安全总体布局.人民论坛.2017.(34)
+-----------------------------------------------------------------------
+
+【来源篇名】坚持总体国家安全观，全面推进新时代应急管理体系建设
+【英文篇名】Sticking to a Holistic View of National Security, and Push Forward Comprehensively Emergency Management Construction under New Era
+【来源作者】马宝成
+【基    金】2017年国家行政学院学习贯彻十九大精神重大委托项目(2017ZDWT015)
+【期    刊】国家行政学院学报
+【第一机构】中共中央党校
+【机构名称】[马宝成]中共中央党校.应急管理培训中心
+【第一作者】马宝成
+【中图类号】D601
+【年代卷期】2018,(060):52-56
+【关 键 词】新时代/总体国家安全观/公共安全/应急管理
+【基金类别】
+【参考文献】
+1.习近平.决胜全面建成小康社会，夺取新时代中国特色社会主义伟大胜利:党的十九大报告辅导读本.北京:人民出版社,2017:10
+2.中共中央文献研究室.习近平关于社会主义经济建设论述摘编.北京:中央文献出版社
+3..习近平主持中共中央政治局第二十三次集体学习.2015
+4..2016年各类自然灾害造成全国近1.9亿人次受灾.2017
+5.世界卫生组织.2015年全球道路安全现状报告,2015
+6.洪毅.“十三五”时期我国应急体系建设的几个重点问题.行政管理改革.2015.(8)
+7..国务院办公厅关于印发国家突发事件应急体系建设“十三五”规划的通知.2017
+-----------------------------------------------------------------------
+
+【来源篇名】中国国家安全理论与实践的重大创新
+【英文篇名】
+【来源作者】中央党校中国特色社会主义理论体系研究中心
+【基    金】
+【期    刊】求是
+【第一机构】中共中央党校
+【机构名称】[中央党校中国特色社会主义理论体系研究中心]中共中央党校.中国特色社会主义理论体系研究中心
+【第一作者】中央党校中国特色社会主义理论体系研究中心
+【中图类号】D616
+【年代卷期】2017,(050):19-21
+【关 键 词】国家安全/中国特色社会主义理论/行动指南
+【基金类别】
+【参考文献】
+-----------------------------------------------------------------------
+
+【来源篇名】周边国家的民族问题及其对中国国家安全的影响
+【英文篇名】Ethnic Issue in China\'s Neighboring Countries and Its Impact on China\'s National Security
+【来源作者】赵磊/胥慧颖
+【基    金】2015年马克思主义理论研究和建设工程“民族问题若干重大基础理论研究”
+【期    刊】现代国际关系
+【第一机构】中共中央党校
+【机构名称】[赵磊]中共中央党校.国际战略研究院/[胥慧颖]中共中央党校.国际战略研究院
+【第一作者】赵磊
+【中图类号】D562
+【年代卷期】2017,(060):8-17
+【关 键 词】周边国家/民族问题/国家安全
+【基金类别】
+【参考文献】
+1.赵磊.国际视野中的民族冲突与管理.北京:社会科学文献出版社
+2.孙代尧.解释民族冲突的三种理论图式.贵州民族研究.1999.(3)
+3.李晨阳.缅北烽烟再起的思考.世界知识.2016.(12)
+4.Choudhurri,Atonu.Outfit Rears Head in Arunachal.Telegraph.6.14
+5.王伟.跨界民族问题的形成、表现及影响.黑龙江民族丛刊.2014.(1)
+6.严庆.“民族牌”背后的理论透析.广西民族研究.2009.(1)
+7.佩马尼,胡曼.虎视中亚.北京:新华出版社
+8.高汝东.跨界民族视角下新疆应对非传统安全威胁的有利条件和不利因素.塔里木大学学报.2011.(1)
+9..Empires without Umpires: Asia's Business Culture Is Good for Tycoons, not Shareholders.Economist.2001.(4.7)
+10.梁英明.融合与发展.香港:南岛出版社
+11.Hall,Hal.Indonesian Economy(Second Edition).Cambridge University Press
+12.苏晓晖.缅甸“民地武”问题对中缅关系的影响.当代世界.2013.(1)
+13.马戎.民族社会学导论.北京:北京大学出版社
+14.陈衍德.当代东南亚民族关系模式探析.厦门大学学报(哲学社会科学版).2010.(4)
+15.中华人民共和国国务院新闻办公室.《中国的亚太安全合作政策》白皮书,2017
+-----------------------------------------------------------------------
+
+【来源篇名】总体国家安全观指导下的国家安全系统性风险及其治理
+【英文篇名】Systemic Risks in National Security and Its Governance under the Guidance of Holistic View of National Security
+【来源作者】王宏伟
+【基    金】国家社科基金一般项目(12BGL109)/2015年北京市社会科学基金重点项目(15JGA029)/中国人民大学公共管理学院“公共财政与公共政策学科建设”经费
+【期    刊】现代国际关系
+【第一机构】中国人民大学
+【机构名称】[王宏伟]中国人民大学.公共管理学院
+【第一作者】王宏伟
+【中图类号】D035.3
+【年代卷期】2017,(110):50-57
+【关 键 词】总体国家安全观/国家安全/系统性风险/治理/后工业社会
+【基金类别】
+【参考文献】
+1.布赞,巴瑞.新安全论.杭州:浙江人民出版社
+2.布赞,巴瑞.人个、国家与恐惧:后冷战时代的国际安全议程研究.北京:中央编译出版社
+3.霍布斯.利维坦.北京:商务印书馆
+4.韦伯,马克斯.经济与社会（第2卷（上册））.上海:上海人民出版社
+5.摩根索,汉斯.国家间的政治——为权力与和平而斗争.北京:商务印书馆
+6.布赞,巴瑞.国际安全研究的演化.杭州:浙江大学出版社
+7.Hameiri,Sharhar.Governing Borderless Threats: Non-Traditional Security and the Politics of State Transformation.Cambridge University Press
+8.Fischer,Dietrich.Nonmilitary Aspects of Security: A Systems Approach.Dartmouth Publishing Company Limited
+9.Swain,Ashok.Understanding Emerging Security Challenges: Threats and Opportunities.Routledge
+10.Romm,Joseph J.Defining National Security: The Nonmilitary Aspects.Council on Foreign Relations, Inc
+11..中华人民共和国国家安全法.2017
+12.贝克,乌尔里希.风险社会.南京:译林出版社
+13.Beck,Ulrich.Terrorist Threat: World Risk Society Revisited.Theory, Culture & Society.2002.19(4)
+14.贝克,乌尔里希.自反性现代化:现代社会秩序中的政治、传统与美学.北京:商务印书馆
+15.贝克,乌尔里希.关于风险社会的对话:全球化与风险社会.北京:社会科学文献出版社,2005:3-4
+16.Sperling,James.Handbook of Governance and Security.Edward Elgar Publishing Limited
+17.Fra,Urbano.Paleo, Risk Governance: The Articulation of Hazard, Politics and Ecology.Springer
+18.圣吉,彼得.第五项修炼.三联书店
+19.Brattberg,Erik.Global Flow Security: A New Security Agenda for the Transatlantic Community in 2030.Cnter for Transatlantic Relations
+20..习近平内部讲话，详解中国当前“最大风险”.2017
+21.鲍曼,齐格蒙特.被围困的社会.南京:江苏人民出版社
+22.Jayakumar,Shashi.State, Society and National Security: Challenges and Opportunities in the 21 Century.World Scientific Publishing Co. Pte. Ltd
+23.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+24..习近平在国际刑警组织第八十六届全体大会开幕式上的主旨金讲(全文).2017
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全保障视域下安全情报与战略抗逆力的融合与对策
+【英文篇名】On Fusion between Resilience and Intelligence from the Perspective of Safeguarding National Security
+【来源作者】张家年
+【基    金】国家社会科学基金项目(13BTQ054)/安徽省教育厅人文社科重点项目(SK2015A90)
+【期    刊】情报杂志
+【第一机构】淮北师范大学
+【机构名称】[张家年]淮北师范大学.安徽省高校管理大数据研究中心
+【第一作者】张家年
+【中图类号】G250
+【年代卷期】2017,36(010):1-8,22
+【关 键 词】国家安全保障体系/国家安全情报/战略抗逆力/抗逆情报/融合模型
+【基金类别】
+【参考文献】
+1.Friedman,J A.Assessing uncertainty in intelligence.Intelligence and National Security.2012.27(6)
+2..中央政治局审议通过《国家安全战略纲要》(全文).2015
+3.刘跃进.国家安全学.北京:中国政法大学出版社
+4.马费成.情报学发展的历史回顾及前沿课题.图书情报知识.2013.(2)
+5.陶翔.国家竞争情报的概念及其演变过程.图书情报工作.2005.49(9)
+6.Shulsky,A N.Silent warfare: Understanding the world of intelligence.Dulles:Potomac Books, Inc
+7.赵冰峰.论国家情报.情报杂志.2013.(7)
+8.张家年.我国国家安全情报体系构建及运作.情报理论与实践.2015.38(8)
+9.Merriam-Webster.Full definition of RESILIENCE.2016
+10.Holling,C S..Resilience and stability of ecological systems.Annual review of ecology and systematics.1973.
+11.Kaplan,C P.Promoting resilience strategies: A modified consultation model.Children & Schools.1996.18(3)
+12.McCubbin,H I.Typologies of resilient families: Emerging roles of social class and ethnicity.Family Relations.1988.
+13.Christopher,M.Building the resilient supply chain.International Journal of Logistics Management.2004.15(2)
+14.Lengnick-Hall,C A.Developing a capacity for organizational resilience through strategic human resource management.Human Resource Management Review.2011.21(3)
+15.National Research Council.Disaster resilience: A National imperative.Washington, D. C.:The National Academies Press
+16.Linkov,I.Changing the resilience paradigm.Nature Climate Change.2014.4(6)
+17.Ganin,A A.Operational resilience: Concepts, design and analysis.Scientific Reports.2015.(6)
+18.Gao,J.Universal resilience patterns in complex networks.Nature.2016.530(7590)
+19.吕文栋.弹性企业风险管理体系建构的探讨——基于供应链弹性等领域的文献回顾与拓展.科学决策.2015.(3)
+20.张家年.情报视角下我国智库能力体系建设的研究.情报资料工作.2016.37(1)
+21.李文君.突发事件情境下组织冗余资源的作用分析.经济与管理.2012.26(6)
+22.Homeland Security Council.National strategy for homeland security (2007).2015
+23.The White House.National security strategy (2010).2015
+24.The White House Office of the Press Secretary.Presidential policy directive-critical infrastructure security and resilience (PPD-21) (2013).2015
+25.Bourgeois,L J..On the measurement of organizational slack.Academy of Management Review.1981.6(1)
+26.Sharfman,M P.Antecedents of organizational slack.Academy of Management Review.1988.13(4)
+27.涂元季.钱学森书信:1990年10月4日致戴汝为.北京:国防工业出版社
+28.李纲.情报视角下的突发事件监测与识别研究.图书情报工作.2014.58(24)
+29.包昌火.竞争情报导论.北京:清华大学出版社
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全领域的情报信息共享意愿研究
+【英文篇名】Study on National Security Information Sharing Willingness
+【来源作者】孙敏/栗琳/孙晓/丛姗
+【基    金】
+【期    刊】情报杂志
+【第一机构】北京大学
+【机构名称】[孙敏]北京大学.信息管理系/[栗琳]中国国防科技信息中心./[孙晓]北京系统工程研究所.复杂系统仿真国家重点实验室/[丛姗]中国国防科技信息中心.
+【第一作者】孙敏
+【中图类号】G359
+【年代卷期】2017,36(010):35-39
+【关 键 词】信息共享/美国情报界/情报改革/情报共享/国家安全
+【基金类别】
+【参考文献】
+1..National commission on terrorist attacks upon the united states. the 9/11 commission report.Washington, D. C.:National Commission on Terrorist Attacks Upon the United States
+2.Kris,D S..Rise and fall of the fisa wall.Stanford Law and Policy Review.2006.17
+3.Seamon,R H.PATRIOT act and the wall between foreign intelligence and law enforcement.Harvard Journal of Public Law and Policy.2005.28
+4.Cummins,C E..FBI information sharing and safeguarding report.Washington, D. C.:Department of Justice and Federal Bureau of Investigation
+5.Regan,P M.Fusion center accountability and intergovernmental information sharing.Publius: The Journal of Federalism.2014.44(3)
+6.Mcnamara,T E..Information sharing environment implementation plan.Washington, D. C.:Inforamation Sharing Environment
+7.Bush,G W..Memorandum on guidelines and requirements in support of the information sharing environment.Weekly Compilation of Presidential Documents.2005.51
+8.Manjikian,M..But my hands are clean: The ethics of intelligence sharing and the problem of complicity.International Journal of Intelligence and Counter Intelligence.2015.28(4)
+9.W P J.Network fusion information and intelligence sharing for a networked world.Homeland Security Affairs.2012.8(1)
+10.周晗.非传统威胁下美国情报共享的战略变革——《美国情报界信息共享战略报告》解读及评析.江西公安专科学校学报.2009.(2)
+11.吴向志.基于协同机制及SOA的反恐情报共享体系构建.情报杂志.2015.34(3)
+12.白海将.美国联邦调查局反恐情报共享机制分析及启示.情报杂志.2015.34(4)
+13.张家年.情报融合中心:美国情报共享实践及启示.图书情报工作.2015.59(13)
+14.姚凯.雇佣关系、组织公平与知识共享意愿:基于中国企业的实证研究.复旦学报(自然科学版).2016.55(1)
+15.张敏.科研团队显性知识和隐性知识共享意愿影响因素的对比分析.图书馆学研究.2016.(13)
+16.赵大丽.社会资本对微信朋友圈用户知识共享意愿的影响研究.情报理论与实践.2016.39(3)
+17.张岌秋.虚拟社区信息获取与信息共享意愿和行为的实证研究.情报科学.2015.(8)
+18.Mcconnell,J M.United states intelligence community information sharing strategy.Washington, D. C.:Office of the Director of National Intelligence
+19..U. S. Congress. Intelligence reform and terrorism prevention act of 2004.Washington, D. C.:the U. S. Congress
+20.Young,A..Too much information ineffective intelligence collection.Harvard International Review.2013.35(1)
+21.Clapper,J R.United states intelligence community strategic intent for information sharing 2011-2015.Washington, D. C.:office of the Director of National Intelligence
+22.Sales,N A..Share and share alike intelligence agencies and information sharing.George Washington Law Review.2010.78(2)
+23.Wilson,J Q..Investigators: Managing FBI and narcotics agents.New York:Basic Books, Inc
+24.高金虎.试论国家情报体制的管理——基于美国情报界的考察.情报杂志.2014.33(2)
+25.Bush,G W..Memorandum on designation and sharing of controlled unclassified information (CUI).Weekly Compilation of Presidential Documents.2008.44
+26.Homeland Security Act of 2002, Public Law No. 107-296, 116 Stat. 2135
+27.The White House.National strategy for information sharing: Successes and challenges in improving terrorism-related information sharing.Washington, D. C.:the White House
+28.Bush,G W..Executive order(13356) strengthening the sharing of terrorism information to protect americans.Weekly Compilation of Presidential Documents.2004.
+29.Waxman,M C..National strategy for information sharing and safeguarding.Washington, D. C.:the White House
+30.陈峰.竞争情报价值链:概念和意义.图书情报工作.2003.(7)
+31.马德辉.警务情报价值链探析.中国人民公安大学学报(社会科学版).2007.(4)
+32.郑彦宁.基于竞争情报价值链的产业竞争情报作用研究.情报理论与实践.2014.37(2)
+-----------------------------------------------------------------------
+
+【来源篇名】习近平总体国家安全观战略思想探析
+【英文篇名】
+【来源作者】张然/许苏明
+【基    金】
+【期    刊】思想理论教育导刊
+【第一机构】东南大学
+【机构名称】[张然]东南大学.马克思主义学院/[许苏明]东南大学.马克思主义学院
+【第一作者】张然
+【中图类号】A81
+【年代卷期】2017,(010):54-58
+【关 键 词】习近平/总体国家安全观/中国特色社会主义
+【基金类别】
+【参考文献】
+1..习近平谈治国理政.北京:外文出版社
+2.习近平.关于《中共中央关于全面深化改革若干重大问题的决定》的说明.人民日报.11.16(1)
+3.《总体国家安全观干部读本》编委会.总体国家安全观干部读本.北京:人民出版社
+4.胡锦涛.坚定不移沿着中国特色社会主义道路前进为全面建成小康社会而奋斗——在中国共产党第十八次全国代表大会上的报告.北京:人民出版社
+5..马克思恩格斯文集（第1卷）.北京:人民出版社
+6..马克思恩格斯文集（第2卷）.北京:人民出版社
+7.习近平.顺应时代前进潮流促进世界和平发展——在莫斯科国际关系学院的演讲.人民日报.3.23(1)
+-----------------------------------------------------------------------
+
+【来源篇名】中国特色国家安全道路的新探索
+【英文篇名】Change and Thinking on the National Security Strategy with Chinese Characteristics
+【来源作者】何怀远
+【基    金】国家社科基金专项工程项目(16ZZD012)
+【期    刊】思想理论教育导刊
+【第一机构】南京政治学院
+【机构名称】[何怀远]南京政治学院.马克思主义学院
+【第一作者】何怀远
+【中图类号】D820
+【年代卷期】2017,(020):37-41
+【关 键 词】中国特色/国家安全/国家安全观
+【基金类别】
+【参考文献】
+1..分析研究二〇一七年经济工作审议《关于加强国家安全工作的意见》.人民日报.12.10(1)
+2..中国共产党第十八次全国代表大会文件汇编.北京:人民出版社
+3.中共中央宣传部.习近平总书记系列重要讲话读本(2016年版).北京:学习出版社
+4.刘杨钺.武器化视角下国际生化安全态势分析.南京政治学院学报.2016.(1)
+5.刘强.西方大国军队网络舆论战略及其启示.南京政治学院学报.2016.(1)
+6..习近平谈治国理政.北京:外文出版社
+7.习近平.在庆祝中国共产党成立95周年大会上的讲话.北京:人民出版社
+8.加德纳,理查德.英镑美元外交——当代国际经济秩序的起源与展望.南京:江苏人民出版社
+9.基辛格,亨利.基辛格美国的全球战略.海口:海南出版社
+10.习近平.在华盛顿州当地政府和美国友好团体联合欢迎宴会上的演讲.2016
+11.沃尔夫,马丁.50年后中国需思考五大问题.2016
+-----------------------------------------------------------------------
+
+【来源篇名】俄罗斯国家安全战略的变迁与思考
+【英文篇名】
+【来源作者】李瑞琴
+【基    金】
+【期    刊】思想理论教育导刊
+【第一机构】中国社会科学院马克思主义研究院
+【机构名称】[李瑞琴]中国社会科学院马克思主义研究院.
+【第一作者】李瑞琴
+【中图类号】D643
+【年代卷期】2017,(020):62-68
+【关 键 词】俄罗斯/国家安全战略/美俄关系/中俄关系
+【基金类别】
+【参考文献】
+1.李青.俄政党提案给戈尔巴乔夫定罪在野党追究苏联解体责任.2016
+2.孔寒冰.俄罗斯的外交政策与科索沃战争.2016
+3.郑羽.评1999年《俄罗斯联邦国家安全构想》.国际经济评论.2000.(Z2)
+4..俄罗斯与西方蜜月期彻底结束.2016
+5.徐春柳.叶利钦时期中俄关系连上三台阶.新京报.4.24
+6..北约和俄罗斯签署《罗马宣言》.2016
+7..俄罗斯与欧盟通过建立统一空间“路线图”文件.2016
+8..普京提出俄罗斯加入北约的三项条件.2016
+9.特列宁,德米特里.帝国之后:21世纪俄罗斯的国家发展与转型.北京:新华出版社
+10.盛世良.俄罗斯国家安全战略亮点丰富.2016
+11.刘洋.解读俄罗斯新版国家安全战略.2016
+12..梅德韦杰夫批准俄联邦至2020年国家安全战略.2016
+13.夏微雨.俄罗斯掀起第三次“去斯大林化”高潮.共产党员.2011.(4)
+14..深度:普京就克里米亚独立加入俄罗斯演讲.2016
+15..纳雷什金:发展与中国的战略合作伙伴关系是俄罗斯外交政策的优先方向.2016
+16.斯密特,帕特里克.破坏同俄罗斯的关系是奥巴马最糟糕的遗产.2016
+17.季莫费伊切夫,阿列克谢.拉夫罗夫:“伊斯兰国”是俄罗斯的首要敌人.2015
+18.刘小普.北约秘书长指俄罗斯意图分裂北约联盟.2016
+19.苏尔科夫,尼古拉.北约走向公开遏制俄罗斯:是姿态还是真正威胁？.2016
+20..时事分析:北约增加在欧军事部署意味着什么.2016
+21.罗津,伊戈尔.拉夫罗夫:俄欧关系尚未走过“不归点”.2016
+22.费年科,阿列克谢.磨刀霍霍:北约会否与俄罗斯爆发军事冲突.2016
+23.米赫耶夫,弗拉基米尔.为何要把欧洲变成战场？.2016
+24..俄总统普京:他们试图再次误导我们和整个世界.2016
+25..毛泽东选集（第4卷）.北京:人民出版社
+26..普京:因短视而姑息那些图谋不轨的人不可容忍.2016
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全与反恐情报危机决策机制构建研究
+【英文篇名】Research on the Decision-making Mechanism of National Security and Anti-terrorism Intelligence Crisis
+【来源作者】孙韶聪/靳娟娟
+【基    金】河北省社会科学基金项目(HB14TQ003)
+【期    刊】情报杂志
+【第一机构】中国人民武装警察部队学院
+【机构名称】[孙韶聪]中国人民武装警察部队学院./[靳娟娟]中国人民武装警察部队学院.
+【第一作者】孙韶聪
+【中图类号】G350
+【年代卷期】2017,36(030):6-12
+【关 键 词】反恐情报/危机管理/危机决策
+【基金类别】
+【参考文献】
+1.王沙骋.我国面临的恐怖主义及情报反恐研究.中国软科学.2014.(2)
+2.李本先.对反恐情报体系构建中几个问题的思考.情报杂志.2014.(4)
+3.徐仲成.新形势下我国反恐战略的几点思考.山东警察学院学报.2014.(3)
+4.靳娟娟.基于网络环境的创新性情报集成分析方法研究.情报理论与实践.2015.(7)
+5.刘甜.完善我国反恐预警机制研究:学位论文.秦皇岛:燕山大学,2016
+6.李本先.我国反恐情报及预警系统框架设计.中国人民公安大学学报(社会科学版).2012.(4)
+7.刘武英.基于中文文献的反恐情报研究分析.情报杂志.2015.(1)
+8.陈明.反恐情报中心主导下的情报共享机制研究.江南社会学院学报.2016.(3)
+9.张杰.上海合作组织反恐情报机制的功能.俄罗斯中亚东欧研究.2008.(4)
+10.胡裕岭.反恐情指一体机制建设中的大数据应用.江西警察学院学报.2015.(6)
+11.魏海亮.我国安全形势与反恐情报战略构建——基于国际恐怖主义的视角.情报杂志.2015.(4)
+-----------------------------------------------------------------------
+
+【来源篇名】国家安全视域下的社会思潮观察（笔谈）·社会思潮与文化安全
+【英文篇名】
+【来源作者】樊建新
+【基    金】
+【期    刊】红旗文稿
+【第一机构】中国社会科学院马克思主义研究院
+【机构名称】[樊建新]中国社会科学院马克思主义研究院.
+【第一作者】樊建新
+【中图类号】D64
+【年代卷期】2017,(070):7-8
+【关 键 词】社会思潮/文化安全/中华优秀传统文化
+【基金类别】
+【参考文献】
+-----------------------------------------------------------------------
+

@@ -1,0 +1,1 @@
+The g-index is discussed in terms of the average number of citations of the publications in the g-core, showing that it combines features of the h-index and the A-index in one number. For a visualization, data of 8 famous physicists are presented and analyzed. In comparison with the h-index, the g-index increases between 67% and 144%, on average by a factor of 2.

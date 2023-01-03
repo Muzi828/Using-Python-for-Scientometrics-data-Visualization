@@ -1,0 +1,1 @@
+A theoretical model of the dependence of Hirsch-type indices on the number of publications and the average citation rate is tested successfully on empirical samples of journal h-indices.

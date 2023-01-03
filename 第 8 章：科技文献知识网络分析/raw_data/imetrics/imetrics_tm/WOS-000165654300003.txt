@@ -1,0 +1,2 @@
+The aim of this article is to demonstrate on the scientific field "economics" the search for fundamental articles.
+Co-word analysis and co-citation analysis enable to visualize the structure of a scientific field on the maps of science. Then we can find the fundamental themes on the maps. After finding the articles belonging to these fundamental themes we can discuss the fundamentality of the formers, too.

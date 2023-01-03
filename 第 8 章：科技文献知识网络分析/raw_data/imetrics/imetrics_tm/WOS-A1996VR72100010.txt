@@ -1,0 +1,4 @@
+To study the nature of interactions between the laboratories' industrial relationships and their scientific policies we posit that by drawing on enhanced knowledge of such interaction, recommendations concerning the management of industrial relationships can be formulated.
+The tools used are: - extraction of documentary references from PUBINRA (in-house database of publications by INRA researchers) followed by counts per laboratory;
+- characterization of applied and fundamental research publications based on a classification of periodicals' in the Science Citation Index, updated and completed with the help of researchers from the INRA Departments;
+- mobilization of bibliometric variables in a body of synthesized variables, to account for the role of partnerships in a laboratory's production.

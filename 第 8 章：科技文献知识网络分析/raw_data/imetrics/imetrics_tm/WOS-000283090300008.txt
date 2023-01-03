@@ -1,0 +1,1 @@
+I propose the index (h) over bar ("hbar"), defined as the number of papers of an individual that have citation count larger than or equal to the (h) over barh of all coauthors of each paper, as a useful index to characterize the scientific output of a researcher that takes into account the effect of multiple authorship. The bar is higher for (h) over bar.

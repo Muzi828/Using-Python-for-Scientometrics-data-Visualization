@@ -1,0 +1,5 @@
+Purpose: The goal is to identify the features of top-rated gold open access (OA) journals by testing seven main variables: languages, countries, years of activity and years in the DOAJ repository, publication fee, the field of study, whether the journal has been launched as OA or converted, and the type of publisher.
+Sample: A sample of 1910 gold OA journals has been obtained by combining Scopus SJR 2012, the DOAJ, and data provided by previous studies (Solomon, 2013).
+Method: We have divided the SJR index into quartiles for all journals' subject areas. First, we show descriptive statistics by combining quartiles based on their features. Then, after having converted the quartiles into a dummy variable, we test it as a dependent variable in a binary logistic regression.
+Contribute: This work contributes empirically to better understanding the gold OA efficacy of data analysis, which may be helpful in improving journals' rankings in the areas where this is still a struggle.
+Findings: Significant results have been found for all variables, except for the types of publishers, and for born or converted journals. (C) 2014 Elsevier Ltd. All rights reserved.

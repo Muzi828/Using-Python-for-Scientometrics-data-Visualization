@@ -1,0 +1,1 @@
+After a brief discussion on the normalization factors allowing the quantitative comparison between various disciplines, a formula is proposed for taking into account the value of citations to papers published in journals with different impact factors.

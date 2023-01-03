@@ -1,0 +1,1 @@
+New indicators, including the outgrow index, characterizing an article in its ego citation network are introduced. We take full advantage of the existing duality (cites-is cited by) in a citation network. Although algebraic aspects are emphasized, a first step towards their interpretation is attempted. Examples of their calculation and of future applications are provided.

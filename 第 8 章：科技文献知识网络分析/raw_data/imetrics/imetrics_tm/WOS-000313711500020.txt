@@ -1,0 +1,1 @@
+The definition assigned to self-citations is nontrivial. This decision can affect research outputs in a number of ways. The current paper considers the self-citation definition used by the Web of Science, and compares this with an alternative definition, advanced in the present study, within the context of the work of an individual researcher. A discussion follows.

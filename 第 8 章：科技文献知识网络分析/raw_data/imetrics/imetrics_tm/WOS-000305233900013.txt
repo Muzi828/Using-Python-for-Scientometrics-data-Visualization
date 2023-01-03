@@ -1,0 +1,1 @@
+A new visual representation of the response time, i.e., the time elapsed between the publication year and the date of the first citation of a paper, is provided. This presentation can be used to detect and describe different paradigmatic types of reception speed for scientific journals.

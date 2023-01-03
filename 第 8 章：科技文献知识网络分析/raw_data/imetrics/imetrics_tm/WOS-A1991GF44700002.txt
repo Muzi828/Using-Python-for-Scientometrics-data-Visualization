@@ -1,0 +1,1 @@
+The number of astronomers living at different times is analyzed, from the classic antiquity to modern times through the different available statistics.  For present times the number is estimated to be about 9.000; this number grows exponentially.  A zero order model is proposed to pass from the annual number of authors of papers to the number of active astronomers.

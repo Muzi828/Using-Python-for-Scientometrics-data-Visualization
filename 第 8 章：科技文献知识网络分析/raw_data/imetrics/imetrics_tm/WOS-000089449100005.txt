@@ -1,0 +1,3 @@
+N-grams are generalized words consisting of N consecutive symbols, as they are used in a text. This paper determines the rank-frequency distribution for redundant N-grams. For entire texts this is known to be Zipf's law (i.e., an inverse power law). For N-grams, however, we show that the rank (r)-frequency distribution is
+P-N(r)=C/(psi(N)(r))(beta),
+where psi(N) is the inverse function of f(N)(x)=x ln(N-1)x. Here we assume that the rank-frequency distribution of the symbols follows Zipf's law with exponent beta.

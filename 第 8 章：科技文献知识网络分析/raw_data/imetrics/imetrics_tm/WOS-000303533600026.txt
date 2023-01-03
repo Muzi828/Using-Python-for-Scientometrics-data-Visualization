@@ -1,0 +1,1 @@
+It is shown that the age-independent index based on h-type index per decade, called hereafter an alpha index instead of the a index, suggested by Kosmulski (Journal of Informetrics 3, 341-347, 2009) and Abt (Scientometrics 2012) is related to the square-root of the ratio of citation acceleration a to the Hirsch constant A.

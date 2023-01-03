@@ -1,0 +1,1 @@
+The value or informativeness of an item in a library collection or database has been measured by its frequency of circulation or access. This paper presents a more discriminating measure, user contact time, and develops a model for its distribution over users and over time. The model is applied to the problem of predicting future informativeness of an item.

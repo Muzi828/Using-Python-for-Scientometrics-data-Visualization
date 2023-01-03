@@ -1,0 +1,8 @@
+Each information production process has a unique h-index. This paper studies the problem: what are possible h-index values if we merge two or more IPPs?
+First the paper gives examples of IPP mergings. There are at least two types: one where common sources add their number of items and one where common sources get the maximum of their number of items in the two IPPs.
+In each case we show that
+max(h(1), h(2)) <= h <= h(1) + h(2)
+for both types of mergings (h(i), i = 1, 2 the h-index in the two IPPs; h is the h-index in the merged one).
+We show that the above inequalities cannot be improved ( in both merging types).
+We also show that the same inequalities are true for the g-index and the R-index but that they are false for the weighted h-index. For the R-index we can even refine the above inequality
+R <= root R-1(2) + R-2(2) < R-1 + R-2. (C) 2008 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,1 @@
+The S-shaped functional relation between the mean citation score and the proportion of top 10% publications for the 500 Leiden Ranking universities is explained using results of the shifted Lotka function. Also the concave or convex relation between the proportion of top 100 theta% publications, for different fractions theta, is explained using the obtained new informetric model.

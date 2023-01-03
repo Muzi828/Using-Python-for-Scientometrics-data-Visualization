@@ -1,0 +1,1 @@
+Lack of standard procedures hinders progress in scientometric and bibliometric research. Provoked by a recent publication in the journal Scientometrics, we consider in particular the problem of how to handle - in a standardised way - data that, by and large, follow a Lotka, Zipf or Mandelbrot distribution.

@@ -1,0 +1,1 @@
+An estimation of the h-index is proposed for cases when the original variable underlying the distribution for which the h-index had been determined was rescaled. Within its validity limits, the approximation can be usefully applied for field normalization, change of time frames or other changes of measurement scales.

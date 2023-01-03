@@ -1,0 +1,1 @@
+Temporal differences in self-citing and self-cited rates of journals are studied. It is concluded that the citation curve of a journal is composed of two curves with different characteristics: a self citation (or self-cited) curve and a curve representing external citations.

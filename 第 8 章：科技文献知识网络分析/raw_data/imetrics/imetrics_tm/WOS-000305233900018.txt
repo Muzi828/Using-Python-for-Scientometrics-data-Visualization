@@ -1,0 +1,2 @@
+Distributed information retrieval (DIR), where a single broker coordinates retrieval from many independent search services, has been extensively studied but typically without any particular application and sometimes even without any explicit motivation. There have been a handful of arguments given for DIR-coverage, effectiveness, and ease of use, for example-but these are not borne out by experience.
+Are there uses for DIR? There are, but generally for organizational not technical reasons, and they have not been well studied.

@@ -1,0 +1,1 @@
+This paper compares the h-indices of a list of highly-cited Israeli researchers based on citations counts retrieved from the Web of Science, Scopus and Google Scholar respectively. In several case the results obtained through Google Scholar are considerably different from the results based on the Web of Science and Scopus. Data cleansing is discussed extensively.

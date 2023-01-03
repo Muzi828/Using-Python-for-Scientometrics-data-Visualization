@@ -1,0 +1,1 @@
+We show several problems with marking free text, text that is either natural language or semigrammatical but unstructured. These problems prevent well-formed XML from marking text for readily available meaning. A solution is proposed to mark meaning in free text that is consistent with the intended simplicity of XML versus SGML.

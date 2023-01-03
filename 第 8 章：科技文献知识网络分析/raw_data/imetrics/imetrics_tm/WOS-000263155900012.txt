@@ -1,0 +1,1 @@
+It is shown that a Hirsch-type index can be used for assessing single highly cited publications by calculating the h-index of the set of papers citing the work in question. This index measures not only the direct impact of a publication but also its indirect influence through the citing papers.

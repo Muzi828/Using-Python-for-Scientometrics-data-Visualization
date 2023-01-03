@@ -1,0 +1,1 @@
+Recently, it was shown that among existing theoretical models for the h-index, the Glanzel-Schubert model provides the best fit for a chosen example involving the research evaluation of universities. In this brief communication, we propose a thermodynamic explanation for the success of the Glanzel-Schubert model of the h-index.

@@ -1,0 +1,3 @@
+We define the generalized Wu- and Kosmulski-indices, allowing for general parameters of multiplication or exponentiation. We then present formulae for these generalized indices in a Lotkaian framework.
+Next we characterise these indices in terms of their dependence on the quotient of the average number of items per source in the m-core divided by the overall average ( m is any generalized Wu- or Kosmulski-index).
+As a consequence of these results we show that the fraction of used items (used in the definition of m) in the m-core is independent of the parameter and equals one divided by the overall average. (C) 2011 Elsevier Ltd. All rights reserved.

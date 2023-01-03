@@ -1,0 +1,4 @@
+Introduction: The present study endeavours to provide information on what are the research interests of Brazilian Public Health and how authors can be ranked.
+Methods: Post-graduate faculty members ISI data are analysed according to regions. Number of paper and its citations, papers' type-complexity-cooperation, Bradford's Law, Shannon's indexes, time dynamic functions, Lotka's Law, and ranking functions are examined.
+Results: Current production was built up in the last 30 years at a rate of 9.6% articles/year and 12.6% citations/year. 66% of potential authors were present in ISI data records, 64% achieved at least one citation. Research fields do not much depart from the traditional PH purview. More than 66% of authors have just one paper and decrease is steep. Subtle differences call attention to the South region.
+Conclusion: Brazilian PH is mainly committed to classical research fields and ranking among authors is narrow.

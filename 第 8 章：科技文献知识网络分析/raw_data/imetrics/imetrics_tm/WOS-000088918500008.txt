@@ -1,0 +1,1 @@
+The paper is introducing an economic method (interindustry relations analysis) into studies of autopoietic systems and shows its application to scientometrics, which can also be regarded as the analysis of autopoietic systems. The merit of the application is discussed, and the outline of the proof of a related theorem is suggested in the appendix.

@@ -1,0 +1,4 @@
+In Open Access (OA) environment where article-based or author-based evaluation is important, a nexv evaluation system is needed to accommodate characteristics of Open Access Resources (OAR) and to overcome limitations of pre-existing evaluation systems such as journal-based evaluation.
+Primary and secondary evaluation factors were selected. Primary factors include hits and citations that constitutes composite index. Several secondary factors each for article and author evaluation were selected for normalization of the indexes.
+To validate superiority of newly developed normalized composite index systems compared to the monovariable index system, time-driven bias and power of discrimination were adopted.
+The results led to the conclusion that composite index proved to be a more stable index offsetting the negative effects from one element to another and normalization makes the composite index even more stable by controlling the bias from external elements.

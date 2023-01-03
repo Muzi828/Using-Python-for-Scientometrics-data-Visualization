@@ -1,0 +1,1 @@
+Some important bibliometric characteristics of chemistry journals were studied. Contrary to expectations, calculations of impact factors asynchronized for shorter and longer periods yield similar values. A new overlap measure for journals is suggested which is based on frequency distribution of references by journals.

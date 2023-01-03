@@ -1,0 +1,1 @@
+This study used citation analysis method to identify the 40 classics published in the Journal of the American Society for Information Science and Technology from 1956 to 2007. Yhe year and subject distributions of these classic references reflect the history and the current status of information science.

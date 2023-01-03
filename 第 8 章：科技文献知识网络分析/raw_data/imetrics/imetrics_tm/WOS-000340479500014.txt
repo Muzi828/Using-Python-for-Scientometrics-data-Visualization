@@ -1,0 +1,1 @@
+Properties of a percentile-based rating scale needed in bibliometrics are formulated. Based on these properties, P100 was recently introduced as a new citation-rank approach (Bornmann, Leydesdorff, & Wang, 2013). In this paper, we conceptualize P100 and propose an improvement which we call P100'. Advantages and disadvantages of citation-rank indicators are noted.

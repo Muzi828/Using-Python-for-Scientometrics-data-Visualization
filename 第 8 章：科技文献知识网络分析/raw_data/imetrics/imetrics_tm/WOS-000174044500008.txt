@@ -1,0 +1,1 @@
+This paper is proposing a new index for international scientific co-authorship, which is based on a simple model of domestic and international co-authorships. The index draws a modestly different Picture of international collaboration, concerning a country's size effect on the likelihood of internationally co-authored papers.

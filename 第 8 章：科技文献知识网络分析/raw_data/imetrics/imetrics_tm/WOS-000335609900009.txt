@@ -1,0 +1,1 @@
+We show mathematically that the success-index can be any of the following impact indices, dependent on the value of the threshold used in the definition of the success-index: Hirsch-index (h-index), g-index, generalized Wu- and Kosmulski-indices, the average. (C) 2014 Elsevier Ltd. All rights reserved.

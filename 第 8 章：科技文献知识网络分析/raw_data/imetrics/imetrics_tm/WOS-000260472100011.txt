@@ -1,0 +1,1 @@
+A method for the calculation of a 'concatenated' h-index of jointly ranked combined bibliographies is presented in the case when only size and h-index of the original publication sets are known.

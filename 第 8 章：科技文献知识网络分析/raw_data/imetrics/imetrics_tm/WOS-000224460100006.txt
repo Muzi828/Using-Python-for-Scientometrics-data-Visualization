@@ -1,0 +1,1 @@
+A method to identify core documents within a given subject domain has been developed by the author. The method builds on the concept of polyrepresentation by using different search rationales in several databases and isolating the overlaps between them. This paper delineates the ideas behind the method and describes the study done to measure its effectiveness.

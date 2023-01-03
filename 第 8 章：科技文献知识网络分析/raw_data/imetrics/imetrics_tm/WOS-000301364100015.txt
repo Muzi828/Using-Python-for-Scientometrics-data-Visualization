@@ -1,0 +1,4 @@
+The recently awakened discussion on the usability of averages of ratios (AoR) compared to ratios of averages (RoA) has led to the mathematical results in this paper. Based on the empirical results in Lariviere and Gingras (2011) we prove, under reasonable conditions, the following relations between AoR and RoA for a set of points:
+(i) The regression line of RoA in function of AoR is the first bisectrix.
+(ii) (AoR - RoA)/AoR in function of the number N of papers is a cloud of points comprised between a multiple of 1 root N and - 1 root N.
+(iii) (AoR - RoA)/AoR versus RoA has a decreasing regression line. (C) 2012 Elsevier Ltd. All rights reserved.

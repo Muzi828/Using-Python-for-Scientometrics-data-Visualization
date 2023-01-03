@@ -1,0 +1,1 @@
+This study presents the calculation of odds, and odds ratios, for the comparison of the citation impact of universities in the Leiden Ranking. Odds and odds ratios can be used to measure the performance difference between a selected university and competing institutions, or the average of selected competitors, in a relatively simple but clear way.

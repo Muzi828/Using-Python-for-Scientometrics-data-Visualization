@@ -1,0 +1,1 @@
+It is pointed out that the so-called "Bradford distribution" derived by Leimkuhler is more properly viewed as the theoretical form of a variant of the Lorenz curve.  The equation of this Leimkuhler curve allows an easy calculation of the Gini coefficient of concentration which can be compared with empirical values.

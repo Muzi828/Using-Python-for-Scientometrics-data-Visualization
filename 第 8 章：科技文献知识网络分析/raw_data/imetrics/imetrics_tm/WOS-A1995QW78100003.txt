@@ -1,0 +1,1 @@
+The use of the cluster analysis in scientometrics is dealt with. The ways of developing citation networks and mapping research field with the help of this method are also presented. The methodology of computer-aided cluster analysis of citation is described, which allows to map the structure of a research field and to identify main tendencies of its development.

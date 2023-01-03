@@ -1,0 +1,1 @@
+A citation matrix for the thirteen most cited journals in economics is constructed from data in the Social Sciences Citation Index.(TM) The components of the eigenvector associated with the largest possible eigenvalue (the Frobenius root) of this matrix defines "impact values" by which these journals may be ranked.

@@ -1,0 +1,1 @@
+A goodness of fit test is conducted for two models for Bradford's law given by Egghe and Smolkov. The conclusion is that Smolkov's model is of comparatively higher accuracy. Finally the paper points out the necessity of carrying out statistical tests for comparisons more frequently for the new models of Bradford's law in the development of the law in order to get the best model.

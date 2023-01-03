@@ -1,0 +1,1 @@
+The multivariate Waring distribution is developed and investigated. A special case, the bivariate Waring distribution, is considered. It is shown that the distributions have some nice properties as multivariate distribution. Some applications to the distribution of scientific productivity are discussed.

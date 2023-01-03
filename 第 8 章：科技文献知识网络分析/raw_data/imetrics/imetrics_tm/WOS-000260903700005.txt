@@ -1,0 +1,1 @@
+We provide a newaxiomatic characterization of the Hirsch-index. This new characterization is based on a simple and appealing symmetry axiom which essentially imposes that the number of citations and the number of publications should be treated in the same way and should be measured in the same scale. (C) 2008 Elsevier Ltd. All rights reserved.

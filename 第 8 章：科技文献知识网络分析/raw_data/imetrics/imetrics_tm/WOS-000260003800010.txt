@@ -1,0 +1,1 @@
+In this paper some new fields of application of Hirsch-related statistics are presented. Furthermore, so far unrevealed properties of the h-index are analysed in the context of rank-frequency and extreme-value statistics.

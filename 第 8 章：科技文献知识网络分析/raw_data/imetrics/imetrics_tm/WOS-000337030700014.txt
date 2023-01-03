@@ -1,0 +1,1 @@
+In this brief communication, we show how a simple 3D bibliometric performance evaluation based on the zynergy-index (Prathap, 2013) can be simplified by the recently introduced 3-class approach (Ye & Leydesdorff, in press).

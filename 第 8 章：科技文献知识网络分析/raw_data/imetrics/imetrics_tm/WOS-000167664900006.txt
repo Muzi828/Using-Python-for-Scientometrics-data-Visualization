@@ -1,0 +1,1 @@
+The small size of institutes and publication clusters is a problem when determining citation indices. To improve the citation indexing of small sets of publications (less than 50 or 100 publications), a method is proposed. In addition, a method for error calculation is given for large sets of publications. Here. the classical methods of citation indexing remain valid.

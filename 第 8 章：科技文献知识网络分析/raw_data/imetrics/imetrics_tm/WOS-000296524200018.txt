@@ -1,0 +1,2 @@
+In this paper CITAN, the CITation ANalysis package for R statistical computing environment, is introduced. The main aim of the software is to support bibliometricians with a tool for preprocessing and cleaning bibliographic data retrieved from SciVerse Scopus and for calculating the most popular indices of scientific impact.
+To show the practical usability of the package, an exemplary assessment of authors publishing in the fields of scientometrics and webometrics is performed. (C) 2011 Elsevier Ltd. All rights reserved.

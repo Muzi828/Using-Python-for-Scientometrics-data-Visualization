@@ -1,0 +1,1 @@
+Three variations on the power law model proposed by Egghe are fitted to four groups of h-index time series: publication-citation data for authors, journals and universities; and patent citation data for firms. It is shown that none of the power law models yields an adequate description of total career h-index sequences. (C) 2008 Elsevier Ltd. All rights reserved.

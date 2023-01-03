@@ -1,0 +1,1 @@
+Q-measures express the bridging function of nodes in a network subdivided into two groups. An approach to Q-measures in the context of weighted or valued directed networks is proposed. This new approach uses flow centrality as the main concept. Simple examples illustrate the definition.

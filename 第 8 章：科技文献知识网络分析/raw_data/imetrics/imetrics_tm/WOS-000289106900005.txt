@@ -1,0 +1,1 @@
+We present a mathematical derivation of the scale-dependence of the h-index. This formula can be used in two cases: one where the units are scale-dependent and one where the units are not scale-dependent. Examples are given.

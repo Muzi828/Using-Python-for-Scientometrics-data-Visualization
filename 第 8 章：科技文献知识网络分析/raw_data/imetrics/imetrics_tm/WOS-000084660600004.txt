@@ -1,0 +1,2 @@
+A model for measuring the congestion in library shelves after j years (j is an element of N) is obtained by taking j-fold convolutions of the distributions that describe the yearly growth of literature (e.g., periodicals, books on a certain topic,...) From this one can estimate the expected number of critical points in the shelf, after j years. One can also calculate the probability that there will be m (m is an element of N) critical points after j years.
+The paper closes by examining two concrete cases.

@@ -1,0 +1,1 @@
+A classification of countries is made according to respective ranks in the scales of "publications per million persons" and "GDP per capita (ppp)". The result is a clustering of countries which share a common cultural attitude toward scientific research.

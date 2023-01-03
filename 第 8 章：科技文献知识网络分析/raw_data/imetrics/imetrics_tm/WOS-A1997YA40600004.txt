@@ -1,0 +1,1 @@
+It is shown that Data Envelopment Analysis (DEA) can be used to construct relative scientific and technological indicators. The method is explained and illustrated using countries as objects of study; GDP, active population and R&D expenditure as inputs, and publications and patents as outputs. Using these parameters the efficiency of countries is assessed.

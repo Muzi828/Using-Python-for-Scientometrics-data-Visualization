@@ -1,0 +1,1 @@
+The timeline used in ISI's Journal Citation Reports (JCR; Thomson ISI, formerly the Institute for Scientific Information, Philadelphia, PA) for half-life calculations, is not a timeline for (average) cited age. These two timelines are shifted over half a year.

@@ -1,0 +1,1 @@
+The recently proposed fractional scoring scheme is used to attribute publications to percentile rank classes. It is shown that in this way uncertainties and ambiguities in the evaluation of specific quantile values and percentile ranks do not occur. Using the fractional scoring the total score of all papers exactly reproduces the theoretical value.

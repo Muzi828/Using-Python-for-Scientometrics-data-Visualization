@@ -1,0 +1,1 @@
+An attempt is made to correlate bibliometric data of journals (impact factors, half-life) for scientific disciplines in the exact sciences to bibliotheconomic data (subscription prices, prices per article and holdings). Data are presented for 5399 journals in 131 disciplines, as mentioned in the Journal Citation Reports 1990 (Science Citation Index).

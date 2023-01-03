@@ -1,0 +1,1 @@
+Caution is urged over the adoption of dynamic h-type indexes as advocated by Rousseau and Ye (2008). It is shown that the dynamics are critically dependent upon model assumptions and that practical interpretation might therefore be problematic. However, interesting questions regarding the interrelations between various h-type indexes are raised.

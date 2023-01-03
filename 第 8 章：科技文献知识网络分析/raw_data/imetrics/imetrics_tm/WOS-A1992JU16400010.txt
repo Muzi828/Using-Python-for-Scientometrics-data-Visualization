@@ -1,0 +1,1 @@
+The purpose of this paper is to define a pseudo-metric on bibliographic entities to measure the distance in content between them. An example of this pseudo-metric is given in the case that the content of the bibliographic material is characterised by means of UDC-numbers.

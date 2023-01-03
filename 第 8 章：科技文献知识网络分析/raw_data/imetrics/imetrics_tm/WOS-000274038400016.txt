@@ -1,0 +1,1 @@
+I studied the distribution of articles and citations in journals between 1998 and 2007 according to an empirical function with two exponents. These variables showed good fit to a beta function with two exponents.

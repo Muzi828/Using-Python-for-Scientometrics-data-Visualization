@@ -1,0 +1,3 @@
+Consider a country's national output, measured by counting the number of authors from country c that collaborate in every paper in a bibliography. Depending on whether country c appears at least once in every paper, we are able to deduce the corresponding relationship between c's fractional score and its fraction of multinational papers to which c belongs.
+One of these models, a slowly decreasing concave function is similar to the relation observed by Nederhof and Moed(1) between the fractionated score of a country c and its fraction of multinational papers.
+The proof of the models developed here uses a stochastic property of weighting schemes, namely that the average fractional score of a country equals its total score.

@@ -1,0 +1,1 @@
+Metric models, i.e. formalisms describing relationships between indicators and latent variables, are discussed. In modern metric models, a latent is regarded as independent of the measuring person. It is suggested that this defect of metric models be avoided if the latent is assignment a priori by fixing a form of latent distribution.

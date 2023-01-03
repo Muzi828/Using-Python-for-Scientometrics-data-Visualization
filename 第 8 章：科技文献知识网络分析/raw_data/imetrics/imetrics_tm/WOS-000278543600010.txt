@@ -1,0 +1,1 @@
+In the present paper we give an overview over the opportunities of probabilistic models in scientometrics. Four examples from different topics are used to shed light on some important aspects of reliability and robustness of indicators based on stochastic models. Limitations and future tasks are discussed as well. (C) 2010 Elsevier Ltd. All rights reserved.

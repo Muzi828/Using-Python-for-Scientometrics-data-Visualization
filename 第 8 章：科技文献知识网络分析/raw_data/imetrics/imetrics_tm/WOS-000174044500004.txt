@@ -1,0 +1,9 @@
+Background: Citation analysis for evaluative purposes typically requires normalization against some control group of similar papers. Selection of this control group is an open question.
+Objectives: Gain a better understanding of control group requirements for credible normalization.
+Approach: Performed citation analysis on prior publications of two proposing research units, to help estimate team research quality. Compared citations of each unit's publications to citations received by thematically and temporally similar papers.
+Results: Identification of thematically similar papers was very complex and labor intensive, even with relatively few control papers selected.
+Conclusions: A credible citation analysis for determining performer or team quality should have the following components:
+- Multiple technical experts to average out individual bias and subjectivity;
+- A process for comparing performer or team output papers with a normalization base of similar papers;
+- A process for retrieving a substantial fraction of candidate normalization base papers;
+- Manual evaluation of many candidate normalization base papers to obtain high thematic similarity and statistical representation.

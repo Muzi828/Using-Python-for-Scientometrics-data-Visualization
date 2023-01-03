@@ -1,0 +1,1 @@
+Models and indicators characterizing the dynamics of national publication productivity distributions are presented.  The indicator triplet:  transience, renewal, and dynamism is used to describe the "physical shape" of a national scientific community.

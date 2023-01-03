@@ -1,0 +1,1 @@
+The structure measure by Kretschmer1 estimates the cooperation of a scientist.  It is generalized in such a way that it increases with respect to the cooperation strength with one of the collaborators.  An alternative to the hierarchical structure measure is proposed which is continuous in all cooperation strengths.

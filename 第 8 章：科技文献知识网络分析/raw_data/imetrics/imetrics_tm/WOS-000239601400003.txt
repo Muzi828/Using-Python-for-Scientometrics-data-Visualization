@@ -1,0 +1,12 @@
+The aims of this paper are to summarize Canadian government programs pertaining to research and development (R&D) and R&D support programs, and to propose a method for analyzing their socio-economic impact. The programs under investigation include:
+Canada Research Chairs
+Canada Millennium Scholarship Foundation
+Canada Foundation for Innovation
+Technology Partnerships Canada (TPC)
+Industrial Research Assistance Program (IRAP)
+Natural Sciences and Engineering Research Council (NSERC)
+Social Sciences and Humanities Research Council (SSHRC)
+Canada Institutes of Health Research (CIHR)
+Canadian Institute of Advanced Research (CIAR)
+Pre-Competitive Advanced Research Networks (PRECARN)
+Networks of Centres of Excellence.

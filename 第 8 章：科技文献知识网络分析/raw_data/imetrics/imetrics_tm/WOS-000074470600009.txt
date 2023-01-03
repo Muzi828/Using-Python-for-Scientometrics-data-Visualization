@@ -1,0 +1,1 @@
+This article derives a "literature variable exponential growth model" from Price's literature growth model F(t)=ae(bt). The method is replacing bt by a polynomial of degree n-1. Our research shows that the new model is more convincing than the former ones. Detailed calculation procedure, examples, parameter values and mean square errors are given.

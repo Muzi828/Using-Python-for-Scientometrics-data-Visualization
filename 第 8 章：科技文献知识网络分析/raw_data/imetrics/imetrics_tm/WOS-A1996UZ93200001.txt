@@ -1,0 +1,1 @@
+A statistical analysis is made of two data sets and it is found that the distribution of major scientific and technological achievements in terms of the age of those achievement makers is Weibull distribution. Pearson's chi(2) test results are satisfactory. This finding holds for different centuries, different nations and different disciplines.

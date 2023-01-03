@@ -1,0 +1,1 @@
+This article discusses the rationale for creating historiographs of scholarly topics using a new program called HistCite(TM), which produces a variety of analyses to aid the historian identify key events (papers), people (authors), and journals in a field. By creating a genealogic profile of the evolution, the program aids the scholar in evaluating the paradigm involved.

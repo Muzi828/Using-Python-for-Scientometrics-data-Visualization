@@ -1,0 +1,1 @@
+I discuss how, given a certain number of articles and citations of these articles, the h-index and the g-index are affected by the level of concentration of the citations. This offers the opportunity for a comparison between these 2 indices from a new perspective.

@@ -1,0 +1,1 @@
+In this paper, we provide a general definition of the Leimkuhler curve in terms of the theoretical cumulative distribution function. The definition applies to discrete, continuous and mixed random variables. Several examples are given to illustrate the use of the formula. (C) 2008 Elsevier Ltd. All rights reserved.

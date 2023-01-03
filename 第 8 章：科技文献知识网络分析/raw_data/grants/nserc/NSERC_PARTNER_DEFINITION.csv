@@ -1,0 +1,9 @@
+physical name, logical name EN, logical name FR
+Cle,Unique identifier,Identificateur unique
+PartOrganizationID,Organization number,NumÈro de l'organisation
+PartInstitution-…tablissement,Organization name,Nom de l'organisation
+ProvinceEN,Province (Eglish),Province (Anglais)
+ProvinceFR,Province (French),Province (FranÁais)
+CountryEN,Country (English),Pays (Anglais)
+CountryFR,Country (French),Pays (FranÁais)
+FiscalYear-Exercice financier,Fiscal Year,Exercice financier

@@ -1,0 +1,1 @@
+Usability evaluations and observations of users shopping at Amazon.com (http://www.amazon.com) revealed some interesting user behaviors. The mixed behavior patterns were leveraged to create an interface for an e-commerce product. The author describes some design practices for providing a scoped search interface for an e-commerce site.

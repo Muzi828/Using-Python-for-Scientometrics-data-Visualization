@@ -1,0 +1,1 @@
+A proposal is made so that the p-index (a composite performance index that can effectively combine size and quality of scientific papers) can be extended for bibliometric research assessment in cases where multiple authorship is taken into account. The fractional and harmonic p-indices are applied to some recent examples to show their usefulness.

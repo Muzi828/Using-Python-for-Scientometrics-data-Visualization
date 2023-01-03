@@ -1,0 +1,1 @@
+Using a power-law model, the two best-known topics in citation analysis, namely the impact factor and the Hirsch index, are unified into one relation (not a function). The validity of our model is, at least in a qualitative way, confirmed by real data.

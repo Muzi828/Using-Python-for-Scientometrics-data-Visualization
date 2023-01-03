@@ -1,0 +1,15 @@
+This paper deals with performance measures and performance indicators in the Impala electronic document ordering and delivery system for research libraries in Belgium and compares these with some international standards as, e.g., the ProLib/Pi study commissioned by the European Commission.
+Performance measures:
+Costs(clearinghouse principle)
+Number of ILL requests made to other libraries
+Number of ILL requests made to other libraries without success
+Number of ILL requests made to other libraries with success
+Number of ILL requests received from other libraries
+Number of ILL requests received from other libraries and not satisfied
+Number of ILL requests received from other libraries that were satisfied
+Frequently asked titles
+Performance indicators:
+Success rate
+Borrowing-lending ratio per library
+Response times, split into several segments of the ILL-procedure
+The article concludes with some indications for quality measurement in electronic document delivery where Impala will be able to measure the real supply times as perceived by the end user.

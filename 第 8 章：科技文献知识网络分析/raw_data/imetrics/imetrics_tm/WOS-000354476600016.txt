@@ -1,0 +1,1 @@
+We describe an unsupervised, language-independent spelling correction search system. We compare the proposed approach with unsupervised and supervised algorithms. The described approach consistently outperforms other unsupervised efforts and nearly matches the performance of a current state-of-the-art supervised approach.

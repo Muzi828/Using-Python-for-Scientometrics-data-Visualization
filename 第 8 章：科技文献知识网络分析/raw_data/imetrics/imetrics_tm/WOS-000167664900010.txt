@@ -1,0 +1,1 @@
+Based on a set of information science papers this study demonstrates that "all a.uthor" citation counts should be preferred when visualizing the structure of research fields. "First author" citation studies distort the picture in terms of most influential researchers, while the subfield structure tends to be just about the same for both methods.

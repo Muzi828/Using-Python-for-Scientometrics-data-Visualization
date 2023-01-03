@@ -1,0 +1,1 @@
+We propose a simple way to put in a common scale the h values of researchers working in different scientific ISI fields, so that the foreseeable misuse of this index for inter-areas F comparison might be prevented, or at least, alleviated.
