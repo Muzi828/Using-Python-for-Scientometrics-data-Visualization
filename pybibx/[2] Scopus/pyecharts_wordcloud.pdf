@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts-wordcloud.min.js"></script>
+
+</head>
+<body >
+    <div id="95591c34d3204e7fb99b7e1f5138a47a" class="chart-container" style="width:900px; height:500px; "></div>
+    <script>
+        var chart_95591c34d3204e7fb99b7e1f5138a47a = echarts.init(
+            document.getElementById('95591c34d3204e7fb99b7e1f5138a47a'), 'white', {renderer: 'canvas'});
+        var option_95591c34d3204e7fb99b7e1f5138a47a = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "color": [
+        "#5470c6",
+        "#91cc75",
+        "#fac858",
+        "#ee6666",
+        "#73c0de",
+        "#3ba272",
+        "#fc8452",
+        "#9a60b4",
+        "#ea7ccc"
+    ],
+    "series": [
+        {
+            "type": "wordCloud",
+            "shape": "diamond",
+            "rotationRange": [
+                0,
+                0
+            ],
+            "rotationStep": 45,
+            "girdSize": 20,
+            "sizeRange": [
+                20,
+                100
+            ],
+            "data": [
+                {
+                    "name": "electre",
+                    "value": 1.0,
+                    "textStyle": {
+                        "color": "rgb(27,95,17)"
+                    }
+                },
+                {
+                    "name": "decision",
+                    "value": 0.9294871794871795,
+                    "textStyle": {
+                        "color": "rgb(57,20,100)"
+                    }
+                },
+                {
+                    "name": "tri",
+                    "value": 0.9038461538461539,
+                    "textStyle": {
+                        "color": "rgb(21,135,3)"
+                    }
+                },
+                {
+                    "name": "criteria",
+                    "value": 0.6346153846153846,
+                    "textStyle": {
+                        "color": "rgb(123,48,6)"
+                    }
+                },
+                {
+                    "name": "analysis",
+                    "value": 0.5641025641025641,
+                    "textStyle": {
+                        "color": "rgb(125,95,149)"
+                    }
+                },
+                {
+                    "name": "multiple",
+                    "value": 0.36538461538461536,
+                    "textStyle": {
+                        "color": "rgb(68,90,155)"
+                    }
+                },
+                {
+                    "name": "multicriteria",
+                    "value": 0.3525641025641026,
+                    "textStyle": {
+                        "color": "rgb(47,115,5)"
+                    }
+                },
+                {
+                    "name": "multi",
+                    "value": 0.3333333333333333,
+                    "textStyle": {
+                        "color": "rgb(83,118,79)"
+                    }
+                },
+                {
+                    "name": "system",
+                    "value": 0.28205128205128205,
+                    "textStyle": {
+                        "color": "rgb(107,103,40)"
+                    }
+                },
+                {
+                    "name": "method",
+                    "value": 0.2692307692307692,
+                    "textStyle": {
+                        "color": "rgb(98,21,10)"
+                    }
+                },
+                {
+                    "name": "sorting",
+                    "value": 0.23717948717948717,
+                    "textStyle": {
+                        "color": "rgb(51,87,25)"
+                    }
+                },
+                {
+                    "name": "unknow",
+                    "value": 0.21794871794871795,
+                    "textStyle": {
+                        "color": "rgb(55,43,98)"
+                    }
+                },
+                {
+                    "name": "support",
+                    "value": 0.21794871794871795,
+                    "textStyle": {
+                        "color": "rgb(12,35,15)"
+                    }
+                },
+                {
+                    "name": "making",
+                    "value": 0.19230769230769232,
+                    "textStyle": {
+                        "color": "rgb(0,98,85)"
+                    }
+                },
+                {
+                    "name": "management",
+                    "value": 0.1794871794871795,
+                    "textStyle": {
+                        "color": "rgb(84,158,24)"
+                    }
+                },
+                {
+                    "name": "risk",
+                    "value": 0.15384615384615385,
+                    "textStyle": {
+                        "color": "rgb(117,149,28)"
+                    }
+                },
+                {
+                    "name": "classification",
+                    "value": 0.14743589743589744,
+                    "textStyle": {
+                        "color": "rgb(61,41,37)"
+                    }
+                },
+                {
+                    "name": "quality",
+                    "value": 0.1282051282051282,
+                    "textStyle": {
+                        "color": "rgb(136,64,40)"
+                    }
+                },
+                {
+                    "name": "preference",
+                    "value": 0.1282051282051282,
+                    "textStyle": {
+                        "color": "rgb(7,66,160)"
+                    }
+                },
+                {
+                    "name": "information",
+                    "value": 0.1282051282051282,
+                    "textStyle": {
+                        "color": "rgb(117,139,20)"
+                    }
+                },
+                {
+                    "name": "aiding",
+                    "value": 0.11538461538461539,
+                    "textStyle": {
+                        "color": "rgb(67,14,145)"
+                    }
+                },
+                {
+                    "name": "outranking",
+                    "value": 0.11538461538461539,
+                    "textStyle": {
+                        "color": "rgb(131,45,77)"
+                    }
+                },
+                {
+                    "name": "mcda",
+                    "value": 0.10897435897435898,
+                    "textStyle": {
+                        "color": "rgb(45,1,26)"
+                    }
+                },
+                {
+                    "name": "problem",
+                    "value": 0.10256410256410256,
+                    "textStyle": {
+                        "color": "rgb(76,152,93)"
+                    }
+                },
+                {
+                    "name": "aid",
+                    "value": 0.09615384615384616,
+                    "textStyle": {
+                        "color": "rgb(92,10,119)"
+                    }
+                },
+                {
+                    "name": "evaluation",
+                    "value": 0.08974358974358974,
+                    "textStyle": {
+                        "color": "rgb(46,54,112)"
+                    }
+                },
+                {
+                    "name": "assessment",
+                    "value": 0.08974358974358974,
+                    "textStyle": {
+                        "color": "rgb(3,84,118)"
+                    }
+                },
+                {
+                    "name": "c",
+                    "value": 0.08974358974358974,
+                    "textStyle": {
+                        "color": "rgb(130,144,114)"
+                    }
+                },
+                {
+                    "name": "model",
+                    "value": 0.08333333333333333,
+                    "textStyle": {
+                        "color": "rgb(138,76,21)"
+                    }
+                },
+                {
+                    "name": "supply",
+                    "value": 0.08333333333333333,
+                    "textStyle": {
+                        "color": "rgb(105,95,138)"
+                    }
+                },
+                {
+                    "name": "energy",
+                    "value": 0.08333333333333333,
+                    "textStyle": {
+                        "color": "rgb(69,103,101)"
+                    }
+                },
+                {
+                    "name": "service",
+                    "value": 0.07692307692307693,
+                    "textStyle": {
+                        "color": "rgb(124,78,100)"
+                    }
+                },
+                {
+                    "name": "sustainable",
+                    "value": 0.07692307692307693,
+                    "textStyle": {
+                        "color": "rgb(78,114,135)"
+                    }
+                },
+                {
+                    "name": "process",
+                    "value": 0.07692307692307693,
+                    "textStyle": {
+                        "color": "rgb(56,46,19)"
+                    }
+                },
+                {
+                    "name": "algorithm",
+                    "value": 0.07692307692307693,
+                    "textStyle": {
+                        "color": "rgb(125,103,154)"
+                    }
+                },
+                {
+                    "name": "group",
+                    "value": 0.07051282051282051,
+                    "textStyle": {
+                        "color": "rgb(72,137,95)"
+                    }
+                },
+                {
+                    "name": "supplier",
+                    "value": 0.07051282051282051,
+                    "textStyle": {
+                        "color": "rgb(154,8,5)"
+                    }
+                },
+                {
+                    "name": "nc",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(70,31,28)"
+                    }
+                },
+                {
+                    "name": "relation",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(127,158,106)"
+                    }
+                },
+                {
+                    "name": "robustness",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(95,90,142)"
+                    }
+                },
+                {
+                    "name": "development",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(49,15,47)"
+                    }
+                },
+                {
+                    "name": "approach",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(117,60,160)"
+                    }
+                },
+                {
+                    "name": "elicitation",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(159,15,81)"
+                    }
+                },
+                {
+                    "name": "data",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(137,29,66)"
+                    }
+                },
+                {
+                    "name": "chain",
+                    "value": 0.0641025641025641,
+                    "textStyle": {
+                        "color": "rgb(50,61,89)"
+                    }
+                },
+                {
+                    "name": "project",
+                    "value": 0.057692307692307696,
+                    "textStyle": {
+                        "color": "rgb(135,101,9)"
+                    }
+                },
+                {
+                    "name": "planning",
+                    "value": 0.057692307692307696,
+                    "textStyle": {
+                        "color": "rgb(58,92,115)"
+                    }
+                },
+                {
+                    "name": "mcdm",
+                    "value": 0.05128205128205128,
+                    "textStyle": {
+                        "color": "rgb(31,60,147)"
+                    }
+                },
+                {
+                    "name": "gis",
+                    "value": 0.05128205128205128,
+                    "textStyle": {
+                        "color": "rgb(52,31,16)"
+                    }
+                },
+                {
+                    "name": "maintenance",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(98,51,80)"
+                    }
+                },
+                {
+                    "name": "public",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(53,127,78)"
+                    }
+                },
+                {
+                    "name": "land",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(28,88,33)"
+                    }
+                },
+                {
+                    "name": "learning",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(13,73,119)"
+                    }
+                },
+                {
+                    "name": "attribute",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(64,85,56)"
+                    }
+                },
+                {
+                    "name": "optimization",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(85,17,46)"
+                    }
+                },
+                {
+                    "name": "water",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(156,66,89)"
+                    }
+                },
+                {
+                    "name": "efficiency",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(157,72,20)"
+                    }
+                },
+                {
+                    "name": "portfolio",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(156,21,35)"
+                    }
+                },
+                {
+                    "name": "performance",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(87,13,62)"
+                    }
+                },
+                {
+                    "name": "fuzzy",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(42,61,39)"
+                    }
+                },
+                {
+                    "name": "environmental",
+                    "value": 0.04487179487179487,
+                    "textStyle": {
+                        "color": "rgb(10,105,141)"
+                    }
+                },
+                {
+                    "name": "ahp",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(97,129,91)"
+                    }
+                },
+                {
+                    "name": "agriculture",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(92,133,120)"
+                    }
+                },
+                {
+                    "name": "disaggregation",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(87,141,53)"
+                    }
+                },
+                {
+                    "name": "theory",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(159,152,64)"
+                    }
+                },
+                {
+                    "name": "evolutionary",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(43,134,82)"
+                    }
+                },
+                {
+                    "name": "software",
+                    "value": 0.038461538461538464,
+                    "textStyle": {
+                        "color": "rgb(61,160,67)"
+                    }
+                },
+                {
+                    "name": "sensitivity",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(159,41,131)"
+                    }
+                },
+                {
+                    "name": "suitability",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(102,143,5)"
+                    }
+                },
+                {
+                    "name": "adaptive",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(47,91,100)"
+                    }
+                },
+                {
+                    "name": "rule",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(110,154,83)"
+                    }
+                },
+                {
+                    "name": "location",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(128,79,104)"
+                    }
+                },
+                {
+                    "name": "negotiation",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(103,55,34)"
+                    }
+                },
+                {
+                    "name": "selection",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(32,31,150)"
+                    }
+                },
+                {
+                    "name": "geographic",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(114,116,94)"
+                    }
+                },
+                {
+                    "name": "inference",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(66,92,63)"
+                    }
+                },
+                {
+                    "name": "procedure",
+                    "value": 0.03205128205128205,
+                    "textStyle": {
+                        "color": "rgb(4,24,10)"
+                    }
+                },
+                {
+                    "name": "indicators",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(41,123,113)"
+                    }
+                },
+                {
+                    "name": "construction",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(67,42,12)"
+                    }
+                },
+                {
+                    "name": "natural",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(37,8,30)"
+                    }
+                },
+                {
+                    "name": "simulation",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(32,40,157)"
+                    }
+                },
+                {
+                    "name": "human",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(138,98,67)"
+                    }
+                },
+                {
+                    "name": "sustainability",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(46,75,30)"
+                    }
+                },
+                {
+                    "name": "governance",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(144,2,42)"
+                    }
+                },
+                {
+                    "name": "urban",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(44,114,27)"
+                    }
+                },
+                {
+                    "name": "programming",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(53,120,86)"
+                    }
+                },
+                {
+                    "name": "hierarchy",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(143,74,100)"
+                    }
+                },
+                {
+                    "name": "solar",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(80,140,155)"
+                    }
+                },
+                {
+                    "name": "interval",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(147,55,24)"
+                    }
+                },
+                {
+                    "name": "ordinal",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(110,71,138)"
+                    }
+                },
+                {
+                    "name": "map",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(57,39,22)"
+                    }
+                },
+                {
+                    "name": "utility",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(41,1,156)"
+                    }
+                },
+                {
+                    "name": "topsis",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(20,37,151)"
+                    }
+                },
+                {
+                    "name": "education",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(12,90,89)"
+                    }
+                },
+                {
+                    "name": "valued",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(84,149,31)"
+                    }
+                },
+                {
+                    "name": "assignment",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(143,29,28)"
+                    }
+                },
+                {
+                    "name": "irrigation",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(11,107,45)"
+                    }
+                },
+                {
+                    "name": "application",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(150,48,99)"
+                    }
+                },
+                {
+                    "name": "modelling",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(36,110,83)"
+                    }
+                },
+                {
+                    "name": "impact",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(4,112,100)"
+                    }
+                },
+                {
+                    "name": "policy",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(70,14,40)"
+                    }
+                },
+                {
+                    "name": "linear",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(100,136,107)"
+                    }
+                },
+                {
+                    "name": "business",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(101,79,67)"
+                    }
+                },
+                {
+                    "name": "objective",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(119,108,117)"
+                    }
+                },
+                {
+                    "name": "dss",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(31,106,7)"
+                    }
+                },
+                {
+                    "name": "building",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(83,106,39)"
+                    }
+                },
+                {
+                    "name": "aggregation",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(138,157,52)"
+                    }
+                },
+                {
+                    "name": "innovation",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(135,78,130)"
+                    }
+                },
+                {
+                    "name": "measurement",
+                    "value": 0.02564102564102564,
+                    "textStyle": {
+                        "color": "rgb(25,39,77)"
+                    }
+                },
+                {
+                    "name": "gas",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(137,26,18)"
+                    }
+                },
+                {
+                    "name": "pipeline",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(36,24,9)"
+                    }
+                },
+                {
+                    "name": "fmeca",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(78,124,52)"
+                    }
+                },
+                {
+                    "name": "monte",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(106,153,123)"
+                    }
+                },
+                {
+                    "name": "carlo",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(37,3,138)"
+                    }
+                },
+                {
+                    "name": "modeling",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(4,80,42)"
+                    }
+                },
+                {
+                    "name": "enterprise",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(140,4,20)"
+                    }
+                },
+                {
+                    "name": "algeria",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(145,44,73)"
+                    }
+                },
+                {
+                    "name": "geographical",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(87,1,53)"
+                    }
+                },
+                {
+                    "name": "interactive",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(13,131,149)"
+                    }
+                },
+                {
+                    "name": "integration",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(54,156,83)"
+                    }
+                },
+                {
+                    "name": "b",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(141,156,54)"
+                    }
+                },
+                {
+                    "name": "distribution",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(11,38,13)"
+                    }
+                },
+                {
+                    "name": "smart",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(13,32,91)"
+                    }
+                },
+                {
+                    "name": "association",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(75,13,7)"
+                    }
+                },
+                {
+                    "name": "mining",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(66,153,47)"
+                    }
+                },
+                {
+                    "name": "alternative",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(19,131,75)"
+                    }
+                },
+                {
+                    "name": "implementation",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(51,66,56)"
+                    }
+                },
+                {
+                    "name": "heuristic",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(140,151,0)"
+                    }
+                },
+                {
+                    "name": "ii",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(81,53,98)"
+                    }
+                },
+                {
+                    "name": "credit",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(113,153,54)"
+                    }
+                },
+                {
+                    "name": "innovative",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(74,39,10)"
+                    }
+                },
+                {
+                    "name": "mobile",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(113,0,34)"
+                    }
+                },
+                {
+                    "name": "issues",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(82,93,104)"
+                    }
+                },
+                {
+                    "name": "conjoint",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(11,158,23)"
+                    }
+                },
+                {
+                    "name": "structuring",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(132,155,35)"
+                    }
+                },
+                {
+                    "name": "regulatory",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(89,43,23)"
+                    }
+                },
+                {
+                    "name": "economic",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(148,148,108)"
+                    }
+                },
+                {
+                    "name": "value",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(70,58,30)"
+                    }
+                },
+                {
+                    "name": "financial",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(147,46,53)"
+                    }
+                },
+                {
+                    "name": "forest",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(158,10,127)"
+                    }
+                },
+                {
+                    "name": "life",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(5,66,116)"
+                    }
+                },
+                {
+                    "name": "cycle",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(43,99,62)"
+                    }
+                },
+                {
+                    "name": "partial",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(76,124,12)"
+                    }
+                },
+                {
+                    "name": "index",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(91,135,149)"
+                    }
+                },
+                {
+                    "name": "use",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(63,71,28)"
+                    }
+                },
+                {
+                    "name": "total",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(91,84,29)"
+                    }
+                },
+                {
+                    "name": "strategic",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(85,14,14)"
+                    }
+                },
+                {
+                    "name": "farms",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(73,160,102)"
+                    }
+                },
+                {
+                    "name": "rating",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(23,154,129)"
+                    }
+                },
+                {
+                    "name": "iii",
+                    "value": 0.019230769230769232,
+                    "textStyle": {
+                        "color": "rgb(154,71,1)"
+                    }
+                }
+            ],
+            "drawOutOfBound": false,
+            "textStyle": {
+                "emphasis": {}
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [],
+            "selected": {},
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderWidth": 1,
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "WordCloud-shape-diamond",
+            "target": "blank",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ]
+};
+        chart_95591c34d3204e7fb99b7e1f5138a47a.setOption(option_95591c34d3204e7fb99b7e1f5138a47a);
+    </script>
+</body>
+</html>
